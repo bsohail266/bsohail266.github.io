@@ -521,7 +521,53 @@ if ('serviceWorker' in navigator) {
       setInterval(nextSlide, 4000);
     }
   });
-</script></head>
+</script><style>
+  /* 1. REMOVE BLACK GAP: Force the outer GoDaddy containers to shrink */
+  section[data-aid="HEADER_SECTION"], 
+  div[data-aid="HEADER_SLIDESHOW"],
+  #bs-1 {
+    min-height: auto !important;
+    height: auto !important;
+    padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
+    background-color: transparent !important;
+  }
+
+  /* 2. Fix the track height */
+  .carousel-track {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    height: 450px !important; /* Matches your image height */
+    min-height: 450px !important;
+    display: block !important;
+    position: relative;
+    overflow: hidden;
+    background-color: white; /* Matches your site background */
+  }
+
+  /* 3. Ensure the slides fill the space exactly */
+  .my-clean-slide {
+    display: none !important; 
+    width: 100% !important;
+    height: 100% !important;
+  }
+
+  .active-slide {
+    display: block !important;
+    opacity: 1 !important;
+  }
+
+  /* 4. The Image itself */
+  .my-clean-slide div[role="img"] {
+    display: block !important;
+    height: 450px !important;
+    width: 100% !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+  }
+</style></head>
 <body class="x x-fonts-archivo-black"><div id="layout-0-c-9-f-96-c-9-8301-467-e-af-67-a-1-d-8-e-62-e-010-c" class="layout layout-layout layout-layout-layout-10 locale-en-IN lang-en"><div data-ux="Page" id="page-344091" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div id="b0700d3a-3ca5-48f8-8925-c63be5f7fc7b" class="widget widget-header widget-header-header-9"><div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-344092" class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <div id="freemium-ad-344094"><div data-freemium-ad="true" style="overflow: hidden; width: 100%; z-index: 10000; position: fixed; left: 0px;">
   <style type="text/css">
     @font-face {
