@@ -454,47 +454,55 @@ if ('serviceWorker' in navigator) {
     to { opacity: 1; }
   }
 <style>
-  /* Force the container to be visible */
+  /* 1. The Container: Forced height and relative positioning */
   .carousel-track {
     list-style: none !important;
     padding: 0 !important;
     margin: 0 !important;
+    height: 450px !important;
     min-height: 450px !important;
     display: block !important;
-    position: relative;
+    position: relative; /* Essential for stacking slides */
     overflow: hidden;
+    background-color: #000; /* Dark background prevents white flash */
   }
 
-  /* Hide all slides and stop GoDaddy's 1-second vanish */
+  /* 2. The Slides: Stacked on top of each other */
   .my-clean-slide {
-    display: none !important; 
+    position: absolute; /* They all sit in the same spot */
+    top: 0;
+    left: 0;
     width: 100% !important;
-    opacity: 0;
-    transition: none !important; 
+    height: 100% !important;
+    opacity: 0; /* Invisible but still 'there' */
+    display: block !important; /* Keep them 'active' in the layout */
+    transition: opacity 0.8s ease-in-out !important; /* Smooth fade */
+    z-index: 1;
   }
 
-  /* Show only the active slide */
+  /* 3. The Active Slide: Fades in to the front */
   .active-slide {
-    display: block !important;
     opacity: 1 !important;
-    animation: simpleFade 0.8s forwards;
+    z-index: 2; /* Moves to the front layer */
   }
 
-  /* Ensure the images show up at the right size */
+  /* 4. The Images: Full width 'Cover' */
   .my-clean-slide div[role="img"] {
     display: block !important;
     height: 450px !important;
+    width: 100% !important;
     background-size: cover !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
   }
 
-  @keyframes simpleFade {
-    from { opacity: 0; }
-    to { opacity: 1; }
+  /* 5. Mobile Adjustment */
+  @media (max-width: 768px) {
+    .carousel-track, .my-clean-slide div[role="img"] {
+      height: 300px !important;
+    }
   }
 </style>
-
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // This looks for our new clean class name
