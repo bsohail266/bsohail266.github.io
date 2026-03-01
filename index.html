@@ -437,7 +437,49 @@ if ('serviceWorker' in navigator) {
       });
     }
   
-  </script><script crossorigin="Anonymous" src="./Body In White_files/bs-contact2-contact-form-35c1b650.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe2-subscribe-form-014a07de.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-_rollupPluginBabelHelpers-5804ec33(1).js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-data-aids-e16ec476.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-routes-192fdc43.js"></script><script crossorigin="Anonymous" src="./Body In White_files/Form-6710b59f.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe-form-db92f2b4.js"></script><script crossorigin="Anonymous" src="./Body In White_files/form-1fa99f0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptcha-loader-481e2d0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptchaTypes-ce199ba5.js"></script></head>
+  </script><script crossorigin="Anonymous" src="./Body In White_files/bs-contact2-contact-form-35c1b650.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe2-subscribe-form-014a07de.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-_rollupPluginBabelHelpers-5804ec33(1).js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-data-aids-e16ec476.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-routes-192fdc43.js"></script><script crossorigin="Anonymous" src="./Body In White_files/Form-6710b59f.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe-form-db92f2b4.js"></script><script crossorigin="Anonymous" src="./Body In White_files/form-1fa99f0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptcha-loader-481e2d0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptchaTypes-ce199ba5.js"></script><style>
+  /* This forces the images to stay visible and cycle */
+  .carousel-track li {
+    display: none !important; /* Hide all by default */
+    list-style-type: none;
+  }
+  
+  .carousel-track li.active-slide {
+    display: block !important; /* Show only the active one */
+    animation: fadeIn 1s;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    let index = 0;
+    const slides = document.querySelectorAll('.carousel-track li');
+
+    function nextSlide() {
+      // Remove active class from all
+      slides.forEach(s => s.classList.remove('active-slide'));
+      
+      // Increment index
+      index++;
+      if (index >= slides.length) { index = 0; }
+      
+      // Add active class to current
+      slides[index].classList.add('active-slide');
+    }
+
+    // Initialize first slide
+    if(slides.length > 0) {
+      slides[0].classList.add('active-slide');
+      // Change every 4 seconds
+      setInterval(nextSlide, 4000);
+    }
+  });
+</script></head>
 <body class="x x-fonts-archivo-black"><div id="layout-0-c-9-f-96-c-9-8301-467-e-af-67-a-1-d-8-e-62-e-010-c" class="layout layout-layout layout-layout-layout-10 locale-en-IN lang-en"><div data-ux="Page" id="page-344091" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div id="b0700d3a-3ca5-48f8-8925-c63be5f7fc7b" class="widget widget-header widget-header-header-9"><div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-344092" class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <div id="freemium-ad-344094"><div data-freemium-ad="true" style="overflow: hidden; width: 100%; z-index: 10000; position: fixed; left: 0px;">
   <style type="text/css">
     @font-face {
