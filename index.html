@@ -480,30 +480,45 @@ if ('serviceWorker' in navigator) {
     }
   });
 </script><style>
-  /* Fix for GitHub: Force the slider to have a height */
+  /* 1. Force the main container to show */
   .carousel-track {
-    min-height: 450px !important; /* Adjust this to fit your images */
+    display: block !important;
+    min-height: 450px !important; 
     position: relative;
-    list-style: none;
     padding: 0;
+    margin: 0;
+    list-style: none;
   }
+
+  /* 2. Hide all slides by default */
   .carousel-track li {
     display: none !important;
+    width: 100% !important;
   }
+
+  /* 3. Show the active slide and FORCE the height */
   .carousel-track li.active-slide {
     display: block !important;
-    animation: fadeIn 0.8s;
+    height: auto !important;
   }
-  /* Force the background images to show up */
+
+  /* 4. THE MAGIC FIX: Force the image div to be visible */
   .carousel-track li div[role="img"] {
-    height: 450px !important; 
+    display: block !important;
+    height: 450px !important; /* This stops the 'blank gap' */
+    width: 100% !important;
     background-size: contain !important;
     background-repeat: no-repeat !important;
     background-position: center !important;
+    opacity: 1 !important;
+    visibility: visible !important;
   }
-  @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-</style>
 
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+</style>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const slides = document.querySelectorAll('.carousel-track li');
