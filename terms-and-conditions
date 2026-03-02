@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms & Conditions | Body In White (BIW)</title>
+    <style>
+        :root { --primary-blue: #004a99; --text-grey: #333; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.7; color: var(--text-grey); max-width: 850px; margin: 0 auto; padding: 40px 20px; }
+        .content-box { border: 1px solid #eee; padding: 40px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); }
+        h1 { color: var(--primary-blue); border-bottom: 3px solid var(--primary-blue); padding-bottom: 10px; }
+        h2 { color: var(--primary-blue); margin-top: 30px; border-left: 5px solid var(--primary-blue); padding-left: 15px; }
+        .highlight { background-color: #f0f7ff; padding: 15px; border-radius: 5px; border: 1px left solid var(--primary-blue); }
+        footer { margin-top: 50px; text-align: center; font-size: 0.9em; color: #888; }
+    </style>
+</head>
+<body>
+
+<div class="content-box">
+    <h1>Terms and Conditions</h1>
+    <p><strong>Last Updated: March 2, 2026</strong></p>
+
+    <p>By accessing <strong>https://bodyinwhite.in</strong>, you agree to comply with these Terms. These rules apply to all visitors, engineers, and customers using our BIW news and digital asset services.</p>
+
+    <h2>1. License to Use</h2>
+    <p>We provide automotive news, technical blogs, and digital assets (CAD models/BIW designs):</p>
+    <ul>
+        <li><strong>Informational Content:</strong> You have a personal license to read and share our news updates with proper credit.</li>
+        <li><strong>Digital Assets:</strong> Purchased BIW designs are sold under a <strong>Limited Commercial License</strong>. You may use them for engineering projects but cannot resell or redistribute the raw files.</li>
+    </ul>
+
+    <h2>2. User Conduct & Prohibited Acts (IT Rules 2026)</h2>
+    <p>In accordance with the <strong>IT Amendment Rules 2026</strong>, you strictly agree NOT to:</p>
+    <ul>
+        <li>Upload or share <strong>Synthetically Generated Information (SGI)</strong> or deepfakes that impersonate officials or mislead the public regarding vehicle safety.</li>
+        <li>Use automated bots to scrape our technical engineering data.</li>
+        <li>Circulate misinformation that violates the <strong>Bharatiya Nyaya Sanhita (BNS) 2023</strong>.</li>
+    </ul>
+
+    <h2>3. Intellectual Property</h2>
+    <p>All original BIW diagrams, structural analyses, and blog text are the property of <strong>bodyinwhite.in</strong>. Third-party logos or news snippets from OEMs (Tesla, Tata Motors, etc.) are used for news reporting under "Fair Dealing" and remain the property of their respective owners.</p>
+
+    <h2>4. Mandatory Disclosures for AI Content</h2>
+    <p>If you contribute content to our platform, you <strong>must declare</strong> if any part of it is AI-generated. We reserve the right to embed permanent metadata for traceability as required by Indian law.</p>
+
+    <h2>5. Grievance Redressal & Takedowns</h2>
+    <div class="highlight">
+        <p><strong>3-Hour Takedown Rule:</strong> We comply with government orders to remove illegal or harmful content within 3 hours of notice. For general grievances:</p>
+        <strong>Grievance Officer:</strong> [Your Name/Admin]<br>
+        <strong>Email:</strong> admin@bodyinwhite.in<br>
+        <strong>Resolution:</strong> We acknowledge complaints within 24 hours and resolve them within 7-15 days.
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2026 Body In White (bodyinwhite.in)</p>
+</footer>
+
+</body>
+</html>
