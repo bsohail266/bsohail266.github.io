@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Legal Disclaimer | Body In White (BIW)</title>
+    <style>
+        :root { --danger-red: #cc0000; --text-grey: #333; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.7; color: var(--text-grey); max-width: 850px; margin: 0 auto; padding: 40px 20px; }
+        .disclaimer-box { border: 2px solid #eee; padding: 40px; border-radius: 8px; background-color: #fffafb; }
+        h1 { color: var(--danger-red); border-bottom: 3px solid var(--danger-red); padding-bottom: 10px; }
+        h2 { color: #444; margin-top: 30px; text-transform: uppercase; font-size: 1.1em; letter-spacing: 1px; }
+        .warning { color: var(--danger-red); font-weight: bold; border: 1px solid var(--danger-red); padding: 15px; margin-top: 20px; }
+        footer { margin-top: 50px; text-align: center; font-size: 0.9em; color: #888; }
+    </style>
+</head>
+<body>
+
+<div class="disclaimer-box">
+    <h1>Legal Disclaimer</h1>
+    
+    <h2>1. No Professional Engineering Advice</h2>
+    <p>The technical data regarding <strong>Body In White (BIW)</strong> structures, material grades (UHSS/Aluminum), and crash-load paths on this site is for <strong>educational and news purposes only</strong>.</p>
+    <div class="warning">
+        URGENT: Automotive engineering involves critical life-safety systems. Do not use information from this website as a substitute for professional engineering consultation or official OEM manufacturer specifications.
+    </div>
+
+    <h2>2. Accuracy of Engineering Data</h2>
+    <p>While we strive for precision, <strong>bodyinwhite.in</strong> makes no guarantees regarding the accuracy or completeness of any engineering data. Automotive standards (Bharat NCAP, Euro NCAP) are subject to rapid change. Use of this data for vehicle design is at your own risk.</p>
+
+    <h2>3. AI-Generated Content (SGI) Disclaimer</h2>
+    <p>In compliance with <strong>IT Rules 2026</strong>, please be advised that some technical visualizations, concept renders, or news summaries on this site may be <strong>Synthetically Generated Information (SGI)</strong>. These are for representational purposes and do not represent actual physical test results unless explicitly stated.</p>
+
+    <h2>4. External Links Liability</h2>
+    <p>We provide links to external automotive news channels and engineering sites. We do not endorse and are not responsible for the accuracy or safety of content found on external third-party websites.</p>
+
+    <h2>5. Limitation of Liability</h2>
+    <p>Under no circumstances shall <strong>Body In White</strong> or its owners be liable for any direct, indirect, or consequential loss or damage (including structural failure or financial loss) arising from the use of this website.</p>
+</div>
+
+<footer>
+    <p>&copy; 2026 Body In White (bodyinwhite.in)</p>
+</footer>
+
+</body>
+</html>
