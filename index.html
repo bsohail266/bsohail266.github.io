@@ -157,176 +157,52 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
       60% { transform: translateY(-20%); } 
       100% { opacity: 1; transform: translateY(0); }
     }</style>
-<style>.gd-ad-flex-parent {
-          animation-name: opacity-bounce; 
-          animation-duration: 800ms; 
-          animation-delay: 400ms; 
-          animation-fill-mode: forwards; 
-          animation-timing-function: ease; 
-          opacity: 0;</style>
-  <style>
-  .carousel-track {
-    /* ... your other settings ... */
-    background-color: #111 !important; /* Forces a dark background instead of white */
+<style>
+  /* THE VIEWPORT: This is your "Camera Lens" */
+  .carousel-viewport {
+    width: 100% !important;
+    height: 450px !important;
+    overflow: hidden !important; /* This hides the images waiting to slide in */
+    position: relative;
+    background: #000;
+    margin: 0 !important;
   }
 
-  /* Force the very first slide to be visible before JS even starts */
-  .my-clean-slide:first-child {
-    opacity: 1 !important;
-    z-index: 2;
+  /* THE TRACK: This is the "Film Roll" (images side-by-side) */
+  .carousel-track {
+    display: flex !important; /* This is the magic for horizontal lining */
+    width: 300% !important; /* Room for 3 images (100% each) */
+    height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+    /* Smooth "Autocar" sliding movement */
+    transition: transform 1.2s cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
+    will-change: transform;
+  }
+
+  /* EACH SLIDE: Exactly one screen wide */
+  .my-clean-slide {
+    width: 100vw !important;
+    height: 100% !important;
+    flex-shrink: 0 !important; /* Prevents images from squishing */
+  }
+
+  .my-clean-slide div[role="img"] {
+    width: 100%;
+    height: 100%;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+  }
+
+  /* Mobile Adjustment */
+  @media (max-width: 768px) {
+    .carousel-viewport, .my-clean-slide {
+      height: 300px !important;
+    }
   }
 </style>
-<style id="carousel-stylesheet">.carousel {
-  text-align: center;
-  position: relative;
-  opacity: 0;
-  margin: 0 auto;
-  transition: opacity 0.5s;
-}
-.carousel .carousel-container-inner {
-  margin: 0 auto;
-  position: relative;
-}
-.carousel .carousel-viewport {
-  overflow: hidden;
-  white-space: nowrap;
-  text-align: left;
-}
-.carousel .carousel-arrow-default {
-  border: 3px solid !important;
-  border-radius: 50%;
-  color: rgba(255, 255, 255, 0.9);
-  height: 32px;
-  width: 32px;
-  font-weight: 900;
-  background: rgba(0, 0, 0, 0.15);
-}
-.carousel .carousel-arrow {
-  position: absolute;
-  z-index: 1;
-  bottom: 23px;
-  padding: 0;
-  cursor: pointer;
-  border: none;
-}
-.carousel .carousel-arrow:focus {
-  outline: none;
-}
-.carousel .carousel-arrow:before {
-  font-size: 19px;
-  display: block;
-  margin-top: -2px;
-}
-.carousel .carousel-arrow:disabled {
-  cursor: not-allowed;
-  opacity: 0.5;
-}
-.carousel .carousel-left-arrow {
-  left: 23px;
-}
-.carousel .carousel-right-arrow {
-  right: 23px;
-}
-.carousel .carousel-left-arrow.carousel-arrow-default:before {
-  content: '<';
-  padding-right: 2px;
-}
-.carousel .carousel-right-arrow.carousel-arrow-default:before {
-  content: '>';
-  padding-left: 2px;
-}
-.carousel .carousel-top-arrow {
-  top: 75px;
-}
-.carousel .carousel-bottom-arrow {
-  bottom: 75px;
-}
-.carousel .carousel-top-arrow.carousel-arrow-default:before {
-  content: '\1431';
-  padding-bottom: 2px;
-}
-.carousel .carousel-bottom-arrow.carousel-arrow-default:before {
-  content: '\142F';
-  padding-top: 2px;
-}
-.carousel .carousel-track {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  touch-action: pan-y pinch-zoom;
-}
-.carousel .carousel-track .carousel-slide {
-  display: inline-block;
-  opacity: 0.7;
-  transition: opacity 0.5s ease-in-out;
-}
-.carousel .carousel-track .carousel-slide > * {
-  display: block;
-  white-space: normal;
-}
-.carousel .carousel-track .carousel-slide.carousel-slide-loading {
-  background: rgba(204, 204, 204, 0.7);
-}
-.carousel .carousel-track .carousel-slide.carousel-slide-fade {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-  opacity: 0;
-}
-.carousel .carousel-track .carousel-slide.carousel-slide-selected {
-  opacity: 1;
-  z-index: 1;
-}
-.carousel.loaded {
-  opacity: 1;
-}
-.carousel .carousel-dots {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: -30px;
-  text-align: center;
-}
-.carousel .carousel-dots li {
-  display: inline-block;
-}
-.carousel .carousel-dots button {
-  border: 0;
-  background: transparent;
-  font-size: 1.1em;
-  cursor: pointer;
-  color: #CCC;
-  padding-left: 6px;
-  padding-right: 6px;
-}
-.carousel .carousel-dots button.selected {
-  color: black;
-}
-.carousel .carousel-dots button:focus {
-  outline: none;
-}
-[dir="rtl"] .carousel .carousel-viewport {
-  text-align: right;
-}
-[dir="rtl"] .carousel .carousel-left-arrow {
-  left: unset;
-  right: 23px;
-}
-[dir="rtl"] .carousel .carousel-right-arrow {
-  right: unset;
-  left: 23px;
-}
-[dir="rtl"] .carousel .carousel-left-arrow.carousel-arrow-default:before {
-  padding-left: 2px;
-  padding-right: unset;
-}
-[dir="rtl"] .carousel .carousel-right-arrow.carousel-arrow-default:before {
-  padding-right: 2px;
-  padding-left: unset;
-}</style>
 <style>.grecaptcha-badge { visibility: hidden; }</style>
 <style>.page-inner { background-color: rgb(22, 22, 22); min-height: 100vh; }</style>
 <script type="text/javascript" async="" defer="" src="./Body In White_files/reamaze-push.js"></script><script type="text/javascript" async="" defer="" src="./Body In White_files/reamaze.js"></script><script>"use strict";
@@ -448,150 +324,64 @@ if ('serviceWorker' in navigator) {
       });
     }
   
-  </script><script crossorigin="Anonymous" src="./Body In White_files/bs-contact2-contact-form-35c1b650.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe2-subscribe-form-014a07de.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-_rollupPluginBabelHelpers-5804ec33(1).js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-data-aids-e16ec476.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-routes-192fdc43.js"></script><script crossorigin="Anonymous" src="./Body In White_files/Form-6710b59f.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe-form-db92f2b4.js"></script><script crossorigin="Anonymous" src="./Body In White_files/form-1fa99f0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptcha-loader-481e2d0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptchaTypes-ce199ba5.js"></script><style>
-  /* This forces the images to stay visible and cycle */
-  .carousel-track li {
-    display: none !important; /* Hide all by default */
-    list-style-type: none;
-  }
-  
-  .carousel-track li.active-slide {
-    display: block !important; /* Show only the active one */
-    animation: fadeIn 1s;
-  }
-
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
+  </script><script crossorigin="Anonymous" src="./Body In White_files/bs-contact2-contact-form-35c1b650.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe2-subscribe-form-014a07de.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-_rollupPluginBabelHelpers-5804ec33(1).js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-data-aids-e16ec476.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-routes-192fdc43.js"></script><script crossorigin="Anonymous" src="./Body In White_files/Form-6710b59f.js"></script><script crossorigin="Anonymous" src="./Body In White_files/bs-subscribe-form-db92f2b4.js"></script><script crossorigin="Anonymous" src="./Body In White_files/form-1fa99f0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptcha-loader-481e2d0a.js"></script><script crossorigin="Anonymous" src="./Body In White_files/recaptchaTypes-ce199ba5.js"></script>
 <style>
-  /* 1. The Container: Forced height and relative positioning */
-  .carousel-track {
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    height: 450px !important;
-    min-height: 450px !important;
-    display: block !important;
-    position: relative; /* Essential for stacking slides */
-    overflow: hidden;
-    background-color: #000; /* Dark background prevents white flash */
-  }
-
-  /* 2. The Slides: Stacked on top of each other */
-  .my-clean-slide {
-    position: absolute; /* They all sit in the same spot */
-    top: 0;
-    left: 0;
+  /* 1. THE VIEWPORT: The 'window' showing one image */
+  .carousel-viewport {
     width: 100% !important;
-    height: 100% !important;
-    opacity: 0; /* Invisible but still 'there' */
-    display: block !important; /* Keep them 'active' in the layout */
-    transition: opacity 0.8s ease-in-out !important; /* Smooth fade */
-    z-index: 1;
-  }
-
-  /* 3. The Active Slide: Fades in to the front */
-  .active-slide {
-    opacity: 1 !important;
-    z-index: 2; /* Moves to the front layer */
-  }
-
-  /* 4. The Images: Full width 'Cover' */
-  .my-clean-slide div[role="img"] {
-    display: block !important;
     height: 450px !important;
-    width: 100% !important;
-    background-size: cover !important;
-    background-repeat: no-repeat !important;
-    background-position: center !important;
-  }
-
-  /* 5. Mobile Adjustment */
-  @media (max-width: 768px) {
-    .carousel-track, .my-clean-slide div[role="img"] {
-      height: 300px !important;
-    }
-  }
-</style>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    // This looks for our new clean class name
-    const slides = document.querySelectorAll('.my-clean-slide');
-    let index = 0;
-
-    function nextSlide() {
-      if (slides.length === 0) return;
-      
-      // 1. Hide the current slide
-      slides[index].classList.remove('active-slide');
-      
-      // 2. Move to the next index
-      index = (index + 1) % slides.length;
-      
-      // 3. Show the new slide
-      slides[index].classList.add('active-slide');
-    }
-
-    if(slides.length > 0) {
-      // Set the first slide to active immediately
-      slides[0].classList.add('active-slide');
-      // Change image every 4 seconds
-      setInterval(nextSlide, 4000);
-    }
-  });
-</script><style>
-  /* 1. REMOVE BLACK GAP: Force the outer GoDaddy containers to shrink */
-  section[data-aid="HEADER_SECTION"], 
-  div[data-aid="HEADER_SLIDESHOW"],
-  #bs-1 {
-    min-height: auto !important;
-    height: auto !important;
-    padding-bottom: 0 !important;
-    margin-bottom: 0 !important;
-    background-color: transparent !important;
-  }
-
-  /* 2. Fix the track height */
-  .carousel-track {
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    height: 450px !important; /* Matches your image height */
-    min-height: 450px !important;
-    display: block !important;
+    overflow: hidden !important; 
     position: relative;
-    overflow: hidden;
-    background-color: white; /* Matches your site background */
+    background: #000;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
-  /* 3. Ensure the slides fill the space exactly */
-  .my-clean-slide {
-    display: none !important; 
-    width: 100% !important;
+  /* 2. THE TRACK: The long 'film roll' moving behind the window */
+  .carousel-track {
+    display: flex !important; /* Forces images to stay side-by-side */
+    width: 300% !important; /* Total width for 3 images */
     height: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    list-style: none !important;
+    /* The Autocar-style smooth transition */
+    transition: transform 1.2s cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
   }
 
-  .active-slide {
-    display: block !important;
-    opacity: 1 !important;
+  /* 3. EACH SLIDE: One full screen width */
+  .my-clean-slide {
+    display: block !important; 
+    width: 100vw !important; 
+    height: 100% !important;
+    flex-shrink: 0 !important; 
   }
 
-  /* 4. The Image itself */
   .my-clean-slide div[role="img"] {
-    display: block !important;
-    height: 450px !important;
-    width: 100% !important;
+    width: 100%;
+    height: 100%;
     background-size: cover !important;
-    background-repeat: no-repeat !important;
     background-position: center !important;
+    background-repeat: no-repeat !important;
   }
-</style><style>.carousel-track, .carousel-viewport, div[data-ux="HeaderMedia"] {
+
+  /* 4. GODADDY OVERRIDE: Remove any stray padding/margins */
+  .carousel-track, 
+  .carousel-viewport, 
+  div[data-ux="HeaderMedia"] {
     padding: 0 !important;
     margin: 0 !important;
     width: 100% !important;
     max-width: 100% !important;
-}</style><title>Body In White | Research to Aftermarket</title>
+  }
+
+  /* 5. MOBILE HEIGHT ADJUSTMENT */
+  @media (max-width: 768px) {
+    .carousel-viewport, .my-clean-slide { 
+      height: 300px !important; 
+    }
+  }
+</style><title>Body In White | Research to Aftermarket</title>
 <meta name="description" content="At Body In White Tech, we are passionate about serving the automotive enthusiasts with body structure news, features and engineering updates. Our team of experienced engineers is dedicated to providing top-notch information from R&D to Service of body structures and keeping your vehicle structural knowledge up to date with latest changes and trends.">
 <meta property="og:title" content="Body In White | Research to Aftermarket">
 <meta property="og:description" content="The latest updates and insights from the automotive world.">
@@ -1472,4 +1262,28 @@ if ('serviceWorker' in navigator) {
     </svg>
     <span style="font-weight: 600;">Chat with Us</span>
 </a>
-</body></html>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const track = document.querySelector('.carousel-track');
+    const slides = document.querySelectorAll('.my-clean-slide');
+    let index = 0;
+
+    if (track && slides.length > 0) {
+      function moveSlider() {
+        index++;
+        
+        // If we reach the end, jump back to the first image
+        if (index >= slides.length) {
+          index = 0;
+        }
+
+        // Shift the entire film strip left by 100% of the screen width
+        const shiftValue = index * 100;
+        track.style.transform = `translateX(-${shiftValue}vw)`;
+      }
+
+      // Slide every 5 seconds (5000ms)
+      setInterval(moveSlider, 5000);
+    }
+  });
+</script></body></html>
