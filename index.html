@@ -228,44 +228,31 @@ header, nav, [data-aid="NAVBAR_SECTION"] {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important;
 }    
-
-/* 1. FORCE COLLAPSE GODADDY WRAPPERS */
-/* This targets the invisible 'glue' GoDaddy uses between sections */
-[data-aid="HEADER_SECTION"], 
-[data-aid="NAVBAR_SECTION"],
+/* TARGET THE NAVBAR HEIGHT & PADDING */
 header, 
-nav {
-    margin-bottom: 0 !important;
+nav, 
+[data-aid="NAVBAR_SECTION"], 
+[data-ux="Navbar"],
+.navbar-container {
+    min-height: 0 !important;   /* Removes forced minimum height */
+    height: auto !important;     /* Lets it shrink to the text size */
+    padding-bottom: 0 !important; /* Removes bottom internal spacing */
+    margin-bottom: 0 !important;  /* Removes external bottom spacing */
+}
+
+/* TARGET THE LOGO/TEXT WRAPPER INSIDE THE HEADER */
+[data-aid="NAVBAR_BRAND_RENDER"], 
+[data-ux="NavbarBrand"] {
     padding-bottom: 0 !important;
+    margin-bottom: 0 !important;
 }
 
-/* This targets the top of your slideshow section */
-[data-aid="HEADER_SLIDESHOW"],
-#bs-1 {
+/* THE "GAP CLOSER" - BRING THE SLIDER UP */
+section[data-aid="HEADER_SECTION"] + div,
+[data-aid="HEADER_SLIDESHOW"] {
     margin-top: 0 !important;
-    padding-top: 0 !important;
-}
-
-/* 2. THE GAP-KILLER FOR THE VIEWPORT */
-.carousel-viewport {
-    width: 100% !important;
-    height: 450px !important;
-    overflow: hidden !important; 
     position: relative;
-    background: transparent !important; /* Changed from #000 to see if black is coming from here */
-    margin: 0 !important;
-    padding: 0 !important;
-    display: block !important;
-    line-height: 0 !important; /* Prevents text-line gaps */
-    font-size: 0 !important;
-}
-
-/* 3. ENSURE TRACK ALIGNMENT */
-.carousel-track {
-    display: flex !important;
-    align-items: flex-start !important; /* Forces images to the top edge */
-    margin: 0 !important;
-    padding: 0 !important;
+    top: 0;
 }   
   }
 </style>
