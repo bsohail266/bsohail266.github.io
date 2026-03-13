@@ -223,6 +223,11 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
       height: 300px !important;
       min-height: 300px !important;
     }
+/* Kill the gap specifically coming from the navigation bar above */
+header, nav, [data-aid="NAVBAR_SECTION"] {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}    
   }
 </style>
 <style>.grecaptcha-badge { visibility: hidden; }</style>
