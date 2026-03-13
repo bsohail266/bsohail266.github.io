@@ -179,6 +179,10 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
     background: #000;
     margin: 0 !important;
     padding: 0 !important;
+    /* ADD THESE TWO LINES */
+    line-height: 0 !important; 
+    font-size: 0 !important;
+    display: block !important;
   }
 
   /* 3. THE TRACK: The 'film roll' */
@@ -189,9 +193,10 @@ SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
     margin: 0 !important;
     padding: 0 !important;
     list-style: none !important;
+    /* ADD THIS LINE to ensure items align perfectly to the top */
+    align-items: flex-start !important; 
     transition: transform 1.2s cubic-bezier(0.45, 0.05, 0.55, 0.95) !important;
   }
-
   /* 4. EACH SLIDE */
   .my-clean-slide {
     display: block !important; 
