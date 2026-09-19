@@ -2,23 +2,16 @@
   "biw_news": [
     {
       "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
-      "summary": "Delays in Volkswagen Group's Scalable Systems Platform (SSP) directly impact the implementation timeline for next-generation EV body architectures and unified chassis integration across brands. The setback forces extended production lifecycles for current structural platforms while postponing standardized cell-to-body manufacturing strategies.",
+      "summary": "Delays in Volkswagen's Scalable Systems Platform (SSP) directly impact the structural floorpan architecture and battery enclosure design for Audi's upcoming EV lineup. The postponement highlights technical challenges in engineering unified, multi-segment Body-in-White platforms across diverse vehicle classes.",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Gas Prices Are Up, And So Are EV Sales",
-      "summary": "Rising EV adoption continues to drive high-volume production of dedicated electric vehicle architectures, such as Tesla's Model Y structural battery body design. Increased market demand incentivizes further tooling investment in megacasting and multi-material joining technologies across body-in-white lines.",
-      "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
-      "image_url": "https://cdn.motor1.com/images/mgl/1Z2yMM/s3/tesla-model-y-standard.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "For The First Time In Six Years, Ford Won't Win North American Truck Of The Year",
-      "summary": "The 2027 NACTOY truck shortlist highlights competition among body-on-frame and EV truck structural designs across competing OEM platforms. Key engineering differentiators include high-strength steel frame durability, cab crashworthiness performance, and lightweight multi-material box construction.",
-      "url": "https://www.motor1.com/news/808764/2027-nactoy-truck-year-shortlist/",
-      "image_url": "https://cdn.motor1.com/images/mgl/wlk3BR/s3/2027-ford-f-150-lariat.jpg",
+      "title": "Maserati’s Next Electric Cars Could Be A Large GT And SUV: Report",
+      "summary": "Maserati's shift toward collaborative EV platform development requires adapting Body-in-White layouts to integrate multi-partner structural components. Engineers must align partner floorpan and battery structure designs with Maserati's strict crash load path and torsional rigidity requirements.",
+      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
+      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
       "category": "Structural Engineering"
     }
   ]
