@@ -2,14 +2,14 @@
   "biw_news": [
     {
       "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
-      "summary": "Delays in Volkswagen's Scalable Systems Platform (SSP) directly impact the structural floorpan architecture and battery enclosure design for Audi's upcoming EV lineup. The postponement highlights technical challenges in engineering unified, multi-segment Body-in-White platforms across diverse vehicle classes.",
+      "summary": "The delay of Volkswagen's Scalable Systems Platform (SSP) directly impacts Audi's body-in-white strategy and structural architecture rollout for upcoming EVs. Structural engineers must adjust modular floor pan hardpoints, battery enclosure integration, and crash load path designs tied to the unified platform.",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
       "category": "Structural Engineering"
     },
     {
       "title": "Maserati’s Next Electric Cars Could Be A Large GT And SUV: Report",
-      "summary": "Maserati's shift toward collaborative EV platform development requires adapting Body-in-White layouts to integrate multi-partner structural components. Engineers must align partner floorpan and battery structure designs with Maserati's strict crash load path and torsional rigidity requirements.",
+      "summary": "Maserati's upcoming electric GT and SUV models leverage shared EV architectures across international assembly partnerships. Structural engineers will focus on body-in-white tolerance management, multi-material joining strategies, and torsional rigidity optimization for the large-format platforms.",
       "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
       "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
       "category": "Structural Engineering"
