@@ -29,8 +29,9 @@ RSS_FEEDS = [
     "https://auto.economictimes.indiatimes.com/rss/topstories",
     "https://www.carsuk.net/feed/",
     "https://group.mercedes-benz.com/en/",
-    "https://www.bmwgroup.com/en/company.html"
-    "https://www.tatamotors.com"
+    "https://www.bmwgroup.com/en/company.html",
+    "https://www.tatamotors.com",
+    "https://www.mahindra.com/our-business/automotive"
 ]
 
 # 6 distinct, high-quality fallback images related to Body in White & vehicle structures
