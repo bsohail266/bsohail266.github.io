@@ -68,23 +68,27 @@ def fetch_rss_articles():
 
 def summarize_with_gemini(articles):
     prompt = f"""
-    You are an automotive structural engineering editor for bodyinwhite.in.
-    Analyze the following list of raw automotive news articles and select/curate EXACTLY 6 articles focusing on or related to Body in White (BIW), lightweight materials, EV architecture, structural battery integration, giga-casting, crash safety, or general automotive platform engineering.
+    You are an automotive engineering editor for bodyinwhite.in.
+    Analyze the following list of raw automotive news articles and select EXACTLY 6 articles.
+    
+    Prioritize topics related to Body in White (BIW), lightweight structures, EV platforms, battery integration, manufacturing, or crash safety. If fewer than 6 strictly BIW articles exist, include broader automotive technology and new vehicle platform announcements to reach EXACTLY 6 articles.
 
     For each of the 6 selected items, retain its original `image_url` field from the input provided.
 
-    Return EXACTLY a valid JSON object matching this schema:
+    Return EXACTLY a valid JSON object matching this schema without markdown code blocks:
     {{
       "biw_news": [
         {{
-          "title": "Concise Technical Title (Card 1)",
+          "title": "Concise Technical Title",
           "url": "Article URL",
-          "summary": "2-3 sentence technical summary focusing on structural/BIW impact.",
-          "image_url": "Original Image URL"
-        }},
-        ... 5 more items for Cards 2 through 6 ...
+          "summary": "2-3 sentence summary focusing on structural or automotive engineering impact.",
+          "image_url": "Original Image URL",
+          "category": "Structural Engineering"
+        }}
       ]
     }}
+
+    CRITICAL INSTRUCTION: You MUST return EXACTLY 6 items in the `biw_news` array.
 
     Raw Articles Input:
     {json.dumps(articles, indent=2)}
