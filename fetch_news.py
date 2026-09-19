@@ -49,8 +49,11 @@ def extract_image_url(entry):
 
 def fetch_rss_articles():
     collected_items = []
+    # Using a modern Browser User-Agent to bypass 403 Forbidden blocks
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5"
     }
 
     for url in RSS_FEEDS:
@@ -61,7 +64,7 @@ def fetch_rss_articles():
             parsed = feedparser.parse(response.content)
             print(f"Fetched {len(parsed.entries)} entries from {url}")
 
-            # Grab top 10 items per feed to guarantee enough material for 6 cards
+            # Grab top 10 items per feed
             for entry in parsed.entries[:10]:
                 img_url = extract_image_url(entry)
                 collected_items.append({
