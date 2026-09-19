@@ -20,18 +20,19 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install Python Dependencies
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install google-genai requests beautifulsoup4 feedparser
+          pip install google-genai feedparser requests beautifulsoup4
 
       - name: Run news generation script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python bodyinwhite.in/fetch_news.py  # Adjusted path if fetch_news.py is in the subfolder
+          GEMINI_MODEL: gemini-2.5-flash
+        run: python bodyinwhite.in/fetch_news.py
 
       - name: Commit and push news update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated update: BIW news feeds [skip ci]"
-          file_pattern: "bodyinwhite.in/news.json"  # Points directly to the subfolder
+          file_pattern: "bodyinwhite.in/news.json"
