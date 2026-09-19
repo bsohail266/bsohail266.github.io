@@ -10,9 +10,9 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Default to gemini-2.5-flash or environment variable
-PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-FALLBACK_MODEL = "gemini-2.0-flash"
+# Default to gemini-3.6-flash with gemini-2.5-flash as backup
+PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
+FALLBACK_MODEL = "gemini-2.5-flash"
 
 RSS_FEEDS = [
     "https://www.autoblog.com/rss.xml",
@@ -73,7 +73,7 @@ def summarize_with_gemini(items):
             contents=prompt
         )
     except Exception as exc:
-        print(f"Model {PRIMARY_MODEL} failed ({exc}). Retrying with {FALLBACK_MODEL}...")
+        print(f"Model '{PRIMARY_MODEL}' failed ({exc}). Retrying with '{FALLBACK_MODEL}'...")
         response = client.models.generate_content(
             model=FALLBACK_MODEL,
             contents=prompt
