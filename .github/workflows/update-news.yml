@@ -33,7 +33,7 @@ jobs:
       - name: Run news generation script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.5-flash
+          GEMINI_MODEL: gemini-3.6-flash
         run: python fetch_news.py
 
       - name: Commit and push news update
