@@ -24,52 +24,61 @@ RSS_FEEDS = [
     "https://www.carsuk.net/feed/"
 ]
 
-def extract_image_url(entry):
-    """Extract lead image URL from media tags or enclosures in RSS entries."""
+import re
+
+# 6 distinct, high-quality fallback images related to Body in White & vehicle structures
+BIW_FALLBACK_IMAGES = [
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80", # Sports coupe chassis
+    "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80", # Industrial laser welding
+    "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80", # Electric vehicle drivetrain
+    "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80", # Automotive body assembly
+    "https://images.unsplash.com/photo-1558441719-aa34ff529280?auto=format&fit=crop&w=800&q=80", # Structural battery platform
+    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=800&q=80"  # EV battery / aluminum chassis
+]
+
+def clean_url(url):
+    """Ensure image URLs are absolute and well-formed."""
+    if not url:
+        return None
+    url = url.strip()
+    if url.startswith("//"):
+        return "https:" + url
+    if url.startswith("http://") or url.startswith("https://"):
+        return url
+    return None
+
+def extract_image_url(entry, index=0):
+    """Extract lead image from RSS entry tags, HTML content, or select a unique fallback."""
+    # 1. Try RSS Media Content tags
     if hasattr(entry, 'media_content') and entry.media_content:
         for media in entry.media_content:
-            if media.get('medium') == 'image' or media.get('type', '').startswith('image/'):
-                return media.get('url')
-            if 'url' in media:
-                return media.get('url')
+            url = clean_url(media.get('url'))
+            if url:
+                return url
 
+    # 2. Try RSS Enclosures
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image/'):
-                return enc.get('href')
+                url = clean_url(enc.get('href'))
+                if url:
+                    return url
 
-    return "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80"
+    # 3. Try parsing <img> tag from HTML description/summary content
+    content_to_search = ""
+    if hasattr(entry, 'summary'):
+        content_to_search += entry.summary
+    if hasattr(entry, 'description'):
+        content_to_search += entry.description
 
-def fetch_rss_articles():
-    collected_items = []
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5"
-    }
+    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content_to_search, re.IGNORECASE)
+    if img_match:
+        url = clean_url(img_match.group(1))
+        if url and not url.endswith('.gif'): # Skip tracking pixels
+            return url
 
-    for url in RSS_FEEDS:
-        try:
-            response = requests.get(url, headers=headers, timeout=15)
-            response.raise_for_status()
-            
-            parsed = feedparser.parse(response.content)
-            print(f"Fetched {len(parsed.entries)} entries from {url}")
-
-            for entry in parsed.entries[:10]:
-                img_url = extract_image_url(entry)
-                collected_items.append({
-                    "title": getattr(entry, 'title', ''),
-                    "url": getattr(entry, 'link', ''),
-                    "summary": getattr(entry, 'summary', ''),
-                    "image_url": img_url
-                })
-        except Exception as exc:
-            print(f"Skipping feed {url}: {exc}")
-            continue
-
-    print(f"Total articles collected: {len(collected_items)}")
-    return collected_items
+    # 4. Fallback to a unique engineering image per slot
+    return BIW_FALLBACK_IMAGES[index % len(BIW_FALLBACK_IMAGES)]
 
 def summarize_with_gemini(articles):
     prompt = f"""
