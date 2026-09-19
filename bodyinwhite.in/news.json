@@ -1,44 +1,44 @@
 {
   "biw_news": [
     {
-      "title": "VW Group Delays SSP Platform Rollout, Impacting Next-Gen Audi A4 e-tron",
+      "title": "Audi A4 e-tron Delayed Amid VW SSP Platform Setbacks",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Volkswagen Group has pushed back the launch of its next-generation Scalable Systems Platform (SSP) production target to 2029. The delay directly impacts Audi's unified EV body engineering and architecture standardization across future luxury segment vehicles.",
+      "summary": "Audi has pushed production of the electric A4 e-tron to 2029 due to ongoing delays in Volkswagen Group's next-generation Scalable Systems Platform (SSP). The delay highlights architectural challenges in unifying software and structural platform components across the group's future EV line-up.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "category": "Platform Architecture"
+      "category": "EV Platforms"
     },
     {
-      "title": "McLaren Prepares New Multi-Material Architecture and SUV Platform",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/mclaren-retire-artura-gts-and-750s-next-two-years",
-      "summary": "McLaren plans to retire its current mid-engine model lineup by 2028 to make way for next-generation sports car and SUV platforms. The roadmap highlights evolving carbon-fiber tub engineering and flexible multi-material structural packaging.",
-      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+      "title": "Aston Martin DB12 S Focuses on Structural Weight Reduction",
+      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
+      "summary": "The new Aston Martin DB12 S flagship Super Tourer reduces overall curb weight by up to 50kg compared to the standard model while optimizing chassis stiffness. Engineering updates focus on sharper dynamic responses and lightweight component integration.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg?itok=xiHO0P9L",
       "category": "Lightweight Structures"
     },
     {
-      "title": "Volvo Standardizes SPA2 and SPA3 Platforms for 13 New Global Models",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-primes-saloons-and-estates-13-model-blitz-2030",
-      "summary": "Volvo announced a 13-model expansion anchored by its SPA2 and SPA3 modular architectures. The platform strategy allows flexible structural integration for BEV, PHEV, and HEV drivetrains across both low- and high-body vehicle silhouettes.",
-      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
-      "category": "Modular Platforms"
+      "title": "VW Mission Efficiency Concept Explores Extreme Lightweight EV Design",
+      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
+      "summary": "Volkswagen has unveiled the Mission Efficiency concept, drawing architectural inspiration from the ultra-lightweight 2013 XL1. Based on an optimized ID.Polo EV platform, the vehicle prioritizes radical aerodynamic drag reduction and structural efficiency.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Stellantis Demonstrates Multi-Energy Flexibility on STLA Large Platform",
-      "url": "https://www.autocar.co.uk/car-news/features/fixing-ev-error-straight-six-dodge-charger-saves-muscle-car",
-      "summary": "The new Dodge Charger showcases the structural versatility of the STLA Large platform, engineered to accommodate both battery-electric systems and internal combustion inline-six engines. The shared body-in-white structure demonstrates multi-powertrain chassis integration.",
-      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+      "title": "Maserati Leverages Joint Manufacturing Strategy for Next EV Architecture",
+      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
+      "summary": "Maserati is restructuring its electric vehicle plans by partnering with JAC for manufacturing and integrating advanced electric architecture for upcoming large GT and SUV models. Final structural assembly and vehicle tuning will take place in Italy to retain brand characteristics.",
+      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
+      "category": "Manufacturing"
+    },
+    {
+      "title": "Volvo Announces Major Product Strategy Spanning 13 Models by 2030",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-primes-saloons-and-estates-13-model-blitz-2030",
+      "summary": "Volvo has outlined an extensive multi-model platform rollout involving 13 new vehicles, encompassing saloons, estates, and SUVs. The product strategy relies on modular platform architectures supporting both advanced hybrid and pure-electric powertrains.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo_render_2026web.jpg?itok=fntCiMXF",
       "category": "Vehicle Architecture"
     },
     {
-      "title": "VW Mission Efficiency Concept Explores Lightweight Aero-Driven Body Design",
-      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
-      "summary": "Volkswagen unveiled the Mission Efficiency concept, combining ultra-low aerodynamic drag body principles from the historic XL1 with modern EV floorpans. The development underscores structural weight optimization to extend battery range.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
-      "category": "Lightweight Structures"
-    },
-    {
-      "title": "Audi Revives A2 Lineage with High-Efficiency Compact EV Architecture",
+      "title": "Audi Prepares Lightweight Electric A2 e-tron Compact Platform",
       "url": "https://www.carsuk.net/electric-audi-a2-e-tron-promises-up-to-400-mile-range-and-prices-from-32k/",
-      "summary": "Audi's upcoming A2 e-tron revisits the lightweight ethos of the original Spaceframe A2 using modern compact electric vehicle platform engineering. The design focuses on body efficiency and dense battery packaging to deliver up to 400 miles of range.",
+      "summary": "Audi is reviving the A2 nameplate with the new electric A2 e-tron, referencing the spaceframe efficiency heritage of the original model. The new compact EV targets up to 400 miles of range through optimized platform packaging and high-density battery integration.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Audi-A2-e-tron-Front-W-590x337.webp",
       "category": "EV Platforms"
     }
