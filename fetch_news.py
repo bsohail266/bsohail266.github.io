@@ -33,8 +33,8 @@ def extract_image_url(entry):
             if enc.get('type', '').startswith('image/'):
                 return enc.get('href')
 
-    # Fallback image if the feed item doesn't contain a media tag
-    return "Revolution-Body-Battery-Engineering.jpg"
+    # Remote fallback image if no media tag exists in the feed entry
+    return "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80"
 
 def fetch_rss_articles():
     collected_items = []
@@ -77,11 +77,13 @@ def summarize_with_gemini(items):
           "title": "Article Title",
           "summary": "2-sentence engineering summary focused on BIW, materials, structural design, or joining.",
           "url": "Original URL",
-          "image_url": "Image URL from input data",
+          "image_url": "EXACT image_url provided in input data",
           "category": "Structural Engineering"
         }}
       ]
     }}
+
+    CRITICAL INSTRUCTION: You MUST include the exact 'image_url' string from each input item in your returned JSON objects.
 
     Articles to analyze:
     {json.dumps(items, ensure_ascii=False)}
