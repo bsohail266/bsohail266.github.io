@@ -30,6 +30,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python fetch_news.py
 
+      - name: Verify generated files
+        run: ls -la
+
       - name: Commit and push news update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
