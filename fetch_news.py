@@ -10,9 +10,9 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Updated active model names
+Production models supported on all API keys
 PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-FALLBACK_MODEL = "gemini-2.5-pro"
+FALLBACK_MODEL = "gemini-2.0-flash"
 
 RSS_FEEDS = [
     # General Automotive & High-Volume Tech News
