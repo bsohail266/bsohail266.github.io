@@ -33,7 +33,7 @@ def extract_image_url(entry):
             if enc.get('type', '').startswith('image/'):
                 return enc.get('href')
 
-    # Remote fallback image if no media tag exists in the feed entry
+    # Fallback image if no media tag exists in the feed entry
     return "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80"
 
 def fetch_rss_articles():
@@ -50,7 +50,8 @@ def fetch_rss_articles():
             parsed = feedparser.parse(response.content)
             print(f"Fetched {len(parsed.entries)} entries from {url}")
 
-            for entry in parsed.entries[:5]:
+            # Grab top 10 items per feed to guarantee enough material for 6 cards
+            for entry in parsed.entries[:10]:
                 img_url = extract_image_url(entry)
                 collected_items.append({
                     "title": getattr(entry, 'title', ''),
@@ -65,6 +66,56 @@ def fetch_rss_articles():
     print(f"Total articles collected: {len(collected_items)}")
     return collected_items
 
+def summarize_with_gemini(articles):
+    prompt = f"""
+    You are an automotive structural engineering editor for bodyinwhite.in.
+    Analyze the following list of raw automotive news articles and select/curate EXACTLY 6 articles focusing on or related to Body in White (BIW), lightweight materials, EV architecture, structural battery integration, giga-casting, crash safety, or general automotive platform engineering.
+
+    For each of the 6 selected items, retain its original `image_url` field from the input provided.
+
+    Return EXACTLY a valid JSON object matching this schema:
+    {{
+      "biw_news": [
+        {{
+          "title": "Concise Technical Title (Card 1)",
+          "url": "Article URL",
+          "summary": "2-3 sentence technical summary focusing on structural/BIW impact.",
+          "image_url": "Original Image URL"
+        }},
+        ... 5 more items for Cards 2 through 6 ...
+      ]
+    }}
+
+    Raw Articles Input:
+    {json.dumps(articles, indent=2)}
+    """
+
+    for model in [PRIMARY_MODEL, FALLBACK_MODEL]:
+        try:
+            print(f"Generating 6 BIW news items with model: {model}")
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config={"response_mime_type": "application/json"}
+            )
+            return json.loads(response.text)
+        except Exception as e:
+            print(f"Model {model} failed: {e}")
+
+    raise RuntimeError("All Gemini model attempts failed.")
+
+if __name__ == "__main__":
+    raw_articles = fetch_rss_articles()
+    if not raw_articles:
+        print("No articles fetched from RSS feeds.")
+        exit(1)
+
+    news_data = summarize_with_gemini(raw_articles)
+
+    with open("news.json", "w", encoding="utf-8") as f:
+        json.dump(news_data, f, indent=2)
+
+    print("Successfully generated news.json with 6 cards.")
 def summarize_with_gemini(items):
     prompt = f"""
     You are an expert Body in White (BIW) structural engineer.
