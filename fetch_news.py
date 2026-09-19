@@ -1,6 +1,7 @@
 import os
 import json
 import re
+import time
 import requests
 import feedparser
 from google import genai
@@ -11,9 +12,13 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Production models supported on standard API keys
-PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
-FALLBACK_MODEL = "gemini-2.0-flash"
+# Cascade list including 3.6-flash with reliable production fallbacks
+MODEL_CASCADES = [
+    "gemini-3.6-flash",
+    os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
+    "gemini-1.5-flash",
+    "gemini-1.5-pro"
+]
 
 RSS_FEEDS = [
     "https://www.motor1.com/rss/news/all/",
@@ -39,7 +44,7 @@ def clean_url(url):
     """Ensure image URLs are absolute and well-formed."""
     if not url:
         return None
-    url = url.strip()
+    url = str(url).strip()
     if url.startswith("//"):
         return "https:" + url
     if url.startswith("http://") or url.startswith("https://"):
@@ -48,14 +53,12 @@ def clean_url(url):
 
 def extract_image_url(entry, index=0):
     """Extract lead image from RSS entry tags, HTML content, or select a unique fallback."""
-    # 1. Try RSS Media Content tags
     if hasattr(entry, 'media_content') and entry.media_content:
         for media in entry.media_content:
             url = clean_url(media.get('url'))
             if url:
                 return url
 
-    # 2. Try RSS Enclosures
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image/'):
@@ -63,7 +66,6 @@ def extract_image_url(entry, index=0):
                 if url:
                     return url
 
-    # 3. Try parsing <img> tag from HTML description/summary content
     content_to_search = ""
     if hasattr(entry, 'summary'):
         content_to_search += entry.summary
@@ -73,18 +75,16 @@ def extract_image_url(entry, index=0):
     img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content_to_search, re.IGNORECASE)
     if img_match:
         url = clean_url(img_match.group(1))
-        if url and not url.endswith('.gif'): # Skip tracking pixels
+        if url and not url.endswith('.gif'):
             return url
 
-    # 4. Fallback to a unique engineering image per slot
     return BIW_FALLBACK_IMAGES[index % len(BIW_FALLBACK_IMAGES)]
 
 def fetch_rss_articles():
     collected_items = []
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5"
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
     }
 
     for url in RSS_FEEDS:
@@ -97,10 +97,15 @@ def fetch_rss_articles():
 
             for idx, entry in enumerate(parsed.entries[:10]):
                 img_url = extract_image_url(entry, index=idx)
+                
+                # Basic cleaning of RSS HTML summary tag text
+                summary_raw = getattr(entry, 'summary', '')
+                clean_summary = re.sub('<[^<]+?>', '', summary_raw).strip()[:200]
+                
                 collected_items.append({
-                    "title": getattr(entry, 'title', ''),
-                    "url": getattr(entry, 'link', ''),
-                    "summary": getattr(entry, 'summary', ''),
+                    "title": getattr(entry, 'title', '').strip(),
+                    "url": getattr(entry, 'link', '').strip(),
+                    "summary": clean_summary,
                     "image_url": img_url
                 })
         except Exception as exc:
@@ -138,19 +143,38 @@ def summarize_with_gemini(articles):
     {json.dumps(articles, indent=2)}
     """
 
-    for model in [PRIMARY_MODEL, FALLBACK_MODEL]:
-        try:
-            print(f"Generating 6 BIW news items with model: {model}")
-            response = client.models.generate_content(
-                model=model,
-                contents=prompt,
-                config={"response_mime_type": "application/json"}
-            )
-            return json.loads(response.text)
-        except Exception as e:
-            print(f"Model {model} failed: {e}")
+    # Cascade through available models
+    for model in MODEL_CASCADES:
+        # Retry up to 2 times for temporary 503 capacity spikes
+        for attempt in range(2):
+            try:
+                print(f"Attempting Gemini generation (Model: {model}, Attempt: {attempt + 1})...")
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                    config={"response_mime_type": "application/json"}
+                )
+                parsed_json = json.loads(response.text)
+                if "biw_news" in parsed_json and len(parsed_json["biw_news"]) > 0:
+                    print(f"Successfully generated news using model: {model}")
+                    return parsed_json
+            except Exception as e:
+                print(f"Model {model} attempt {attempt + 1} failed: {e}")
+                time.sleep(2) # Short delay before retry or fallback
 
-    raise RuntimeError("All Gemini model attempts failed.")
+    print("WARNING: All Gemini model attempts failed. Returning fallback raw RSS news slice.")
+    
+    # Graceful fallback: construct standard 6-card payload straight from RSS feeds
+    fallback_cards = []
+    for idx, item in enumerate(articles[:6]):
+        fallback_cards.append({
+            "title": item.get("title"),
+            "url": item.get("url"),
+            "summary": item.get("summary") or "Automotive news update from RSS feed.",
+            "image_url": item.get("image_url") or BIW_FALLBACK_IMAGES[idx % len(BIW_FALLBACK_IMAGES)],
+            "category": "Automotive News"
+        })
+    return {"biw_news": fallback_cards}
 
 if __name__ == "__main__":
     raw_articles = fetch_rss_articles()
