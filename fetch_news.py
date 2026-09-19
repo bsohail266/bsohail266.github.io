@@ -130,6 +130,15 @@ if __name__ == "__main__":
 
     news_data = summarize_with_gemini(raw_articles)
 
+    # Validate image URLs and assign unique slot fallbacks if missing or broken
+    biw_list = news_data.get("biw_news", [])
+    for idx, item in enumerate(biw_list):
+        cleaned = clean_url(item.get("image_url"))
+        if not cleaned or cleaned.endswith(".gif"):
+            item["image_url"] = BIW_FALLBACK_IMAGES[idx % len(BIW_FALLBACK_IMAGES)]
+        else:
+            item["image_url"] = cleaned
+
     # Save to root folder
     with open("news.json", "w", encoding="utf-8") as f:
         json.dump(news_data, f, indent=2)
