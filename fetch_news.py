@@ -30,6 +30,7 @@ RSS_FEEDS = [
     "https://www.carsuk.net/feed/",
     "https://group.mercedes-benz.com/en/",
     "https://www.bmwgroup.com/en/company.html"
+    "https://www.tatamotors.com"
 ]
 
 # 6 distinct, high-quality fallback images related to Body in White & vehicle structures
