@@ -1786,10 +1786,23 @@ if ('serviceWorker' in navigator) {
         }
     };
 </script>
-  <script>
+<script>
+  // Unique fallback images for each card slot (1 to 6) to prevent duplicates or broken images
+  const BIW_FALLBACK_IMAGES = [
+    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80", // Card 1
+    "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80", // Card 2
+    "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80", // Card 3
+    "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80", // Card 4
+    "https://images.unsplash.com/photo-1558441719-aa34ff529280?auto=format&fit=crop&w=800&q=80", // Card 5
+    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=800&q=80"  // Card 6
+  ];
+
   // Helper function to safely update a single card by its JSON article index and card number ID
   function updateSingleCard(article, cardNumber) {
     if (!article) return;
+
+    // Determine slot-specific default image
+    const slotFallback = BIW_FALLBACK_IMAGES[(cardNumber - 1) % BIW_FALLBACK_IMAGES.length];
 
     // 1. Update Title
     const titleElem = document.getElementById(`card${cardNumber}-title`);
@@ -1803,14 +1816,20 @@ if ('serviceWorker' in navigator) {
       linkElem.href = article.url;
     }
 
-    // 3. Update Image
+    // 3. Update Image with fallback protection
     const imgElem = document.getElementById(`card${cardNumber}-img`);
     if (imgElem) {
       imgElem.alt = article.title;
-      if (article.image_url) {
-        imgElem.removeAttribute('srcset'); // Removes builder override so dynamic image loads
-        imgElem.src = article.image_url;
-      }
+      imgElem.removeAttribute('srcset'); // Removes builder override so dynamic image loads
+
+      // Attach error handler BEFORE setting src to catch immediate loading failures
+      imgElem.onerror = function() {
+        this.onerror = null; // Prevent infinite fallback loops
+        this.src = slotFallback;
+      };
+
+      // Assign article image or slot fallback if URL is missing
+      imgElem.src = (article.image_url && article.image_url.trim() !== '') ? article.image_url : slotFallback;
     }
 
     // 4. Update Summary
