@@ -1,18 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
-      "summary": "Delays in Volkswagen's Scalable Systems Platform (SSP) postpone the rollout of next-generation EV body-in-white architectures and integrated structural battery crash load paths. This schedule change impacts Audi's deployment of scalable lightweight body structures across its future midsize EV lineup.",
+      "title": "Audi A4 e-tron Delayed Amid VW SSP Platform Setbacks",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
+      "summary": "Audi has rescheduled the production of its next-generation electric A4 to 2029 due to ongoing delays with Volkswagen Group's Scalable Systems Platform (SSP). The unified architecture is designed to integrate standardized battery cells and advanced structural software across multiple brand segments.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
+      "category": "EV Platforms"
+    },
+    {
+      "title": "Volvo Details 13-Model Strategy Built on SPA2 and SPA3 Platforms",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-primes-saloons-and-estates-13-model-blitz-2030",
+      "summary": "Volvo Cars announced a product roadmap encompassing 13 new models by 2030, leveraging modular SPA2 and SPA3 structural architectures. These flexible platforms allow multi-powertrain integration and optimized battery packaging across both low-profile saloons and SUVs.",
+      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+      "category": "Vehicle Platforms"
+    },
+    {
+      "title": "Volkswagen Unveils Mission Efficiency Lightweight Aero EV Concept",
+      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
+      "summary": "Volkswagen has revealed the Mission Efficiency concept, drawing design and structural lessons from the ultra-lightweight 2013 XL1. Built on VW's compact EV platform, the vehicle demonstrates extreme aerodynamic profiling and structural mass-reduction techniques to maximize driving range.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
+      "category": "Lightweight Structures"
+    },
+    {
+      "title": "Stellantis STLA Large Architecture Supports Dual ICE and EV Charger",
+      "url": "https://www.autocar.co.uk/car-news/features/fixing-ev-error-straight-six-dodge-charger-saves-muscle-car",
+      "summary": "The new Dodge Charger highlights the versatility of the multi-energy STLA Large platform, which accommodates both high-voltage BEV powertrains and longitudinal twin-turbo ICE engines. The modular chassis utilizes high-strength subframe designs and multi-link suspension geometries to manage high torque loads.",
+      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
+      "category": "EV Platforms"
+    },
+    {
+      "title": "McLaren Prepares Platform Shift, Phasing Out Artura and GTS Tubs",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/mclaren-retire-artura-gts-and-750s-next-two-years",
+      "summary": "McLaren plans to retire its carbon-monocoque Artura and GTS models by 2028 as it transitions toward a newly developed front-engine architecture and next-generation hybrid supercars. The expansion includes a \u00a3500M investment to accommodate new manufacturing processes and vehicle platforms.",
+      "image_url": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
       "category": "Structural Engineering"
     },
     {
-      "title": "Maserati’s Next Electric Cars Could Be A Large GT And SUV: Report",
-      "summary": "Developing high-performance electric GT and SUV models on shared EV architectures requires tailored body-in-white structural reinforcements to achieve requisite torsional rigidity and crash safety. Distributed assembly between overseas production and final finishing demands strict dimensional management of the body shell.",
-      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
-      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
-      "category": "Structural Engineering"
+      "title": "Audi A2 e-tron Concept Revives Lightweight City EV Blueprint",
+      "url": "https://www.carsuk.net/electric-audi-a2-e-tron-promises-up-to-400-mile-range-and-prices-from-32k/",
+      "summary": "Echoing the lightweight aluminium Space Frame heritage of the original A2, Audi introduces the electric A2 e-tron targeting up to a 400-mile range. The compact EV focuses on body efficiency and battery packaging to optimize structural weight in entry-level premium segments.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Audi-A2-e-tron-Front-W-590x337.webp",
+      "category": "EV Platforms"
     }
   ]
 }
