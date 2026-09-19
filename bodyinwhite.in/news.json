@@ -1,3 +1,10 @@
 {
-  "biw_news": []
+  "biw_news": [
+    {
+      "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
+      "summary": "The delay of Volkswagen Group's Scalable Systems Platform (SSP) postpones the structural architecture rollout for the next-generation Audi A4 EV. This platform setback directly impacts upcoming modular BIW integration, battery-to-body structural packaging, and floorpan design for future electric models.",
+      "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
+      "category": "Structural Engineering"
+    }
+  ]
 }
