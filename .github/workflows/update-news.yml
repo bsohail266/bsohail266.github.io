@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs daily at 06:00 AM UTC
     - cron: '0 6 * * *'
-  workflow_dispatch: # Allows you to trigger it manually anytime
+  workflow_dispatch: # Allows manual run
 
 jobs:
   update-news:
@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
