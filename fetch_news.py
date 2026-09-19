@@ -19,6 +19,23 @@ RSS_FEEDS = [
     "https://www.motor1.com/rss/news/all/"
 ]
 
+def extract_image_url(entry):
+    """Extract lead image URL from media tags or enclosures in RSS entries."""
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            if media.get('medium') == 'image' or media.get('type', '').startswith('image/'):
+                return media.get('url')
+            if 'url' in media:
+                return media.get('url')
+
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            if enc.get('type', '').startswith('image/'):
+                return enc.get('href')
+
+    # Fallback image if the feed item doesn't contain a media tag
+    return "Revolution-Body-Battery-Engineering.jpg"
+
 def fetch_rss_articles():
     collected_items = []
     headers = {
@@ -34,10 +51,12 @@ def fetch_rss_articles():
             print(f"Fetched {len(parsed.entries)} entries from {url}")
 
             for entry in parsed.entries[:5]:
+                img_url = extract_image_url(entry)
                 collected_items.append({
                     "title": getattr(entry, 'title', ''),
                     "url": getattr(entry, 'link', ''),
-                    "summary": getattr(entry, 'summary', '')
+                    "summary": getattr(entry, 'summary', ''),
+                    "image_url": img_url
                 })
         except Exception as exc:
             print(f"Skipping feed {url}: {exc}")
@@ -58,6 +77,7 @@ def summarize_with_gemini(items):
           "title": "Article Title",
           "summary": "2-sentence engineering summary focused on BIW, materials, structural design, or joining.",
           "url": "Original URL",
+          "image_url": "Image URL from input data",
           "category": "Structural Engineering"
         }}
       ]
