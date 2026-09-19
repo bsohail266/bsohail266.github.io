@@ -10,9 +10,9 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Default to gemini-3.6-flash with gemini-2.5-flash as backup
-PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
-FALLBACK_MODEL = "gemini-2.5-flash"
+# Updated active model names
+PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+FALLBACK_MODEL = "gemini-2.5-pro"
 
 RSS_FEEDS = [
     # General Automotive & High-Volume Tech News
