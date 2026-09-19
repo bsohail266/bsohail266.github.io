@@ -15,8 +15,19 @@ PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
 FALLBACK_MODEL = "gemini-2.5-flash"
 
 RSS_FEEDS = [
+    # General Automotive & High-Volume Tech News
     "https://www.autoblog.com/rss.xml",
-    "https://www.motor1.com/rss/news/all/"
+    "https://www.motor1.com/rss/news/all/",
+    "https://www.motorauthority.com/rss-feeds",
+    
+    # Industry, Economics & Regional Market Feeds
+    "https://auto.economictimes.indiatimes.com/rss/topstories",
+    "https://auto.economictimes.indiatimes.com/rss/auto-technology",
+    "https://auto.economictimes.indiatimes.com/rss/auto-components",
+    
+    # Structural, EV Platform & OEM Technical Press
+    "https://automotive.einnews.com/rss/category/automotive",
+    "https://feeds.highgearmedia.com/?site=TheCarConnection"
 ]
 
 def extract_image_url(entry):
