@@ -1787,7 +1787,40 @@ if ('serviceWorker' in navigator) {
     };
 </script>
   <script>
-  async function updateAiNewsCard() {
+  // Helper function to safely update a single card by its JSON article index and card number ID
+  function updateSingleCard(article, cardNumber) {
+    if (!article) return;
+
+    // 1. Update Title
+    const titleElem = document.getElementById(`card${cardNumber}-title`);
+    if (titleElem) {
+      titleElem.innerHTML = `<a href="${article.url}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${article.title}</a>`;
+    }
+
+    // 2. Update Link
+    const linkElem = document.getElementById(`card${cardNumber}-link`);
+    if (linkElem) {
+      linkElem.href = article.url;
+    }
+
+    // 3. Update Image
+    const imgElem = document.getElementById(`card${cardNumber}-img`);
+    if (imgElem) {
+      imgElem.alt = article.title;
+      if (article.image_url) {
+        imgElem.removeAttribute('srcset'); // Removes builder override so dynamic image loads
+        imgElem.src = article.image_url;
+      }
+    }
+
+    // 4. Update Summary
+    const summaryElem = document.getElementById(`card${cardNumber}-summary`);
+    if (summaryElem) {
+      summaryElem.textContent = article.summary;
+    }
+  }
+
+  async function updateAiNewsCards() {
     try {
       let response = await fetch('news.json?v=' + new Date().getTime());
       
@@ -1800,45 +1833,23 @@ if ('serviceWorker' in navigator) {
       const data = await response.json();
       if (!data.biw_news || data.biw_news.length === 0) return;
 
-      const firstArticle = data.biw_news[0];
-
-      // 1. Title
-      const titleElem = document.getElementById('card1-title');
-      if (titleElem) {
-        titleElem.innerHTML = `<a href="${firstArticle.url}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${firstArticle.title}</a>`;
-      }
-
-      // 2. Link
-      const linkElem = document.getElementById('card1-link');
-      if (linkElem) {
-        linkElem.href = firstArticle.url;
-      }
-
-      // 3. Image URL & Alt
-      const imgElem = document.getElementById('card1-img');
-      if (imgElem) {
-        imgElem.alt = firstArticle.title;
-        // Dynamically update image src if provided in news.json
-        if (firstArticle.image_url) {
-          imgElem.src = firstArticle.image_url;
-        }
-      }
-
-      // 4. Summary
-      const summaryElem = document.getElementById('card1-summary');
-      if (summaryElem) {
-        summaryElem.textContent = firstArticle.summary;
-      }
+      // Update each of the 6 cards independently
+      updateSingleCard(data.biw_news[0], 1); // Card 1
+      updateSingleCard(data.biw_news[1], 2); // Card 2
+      updateSingleCard(data.biw_news[2], 3); // Card 3
+      updateSingleCard(data.biw_news[3], 4); // Card 4
+      updateSingleCard(data.biw_news[4], 5); // Card 5
+      updateSingleCard(data.biw_news[5], 6); // Card 6
 
     } catch (err) {
-      console.error("Error updating AI news card:", err);
+      console.error("Error updating AI news cards:", err);
     }
   }
 
   if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', updateAiNewsCard);
+    document.addEventListener('DOMContentLoaded', updateAiNewsCards);
   } else {
-    updateAiNewsCard();
+    updateAiNewsCards();
   }
 </script>
 </body></html>
