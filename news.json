@@ -1,5 +1,38 @@
-{
-  "biw_news": [],
-  "biw_features": [],
-  "biw_engineering": []
-}
+name: Automated BIW News Update
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install google-genai feedparser requests beautifulsoup4
+
+      - name: Run news generation script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-2.5-flash
+        run: python fetch_news.py
+
+      - name: Commit and push news update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated update: BIW news feeds [skip ci]"
+          file_pattern: "bodyinwhite.in/news.json"
