@@ -28,13 +28,10 @@ jobs:
       - name: Run news generation script
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python fetch_news.py
-
-      - name: Verify generated files
-        run: ls -la
+        run: python bodyinwhite.in/fetch_news.py  # Adjusted path if fetch_news.py is in the subfolder
 
       - name: Commit and push news update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Automated update: BIW news feeds [skip ci]"
-          file_pattern: "news.json"
+          file_pattern: "bodyinwhite.in/news.json"  # Points directly to the subfolder
