@@ -2,8 +2,23 @@
   "biw_news": [
     {
       "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
-      "summary": "The delay of Volkswagen Group's Scalable Systems Platform (SSP) postpones the structural architecture rollout for the next-generation Audi A4 EV. This platform setback directly impacts upcoming modular BIW integration, battery-to-body structural packaging, and floorpan design for future electric models.",
+      "summary": "Delays in Volkswagen Group's Scalable Systems Platform (SSP) defer the deployment of next-generation unified EV body-in-white architectures and structural battery integration across Audi's lineup. The platform delay impacts planned manufacturing efficiencies and multi-material lightweight structural designs tailored for high-volume EV production.",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
+      "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "For The First Time In Six Years, Ford Won't Win North American Truck Of The Year",
+      "summary": "Shifts in the 2027 NACTOY truck shortlist draw attention to competing body-on-frame structural innovations and body-in-white design approaches across major manufacturers. Structural optimizations using high-strength steel, aluminum cab enclosures, and optimized frame rails remain key differentiators in modern pickup architecture.",
+      "url": "https://www.motor1.com/news/808764/2027-nactoy-truck-year-shortlist/",
+      "image_url": "https://cdn.motor1.com/images/mgl/wlk3BR/s3/2027-ford-f-150-lariat.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Gas Prices Are Up, And So Are EV Sales",
+      "summary": "Accelerating electric vehicle adoption reinforces the industry transition toward dedicated EV body-in-white architectures engineered around structural battery integration and side-impact protection. These platform demands drive structural innovations in ultra-high-strength steel safety cages and large-scale aluminum castings.",
+      "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
+      "image_url": "https://cdn.motor1.com/images/mgl/1Z2yMM/s3/tesla-model-y-standard.jpg",
       "category": "Structural Engineering"
     }
   ]
