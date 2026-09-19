@@ -4,24 +4,23 @@ import requests
 import feedparser
 from google import genai
 
-# Setup Gemini API Client
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
     raise RuntimeError("GEMINI_API_KEY secret is missing in GitHub Repository Settings.")
 
 client = genai.Client(api_key=api_key)
-MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
-# Verified functional automotive RSS feeds
+# Default to gemini-2.5-flash or environment variable
+PRIMARY_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+FALLBACK_MODEL = "gemini-2.0-flash"
+
 RSS_FEEDS = [
-    "https://www.motor1.com/rss/news/all/",
-    "https://auto.economictimes.indiatimes.com/rss/auto-technology",
-    "https://auto.economictimes.indiatimes.com/rss/auto-components"
+    "https://www.autoblog.com/rss.xml",
+    "https://www.motor1.com/rss/news/all/"
 ]
 
 def fetch_rss_articles():
     collected_items = []
-    # Add User-Agent header so feeds don't block GitHub Actions runners
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
@@ -34,7 +33,7 @@ def fetch_rss_articles():
             parsed = feedparser.parse(response.content)
             print(f"Fetched {len(parsed.entries)} entries from {url}")
 
-            for entry in parsed.entries[:5]:  # Top 5 per feed
+            for entry in parsed.entries[:5]:
                 collected_items.append({
                     "title": getattr(entry, 'title', ''),
                     "url": getattr(entry, 'link', ''),
@@ -44,20 +43,20 @@ def fetch_rss_articles():
             print(f"Skipping feed {url}: {exc}")
             continue
 
-    print(f"Total articles collected for AI processing: {len(collected_items)}")
+    print(f"Total articles collected: {len(collected_items)}")
     return collected_items
 
 def summarize_with_gemini(items):
     prompt = f"""
     You are an expert Body in White (BIW) structural engineer.
     Analyze these news items and select up to 18 relevant articles.
-    Return ONLY valid JSON without markdown fences or extra text, using this exact structure:
+    Return ONLY valid JSON without markdown code blocks, using this exact structure:
 
     {{
       "biw_news": [
         {{
           "title": "Article Title",
-          "summary": "2-sentence engineering summary focused on BIW, materials, structural design, or joining technologies.",
+          "summary": "2-sentence engineering summary focused on BIW, materials, structural design, or joining.",
           "url": "Original URL",
           "category": "Structural Engineering"
         }}
@@ -68,10 +67,17 @@ def summarize_with_gemini(items):
     {json.dumps(items, ensure_ascii=False)}
     """
 
-    response = client.models.generate_content(
-        model=MODEL_NAME,
-        contents=prompt
-    )
+    try:
+        response = client.models.generate_content(
+            model=PRIMARY_MODEL,
+            contents=prompt
+        )
+    except Exception as exc:
+        print(f"Model {PRIMARY_MODEL} failed ({exc}). Retrying with {FALLBACK_MODEL}...")
+        response = client.models.generate_content(
+            model=FALLBACK_MODEL,
+            contents=prompt
+        )
 
     text = response.text.strip()
     if text.startswith("```"):
@@ -81,23 +87,18 @@ def summarize_with_gemini(items):
 
 def main():
     target_path = "bodyinwhite.in/news.json"
+    raw_items = fetch_rss_articles()
     
-    try:
-        raw_items = fetch_rss_articles()
-        if raw_items:
-            result = summarize_with_gemini(raw_items)
-        else:
-            print("No items fetched from RSS feeds.")
-            result = {"biw_news": []}
-    except Exception as exc:
-        print(f"Failed during AI processing: {exc}")
-        result = {"biw_news": []}
+    if not raw_items:
+        raise RuntimeError("No articles could be fetched from the configured RSS feeds.")
+
+    result = summarize_with_gemini(raw_items)
 
     os.makedirs(os.path.dirname(target_path), exist_ok=True)
     with open(target_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"Successfully written output to {target_path}")
+    print(f"Successfully updated {target_path}")
 
 if __name__ == "__main__":
     main()
