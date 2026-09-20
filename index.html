@@ -1818,39 +1818,43 @@ if ('serviceWorker' in navigator) {
     };
 </script>
 <script>
-  // Unique fallback images for each card slot (1 to 6) to prevent duplicates or broken images
+  // Local fallback images mapped strictly to Cards 1 through 6
   const BIW_FALLBACK_IMAGES = [
-    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80", // Card 1
-    "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80", // Card 2
-    "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80", // Card 3
-    "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80", // Card 4
-    "https://images.unsplash.com/photo-1558441719-aa34ff529280?auto=format&fit=crop&w=800&q=80", // Card 5
-    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=800&q=80"  // Card 6
+    "Revolution-Body-Battery-Engineering.jpg",          // Card 1
+    "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",  // Card 2
+    "Lightweight-Materials.jpg",                       // Card 3
+    "safety-benchmark.jpg",                            // Card 4
+    "digital-twin-automotive.png",                     // Card 5
+    "tata-sierra-ev.jpg"                               // Card 6
   ];
 
   // Helper function to safely update a single card by its JSON article index and card number ID
   function updateSingleCard(article, cardNumber) {
     if (!article) return;
 
-    // Determine slot-specific default image
+    // Determine slot-specific default local image
     const slotFallback = BIW_FALLBACK_IMAGES[(cardNumber - 1) % BIW_FALLBACK_IMAGES.length];
+    
+    // Extract property keys safely regardless of python backend naming (link/url, image/image_url)
+    const targetUrl = article.url || article.link || "#";
+    const targetImage = article.image_url || article.image || slotFallback;
 
     // 1. Update Title
     const titleElem = document.getElementById(`card${cardNumber}-title`);
     if (titleElem) {
-      titleElem.innerHTML = `<a href="${article.url}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${article.title}</a>`;
+      titleElem.innerHTML = `<a href="${targetUrl}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${article.title}</a>`;
     }
 
     // 2. Update Link
     const linkElem = document.getElementById(`card${cardNumber}-link`);
     if (linkElem) {
-      linkElem.href = article.url;
+      linkElem.href = targetUrl;
     }
 
-    // 3. Update Image with fallback protection
+    // 3. Update Image with local fallback protection
     const imgElem = document.getElementById(`card${cardNumber}-img`);
     if (imgElem) {
-      imgElem.alt = article.title;
+      imgElem.alt = article.title || "Body in White Automotive Engineering";
       imgElem.removeAttribute('srcset'); // Removes builder override so dynamic image loads
 
       // Attach error handler BEFORE setting src to catch immediate loading failures
@@ -1859,14 +1863,14 @@ if ('serviceWorker' in navigator) {
         this.src = slotFallback;
       };
 
-      // Assign article image or slot fallback if URL is missing
-      imgElem.src = (article.image_url && article.image_url.trim() !== '') ? article.image_url : slotFallback;
+      // Assign article image or slot fallback if URL is empty or whitespace
+      imgElem.src = (targetImage && targetImage.trim() !== '') ? targetImage : slotFallback;
     }
 
     // 4. Update Summary
     const summaryElem = document.getElementById(`card${cardNumber}-summary`);
     if (summaryElem) {
-      summaryElem.textContent = article.summary;
+      summaryElem.textContent = article.summary || "";
     }
   }
 
@@ -1881,15 +1885,15 @@ if ('serviceWorker' in navigator) {
       if (!response.ok) return;
 
       const data = await response.json();
-      if (!data.biw_news || data.biw_news.length === 0) return;
+      
+      // Support both root array format [...] and wrapped object format { biw_news: [...] }
+      const articles = Array.isArray(data) ? data : (data.biw_news || []);
+      if (articles.length === 0) return;
 
       // Update each of the 6 cards independently
-      updateSingleCard(data.biw_news[0], 1); // Card 1
-      updateSingleCard(data.biw_news[1], 2); // Card 2
-      updateSingleCard(data.biw_news[2], 3); // Card 3
-      updateSingleCard(data.biw_news[3], 4); // Card 4
-      updateSingleCard(data.biw_news[4], 5); // Card 5
-      updateSingleCard(data.biw_news[5], 6); // Card 6
+      for (let i = 0; i < 6; i++) {
+        updateSingleCard(articles[i], i + 1);
+      }
 
     } catch (err) {
       console.error("Error updating AI news cards:", err);
