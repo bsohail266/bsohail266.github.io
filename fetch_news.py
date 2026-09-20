@@ -34,14 +34,14 @@ RSS_FEEDS = [
     "https://www.mahindra.com/our-business/automotive"
 ]
 
-# 6 distinct, high-quality fallback images related to Body in White & vehicle structures
+# 6 distinct, local fallback images mapped strictly to Cards 1 through 6
 BIW_FALLBACK_IMAGES = [
-    "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80", # Card 1
-    "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=800&q=80", # Card 2
-    "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80", # Card 3
-    "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80", # Card 4
-    "https://images.unsplash.com/photo-1558441719-aa34ff529280?auto=format&fit=crop&w=800&q=80", # Card 5
-    "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=800&q=80"  # Card 6
+    "Revolution-Body-Battery-Engineering.jpg",          # Card 1 Fallback
+    "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",  # Card 2 Fallback
+    "Lightweight-Materials.jpg",                       # Card 3 Fallback
+    "safety-benchmark.jpg",                            # Card 4 Fallback
+    "digital-twin-automotive.png",                     # Card 5 Fallback
+    "tata-sierra-ev.jpg"                               # Card 6 Fallback
 ]
 
 import re
