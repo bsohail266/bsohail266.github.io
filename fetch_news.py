@@ -57,33 +57,54 @@ def clean_url(url):
 
 def extract_image_url(entry, index=0):
     """Extract lead image from RSS entry tags, HTML content, or select a unique fallback."""
+    # 1. Check <media:content> tags
     if hasattr(entry, 'media_content') and entry.media_content:
         for media in entry.media_content:
-            url = clean_url(media.get('url'))
-            if url:
-                return url
+            url = media.get('url', '')
+            is_image_type = media.get('medium') == 'image' or media.get('type', '').startswith('image/')
+            has_image_ext = any(url.lower().endswith(ext) for ext in ['.jpg', '.jpeg', '.png', '.webp'])
+            
+            if is_image_type or has_image_ext:
+                cleaned = clean_url(url)
+                if cleaned:
+                    return cleaned
 
+    # 2. Check <enclosure> tags
     if hasattr(entry, 'enclosures') and entry.enclosures:
         for enc in entry.enclosures:
             if enc.get('type', '').startswith('image/'):
-                url = clean_url(enc.get('href'))
-                if url:
-                    return url
+                cleaned = clean_url(enc.get('href'))
+                if cleaned:
+                    return cleaned
 
+    # 3. Check <media:thumbnail> tags
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            cleaned = clean_url(thumb.get('url'))
+            if cleaned:
+                return cleaned
+
+    # 4. Search HTML content in summary/description (matches src, data-src, or data-original)
     content_to_search = ""
     if hasattr(entry, 'summary'):
         content_to_search += entry.summary
     if hasattr(entry, 'description'):
         content_to_search += entry.description
 
-    img_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', content_to_search, re.IGNORECASE)
-    if img_match:
-        url = clean_url(img_match.group(1))
-        if url and not url.endswith('.gif'):
-            return url
+    if content_to_search:
+        # Regex captures standard src= as well as lazy-loaded data-src= attributes
+        img_match = re.search(r'<img[^>]+(?:src|data-src|data-original-src)=["\']([^"\']+)["\']', content_to_search, re.IGNORECASE)
+        if img_match:
+            raw_url = img_match.group(1)
+            # Exclude tracking pixels, badges, and gifs
+            if not raw_url.lower().endswith('.gif') and 'tracker' not in raw_url.lower():
+                cleaned = clean_url(raw_url)
+                if cleaned:
+                    return cleaned
 
+    # 5. Guaranteed local fallback if no valid RSS image found
     return BIW_FALLBACK_IMAGES[index % len(BIW_FALLBACK_IMAGES)]
-
+    
 def fetch_rss_articles():
     collected_items = []
     headers = {
