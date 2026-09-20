@@ -44,16 +44,57 @@ BIW_FALLBACK_IMAGES = [
     "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=800&q=80"  # Card 6
 ]
 
-def clean_url(url):
-    """Ensure image URLs are absolute and well-formed."""
-    if not url:
+import re
+from urllib.parse import urlparse, urljoin
+
+# Keywords commonly found in ad banners, thumbnails, or non-lead images
+JUNK_IMAGE_KEYWORDS = [
+    'logo', 'avatar', 'icon', 'banner', 'ad-', '-ad', 'advertisement',
+    'placeholder', 'share', 'facebook', 'twitter', 'linkedin', 'tracker',
+    'pixel', 'button', 'widget', 'author', 'profile', 'comment'
+]
+
+def clean_url(url, base_url=""):
+    """
+    Sanitizes URLs, converts relative paths to HTTPS, and filters out junk/ad images.
+    """
+    if not url or not isinstance(url, str):
         return None
-    url = str(url).strip()
-    if url.startswith("//"):
-        return "https:" + url
-    if url.startswith("http://") or url.startswith("https://"):
-        return url
-    return None
+
+    cleaned = url.strip()
+
+    # 1. Reject base64 data URIs or inline SVG assets
+    if cleaned.startswith('data:') or cleaned.endswith('.svg'):
+        return None
+
+    # 2. Filter out junk keywords (logos, ads, tracking pixels)
+    url_lower = cleaned.lower()
+    if any(keyword in url_lower for keyword in JUNK_IMAGE_KEYWORDS):
+        return None
+
+    # 3. Handle protocol-relative URLs (e.g., //cdn.site.com/image.jpg)
+    if cleaned.startswith('//'):
+        cleaned = 'https:' + cleaned
+
+    # 4. Handle relative paths (e.g., /wp-content/uploads/car.jpg)
+    elif cleaned.startswith('/') and base_url:
+        cleaned = urljoin(base_url, cleaned)
+
+    # 5. Enforce HTTPS protocol for http:// URLs
+    elif cleaned.startswith('http://'):
+        cleaned = 'https://' + cleaned[7:]
+
+    # Ensure URL starts with valid HTTPS protocol
+    if not cleaned.startswith('https://'):
+        return None
+
+    # 6. Strip aggressive tracking/cropping query params if image ends in standard extension
+    parsed = urlparse(cleaned)
+    if parsed.netloc and parsed.path:
+        if any(parsed.path.lower().endswith(ext) for ext in ['.jpg', '.jpeg', '.png', '.webp']):
+            cleaned = f"{parsed.scheme}://{parsed.netloc}{parsed.path}"
+
+    return cleaned
 
 def extract_image_url(entry, index=0):
     """Extract lead image from RSS entry tags, HTML content, or select a unique fallback."""
