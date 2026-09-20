@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Audi A4 e-tron Delayed Amid VW SSP Platform Setbacks",
+      "title": "Volkswagen SSP EV Platform Delays Push Audi A4 e-tron to 2029",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Audi has pushed production of the electric A4 e-tron to 2029 due to ongoing delays in Volkswagen Group's next-generation Scalable Systems Platform (SSP). The delay highlights architectural challenges in unifying software and structural platform components across the group's future EV line-up.",
+      "summary": "Volkswagen's next-generation Scalable Systems Platform (SSP) faces software and structural architecture integration delays, pushing Audi's electric A4 successor to 2029. The unified mechatronic platform is intended to streamline body structure modularity and battery cell-to-chassis integration across VW Group brands.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
       "category": "EV Platforms"
     },
     {
-      "title": "Aston Martin DB12 S Focuses on Structural Weight Reduction",
+      "title": "Aston Martin DB12 S Achieves 50kg Mass Reduction in Structural Tuning",
       "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
-      "summary": "The new Aston Martin DB12 S flagship Super Tourer reduces overall curb weight by up to 50kg compared to the standard model while optimizing chassis stiffness. Engineering updates focus on sharper dynamic responses and lightweight component integration.",
+      "summary": "Aston Martin's enhanced DB12 S features structural weight savings of up to 50kg alongside revised dynamic chassis tuning. Engineering focus on optimized aluminum body component distribution delivers improved rigidity while reducing overall kerb weight.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg?itok=xiHO0P9L",
       "category": "Lightweight Structures"
     },
     {
-      "title": "VW Mission Efficiency Concept Explores Extreme Lightweight EV Design",
+      "title": "Volkswagen Unveils Mission Efficiency Concept Focused on Ultra-Light EV Architecture",
       "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
-      "summary": "Volkswagen has unveiled the Mission Efficiency concept, drawing architectural inspiration from the ultra-lightweight 2013 XL1. Based on an optimized ID.Polo EV platform, the vehicle prioritizes radical aerodynamic drag reduction and structural efficiency.",
+      "summary": "Taking inspiration from the lightweight 2013 XL1 design study, Volkswagen has revealed the Mission Efficiency concept based on a optimized compact EV footprint. The structure prioritizes aero-efficient bodyshell contours and lightweight structural materials to maximize overall range performance.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
-      "category": "Structural Engineering"
+      "category": "Lightweight Structures"
     },
     {
-      "title": "Maserati Leverages Joint Manufacturing Strategy for Next EV Architecture",
-      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
-      "summary": "Maserati is restructuring its electric vehicle plans by partnering with JAC for manufacturing and integrating advanced electric architecture for upcoming large GT and SUV models. Final structural assembly and vehicle tuning will take place in Italy to retain brand characteristics.",
-      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
-      "category": "Manufacturing"
-    },
-    {
-      "title": "Volvo Announces Major Product Strategy Spanning 13 Models by 2030",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-primes-saloons-and-estates-13-model-blitz-2030",
-      "summary": "Volvo has outlined an extensive multi-model platform rollout involving 13 new vehicles, encompassing saloons, estates, and SUVs. The product strategy relies on modular platform architectures supporting both advanced hybrid and pure-electric powertrains.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo_render_2026web.jpg?itok=fntCiMXF",
-      "category": "Vehicle Architecture"
-    },
-    {
-      "title": "Audi Prepares Lightweight Electric A2 e-tron Compact Platform",
+      "title": "Audi Previews Compact A2 e-tron Highlighting Efficient Platform Packaging",
       "url": "https://www.carsuk.net/electric-audi-a2-e-tron-promises-up-to-400-mile-range-and-prices-from-32k/",
-      "summary": "Audi is reviving the A2 nameplate with the new electric A2 e-tron, referencing the spaceframe efficiency heritage of the original model. The new compact EV targets up to 400 miles of range through optimized platform packaging and high-density battery integration.",
+      "summary": "Echoing the lightweight space-frame engineering heritage of the original A2, Audi introduces the electric A2 e-tron with advanced modular platform packaging. Optimized battery floorpan integration allows the compact footprint to achieve up to 400 miles of driving range.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Audi-A2-e-tron-Front-W-590x337.webp",
+      "category": "EV Platforms"
+    },
+    {
+      "title": "Nissan Teases Pixo City EV Built on Shared Compact Platform",
+      "url": "https://www.carsuk.net/nissan-pixo-teased-as-nissans-take-on-the-renault-twingo-and-new-dacia-spring/",
+      "summary": "Nissan is developing a new urban electric vehicle built upon the shared Renault-Nissan entry-level EV platform. The architecture employs standardized crash-structure stampings and shared floorpan assemblies to optimize manufacturing efficiency.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Nissan-Pixo-Tease-1-W-590x332.webp",
+      "category": "Manufacturing & Platforms"
+    },
+    {
+      "title": "Maserati Explores New Platform Collaboration for Next-Gen Electric GT and SUV",
+      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
+      "summary": "Maserati is evaluating collaborative vehicle architecture solutions utilizing JAC manufacturing capabilities alongside Italian final assembly. The modular EV platform approach focuses on optimizing battery casing integration and body torsional rigidity for future large GT models.",
+      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
       "category": "EV Platforms"
     }
   ]
