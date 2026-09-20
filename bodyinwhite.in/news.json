@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars",
-      "url": "https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/",
-      "summary": "Jeremy Clarkson is selling three memorable cars from The Grand Tour, including the Lancia he drove in his final episode of the show.",
-      "image_url": "https://cdn.motor1.com/images/mgl/xqOblk/s3/jeremy-clarkson-selling-off-grand-tour-cars.jpg",
-      "category": "Automotive News"
+      "title": "Leapmotor Unveils LEAP 5.0 Architecture and CTC 3.0 Battery Integration",
+      "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
+      "summary": "Leapmotor introduced its LEAP 5.0 Mobile Space Architecture alongside CTC 3.0 Cell-to-Chassis battery integration. The platform maximizes interior spatial efficiency while optimizing chassis rigidity and reducing low-voltage system complexity.",
+      "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
+      "category": "Battery Integration"
     },
     {
-      "title": "Gas Prices Are Up, And So Are EV Sales",
-      "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
-      "summary": "New data shows that sales for new and used electric vehicles rose in August.",
-      "image_url": "https://cdn.motor1.com/images/mgl/1Z2yMM/s3/tesla-model-y-standard.jpg",
-      "category": "Automotive News"
+      "title": "Aston Martin DB12 S Focuses on Weight Reduction and Dynamic Performance",
+      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
+      "summary": "Aston Martin's DB12 S super tourer achieves a structural weight reduction of up to 50kg compared to standard variants. The weight-saving engineering is combined with targeted chassis revisions to optimize vehicle dynamics.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
+      "category": "Lightweight Engineering"
     },
     {
-      "title": "Chevy's New V8s Ditch The Dipstick And Go Digital To 'Simplify The Ownership Experience'",
-      "url": "https://www.motor1.com/news/808667/chevrolet-silverado-v8-engines-oil-dipstick/",
-      "summary": "GM\u2019s new user interface has a digital oil level gauge instead of a traditional dipstick.",
-      "image_url": "https://cdn.motor1.com/images/mgl/g4O9Pg/s3/2027-chevrolet-silverado-1500-trail-boss.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
+      "title": "Volkswagen SSP EV Platform Delays Push Audi A4 e-tron Production to 2029",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Audi now targets March 2029 production, underscoring continued Volkswagen SSP delays.",
+      "summary": "Production of the all-electric Audi A4 e-tron has been rescheduled to 2029 due to software and development bottlenecks with Volkswagen Group's Scalable Systems Platform (SSP). The delay affects the rollout of next-generation EV body structures.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "category": "Automotive News"
+      "category": "EV Platforms"
     },
     {
-      "title": "For The First Time In Six Years, Ford Won't Win North American Truck Of The Year",
-      "url": "https://www.motor1.com/news/808764/2027-nactoy-truck-year-shortlist/",
-      "summary": "NACTOY\u2019s 2027 truck shortlist skips the Ford F-150, spotlighting Slate, Ram, and GM instead.",
-      "image_url": "https://cdn.motor1.com/images/mgl/wlk3BR/s3/2027-ford-f-150-lariat.jpg",
-      "category": "Automotive News"
+      "title": "Volkswagen Unveils Mission Efficiency Aero Concept Based on XL1 Legacy",
+      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
+      "summary": "Volkswagen revealed the Mission Efficiency concept, an extreme aerodynamic development built upon the ID.Polo platform architecture. Drawing engineering principles from the ultra-light XL1, the study focuses on body drag reduction and lightweight structures.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Volvo Heard You: More Buttons Are Coming Back",
-      "url": "https://www.motor1.com/news/808713/volvo-more-buttons-new-cars/",
-      "summary": "The company's design boss admits overreliance on screens needs to stop.",
-      "image_url": "https://cdn.motor1.com/images/mgl/g42lJ8/s3/volvo-70-series-1996-2016.jpg",
-      "category": "Automotive News"
+      "title": "Audi Begins Assembly Line Production of New Compact A2 e-tron",
+      "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
+      "summary": "Audi has officially started manufacturing the compact A2 e-tron EV at its Ingolstadt facility. The assembly line integration highlights optimized body production processes designed for high manufacturing efficiency.",
+      "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
+      "category": "Automotive Manufacturing"
+    },
+    {
+      "title": "Ford Validates Vehicle Hardware and Body Integrity in Extreme Thermal Testing",
+      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-brutal-heat-testing-arizona-desert",
+      "summary": "Ford engineers are subjecting pre-production vehicles to severe high-temperature load testing in the Arizona desert. The program evaluates structural thermal expansion, body joint integrity, and hardware durability under high heat stress.",
+      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/inside-ford%E2%80%99s-brutal-heat-testing--110-degrees-in-the-arizona-desert-/01_APG_Hot_Weather_Testing_Explorer.webp",
+      "category": "Vehicle Safety & Testing"
     }
   ]
 }
