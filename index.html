@@ -502,6 +502,19 @@ if ('serviceWorker' in navigator) {
     .btn-accept { background: #004a99; color: white; border: none; padding: 10px 25px; border-radius: 6px; cursor: pointer; font-weight: bold; }
     .btn-reject { background: #f1f1f1; color: #333; border: 1px solid #ccc; padding: 10px 25px; border-radius: 6px; cursor: pointer; }
     .banner-link { color: #004a99; text-decoration: underline; }
+  
+  /* Hides content smoothly until JavaScript hydrates the DOM */
+.news-card-wrapper {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s ease-in-out;
+}
+
+/* Class applied by JavaScript once dynamic news is inserted */
+.news-card-wrapper.is-loaded {
+  opacity: 1;
+  visibility: visible;
+}
 </style>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-0MCBFCG9D3"></script>
@@ -513,6 +526,7 @@ if ('serviceWorker' in navigator) {
   gtag('config', 'G-0MCBFCG9D3');
 </script>
 </head>
+  
 <body class="x x-fonts-archivo-black"><div id="layout-0-c-9-f-96-c-9-8301-467-e-af-67-a-1-d-8-e-62-e-010-c" class="layout layout-layout layout-layout-layout-10 locale-en-IN lang-en"><div data-ux="Page" id="page-344091" class="x-el x-el-div x-el c1-1 c1-2 c1-3 c1-4 c1-5 c1-6 c1-7 c1-8 c1-9 c1-a c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div page-inner c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div id="b0700d3a-3ca5-48f8-8925-c63be5f7fc7b" class="widget widget-header widget-header-header-9"><div data-ux="Header" role="main" data-aid="HEADER_WIDGET" id="n-344092" class="x-el x-el-div x-el x-el c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <div id="freemium-ad-344094"><div data-freemium-ad="true" style="overflow: hidden; width: 100%; z-index: 10000; position: fixed; left: 0px;">
   <style type="text/css">
     @font-face {
@@ -1374,6 +1388,7 @@ if ('serviceWorker' in navigator) {
 </ul></div><div data-ux="Block" class="x-el x-el-div c2-1 c2-2 c2-2d c2-2e c2-2f c2-2g c2-2h c2-2i c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"><ul data-ux="Block" class="x-el x-el-ul c2-1 c2-2 c2-2j c2-2k c2-2l c2-2m c2-2n c2-2o c2-2p c2-2q c2-3 c2-4 c2-5 c2-2r c2-6 c2-7 c2-8"><li data-ux="Block" data-edit-interactive="true" class="x-el x-el-li c2-1 c2-2 c2-2s c2-2t c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"><div role="button" data-edit-interactive="true" data-ux="DotActive" data-aid="SLIDE_SELECTION_DOT_0" class="x-el x-el-div c2-1 c2-2 c2-2u c2-2v c2-2w c2-2x c2-2t c2-2y c2-2z c2-30 c2-31 c2-32 c2-33 c2-34 c2-35 c2-36 c2-37 c2-38 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"></div></li><li data-ux="Block" data-edit-interactive="true" class="x-el x-el-li c2-1 c2-2 c2-2s c2-2t c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"><div role="button" data-edit-interactive="true" data-ux="Dot" data-aid="SLIDE_SELECTION_DOT_1" class="x-el x-el-div c2-1 c2-2 c2-39 c2-2v c2-2w c2-2x c2-2t c2-2y c2-2z c2-30 c2-31 c2-32 c2-33 c2-34 c2-35 c2-36 c2-37 c2-38 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"></div></li><li data-ux="Block" data-edit-interactive="true" class="x-el x-el-li c2-1 c2-2 c2-2s c2-2t c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"><div role="button" data-edit-interactive="true" data-ux="Dot" data-aid="SLIDE_SELECTION_DOT_2" class="x-el x-el-div c2-1 c2-2 c2-39 c2-2v c2-2w c2-2x c2-2t c2-2y c2-2z c2-30 c2-31 c2-32 c2-33 c2-34 c2-35 c2-36 c2-37 c2-38 c2-3 c2-4 c2-5 c2-6 c2-7 c2-8"></div></li></ul></div></div></div></div></span></div></div></div></div></section>  </div>
 
 <div id="0d8c29a2-033c-4bba-9669-e7316ac31a5f" class="widget widget-content widget-content-content-2"><div data-ux="Widget" role="region" id="0d8c29a2-033c-4bba-9669-e7316ac31a5f" class="x-el x-el-div x-el c1-1 c1-2 c1-6f c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-6f c1-i c1-j c1-b c1-c c1-l c1-m c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-27 c1-28 c1-6g c1-6h c1-1v c1-b c1-c c1-6i c1-d c1-6j c1-e c1-6k c1-f c1-6l c1-g"><h1 role="heading" aria-level="1" data-ux="SectionHeading" data-aid="CONTENT_SECTION_TITLE_RENDERED" data-promoted-from="2" data-order="0" data-typography="HeadingBeta" class="x-el x-el-h1 c1-1 c1-1a c1-1o c1-19 c1-6m c1-10 c1-y c1-x c1-6n c1-6o c1-1c c1-6p c1-6q c1-6r c1-6s c1-6t c1-6u c1-6v c1-6w"><span data-ux="Element" class="">BODY IN WHITE NEWS</span></h1><div data-ux="ContentCards" class="x-el x-el-div x-el c1-1 c1-2 c1-6o c1-3a c1-b c1-c c1-72 c1-73 c1-d c1-e c1-f c1-g c1-1 c1-2 c1-w c1-74 c1-75 c1-76 c1-x c1-77 c1-78 c1-79 c1-b c1-c c1-7a c1-7b c1-7c c1-7d c1-d c1-e c1-f c1-g">
+<div id="news-container" class="news-card-wrapper">
 <!-- 1 -->
 <div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-74 c1-7e c1-7f c1-3c c1-1v c1-22 c1-7g c1-39 c1-7h c1-w c1-b c1-c c1-7i c1-7j c1-7k c1-7l c1-7m c1-7n c1-d c1-7o c1-7p c1-e c1-f c1-g">
   <div data-ux="ContentCard" class="x-el x-el-div x-el c1-1 c1-2 c1-n c1-w c1-3h c1-u c1-6o c1-18 c1-4 c1-7q c1-7r c1-7s c1-7e c1-b c1-c c1-72 c1-73 c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g">
@@ -1594,7 +1609,7 @@ if ('serviceWorker' in navigator) {
   </div>
 </div>
 </div></div></section>  </div></div></div>
-  
+</div>
 <div id="7f2d8af6-eb9a-4edb-8228-4ffc186734a3" class="widget widget-content widget-content-content-2"><div data-ux="Widget" role="region" id="7f2d8af6-eb9a-4edb-8228-4ffc186734a3" class="x-el x-el-div x-el c1-1 c1-2 c1-h c1-b c1-c c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div> <section data-ux="Section" class="x-el x-el-section c1-1 c1-2 c1-h c1-i c1-j c1-b c1-c c1-l c1-m c1-d c1-e c1-f c1-g"><div data-ux="Container" class="x-el x-el-div c1-1 c1-2 c1-27 c1-28 c1-6g c1-6h c1-1v c1-b c1-c c1-6i c1-d c1-6j c1-e c1-6k c1-f c1-6l c1-g"><h2 role="heading" aria-level="2" data-ux="SectionHeading" data-aid="CONTENT_SECTION_TITLE_RENDERED" data-typography="HeadingBeta" class="x-el x-el-h2 c1-1 c1-1a c1-1o c1-19 c1-6m c1-10 c1-y c1-x c1-6n c1-6o c1-1c c1-6p c1-9f c1-6r c1-6s c1-6t c1-6u c1-6v c1-6w"><span data-ux="Element" class="">BODY IN WHITE FEATURES</span></h2><div data-ux="ContentCards" class="x-el x-el-div x-el c1-1 c1-2 c1-6o c1-3a c1-b c1-c c1-72 c1-73 c1-d c1-e c1-f c1-g c1-1 c1-2 c1-w c1-74 c1-75 c1-76 c1-x c1-77 c1-78 c1-79 c1-b c1-c c1-7a c1-7b c1-7c c1-7d c1-d c1-e c1-f c1-g">
 <!-- 7 -->
 <div data-ux="GridCell" class="x-el x-el-div c1-1 c1-2 c1-74 c1-7e c1-7f c1-3c c1-1v c1-22 c1-7g c1-39 c1-7h c1-w c1-b c1-c c1-7i c1-7j c1-7k c1-7l c1-7m c1-7n c1-d c1-7o c1-7p c1-e c1-f c1-g"><div data-ux="ContentCard" class="x-el x-el-div x-el c1-1 c1-2 c1-n c1-w c1-3h c1-u c1-6o c1-18 c1-4 c1-7q c1-7r c1-7s c1-7e c1-b c1-c c1-72 c1-73 c1-d c1-e c1-f c1-g c1-1 c1-2 c1-b c1-c c1-d c1-e c1-f c1-g"><div data-ux="Block" class="x-el x-el-div c1-1 c1-2 c1-4 c1-n c1-7t c1-b c1-c c1-2q c1-d c1-e c1-f c1-g"><h4 role="heading" aria-level="4" data-ux="ContentCardHeading" data-aid="CONTENT_HEADLINE1_RENDERED" data-typography="HeadingDelta" class="x-el x-el-h4 c1-1 c1-2 c1-1o c1-19 c1-7v c1-10 c1-y c1-x c1-z c1-7w c1-6a c1-b c1-64 c1-7y c1-6r c1-7z c1-80 c1-82 c1-83 c1-84">Major Players</h4><h4 role="heading" aria-level="4" data-ux="ContentCardHeading" data-typography="HeadingDelta" class="x-el x-el-h4 c1-1 c1-2 c1-1o c1-19 c1-7v c1-10 c1-y c1-x c1-5s c1-85 c1-5m c1-7w c1-6a c1-b c1-64 c1-7y c1-6r c1-86 c1-80 c1-82 c1-83 c1-84">Major Players</h4></div>
