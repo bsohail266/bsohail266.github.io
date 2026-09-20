@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "VW Group Scalable Systems Platform Delays Push Audi A4 E-Tron to 2029",
+      "title": "Jeremy Clarkson Is Selling Three Of His Most Famous Grand Tour Cars",
+      "url": "https://www.motor1.com/news/808816/jeremy-clarkson-selling-grand-tour-cars/",
+      "summary": "Jeremy Clarkson is selling three memorable cars from The Grand Tour, including the Lancia he drove in his final episode of the show.",
+      "image_url": "https://cdn.motor1.com/images/mgl/xqOblk/s3/jeremy-clarkson-selling-off-grand-tour-cars.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Gas Prices Are Up, And So Are EV Sales",
+      "url": "https://www.motor1.com/news/808800/new-used-ev-sales-rising/",
+      "summary": "New data shows that sales for new and used electric vehicles rose in August.",
+      "image_url": "https://cdn.motor1.com/images/mgl/1Z2yMM/s3/tesla-model-y-standard.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Chevy's New V8s Ditch The Dipstick And Go Digital To 'Simplify The Ownership Experience'",
+      "url": "https://www.motor1.com/news/808667/chevrolet-silverado-v8-engines-oil-dipstick/",
+      "summary": "GM\u2019s new user interface has a digital oil level gauge instead of a traditional dipstick.",
+      "image_url": "https://cdn.motor1.com/images/mgl/g4O9Pg/s3/2027-chevrolet-silverado-1500-trail-boss.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Audi's Next A4 Delayed Until 2029 As VW's New EV Platform Falls Behind",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Continued delays in Volkswagen Group's next-generation Scalable Systems Platform (SSP) have forced Audi to postpone production of its electric A4 replacement to March 2029. The unified EV architecture is intended to standardize chassis structural design and software integration across multi-brand vehicle segments.",
+      "summary": "Audi now targets March 2029 production, underscoring continued Volkswagen SSP delays.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "category": "EV Platforms"
+      "category": "Automotive News"
     },
     {
-      "title": "Maserati and JAC Partner on Next-Gen Electric GT and SUV Platform Strategy",
-      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
-      "summary": "Maserati is restructuring its electric vehicle platform manufacturing by pairing with JAC for structural manufacturing and Huawei software tech before final assembly in Italy. The platform realignment targets upcoming large GT and SUV electric vehicle architectures.",
-      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
-      "category": "Manufacturing"
+      "title": "For The First Time In Six Years, Ford Won't Win North American Truck Of The Year",
+      "url": "https://www.motor1.com/news/808764/2027-nactoy-truck-year-shortlist/",
+      "summary": "NACTOY\u2019s 2027 truck shortlist skips the Ford F-150, spotlighting Slate, Ram, and GM instead.",
+      "image_url": "https://cdn.motor1.com/images/mgl/wlk3BR/s3/2027-ford-f-150-lariat.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Aston Martin DB12 S Implements 50kg Mass Reduction for Dynamic Enhancement",
-      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
-      "summary": "Aston Martin's newly unveiled DB12 S super tourer incorporates structural lightweighting techniques that shed up to 50kg from the vehicle platform. The engineering focus delivers a higher power-to-weight ratio and improved torsional dynamics for track-oriented performance.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
-      "category": "Lightweight Structures"
-    },
-    {
-      "title": "McLaren to Phase Out Core Mid-Engine Platforms Ahead of Next-Gen Architecture",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/mclaren-retire-artura-gts-and-750s-next-two-years",
-      "summary": "McLaren plans to retire the Artura, GTS, and 750S model lines by 2028 as part of a major structural transition to a new supercar platform and SUV architecture. The upcoming structural design will accommodate advanced hybrid powertrains and refreshed carbon-tub layouts.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mclaren-artura-spider.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "UK Vehicle Production Bolstered by McLaren Factory and Nissan Platform Investments",
-      "url": "https://www.autocar.co.uk/opinion/electric-cars/mclaren-and-nissan-boosts-buy-time-uk-lags-ev-race",
-      "summary": "New capital injections into McLaren's body manufacturing capabilities and Nissan's Sunderland plant provide critical support to UK vehicle assembly lines. However, industry experts emphasize that broader transition timelines to dedicated EV body-in-white structures remain sluggish.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/18303-mpc-1.jpg",
-      "category": "Manufacturing"
-    },
-    {
-      "title": "Sixth-Generation Toyota RAV4 Platform Optimizes Plug-in Hybrid Battery Integration",
-      "url": "https://www.autocar.co.uk/car-review/toyota/rav4",
-      "summary": "The sixth-generation Toyota RAV4 features an updated platform architecture designed specifically to streamline plug-in hybrid system packaging and chassis reinforcement. The structural modifications accommodate larger battery capacity while preserving cabin volume and structural crash performance.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/toyota-rav4-review-2026-029.jpg",
-      "category": "Battery Integration"
+      "title": "Volvo Heard You: More Buttons Are Coming Back",
+      "url": "https://www.motor1.com/news/808713/volvo-more-buttons-new-cars/",
+      "summary": "The company's design boss admits overreliance on screens needs to stop.",
+      "image_url": "https://cdn.motor1.com/images/mgl/g42lJ8/s3/volvo-70-series-1996-2016.jpg",
+      "category": "Automotive News"
     }
   ]
 }
