@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Audi A4 e-tron Delayed Amid Volkswagen SSP EV Platform Delays",
+      "title": "VW Group Scalable Systems Platform Delays Push Audi A4 E-Tron to 2029",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Audi has delayed production of its electric A4 replacement to 2029 due to ongoing setbacks with Volkswagen Group's Scalable Systems Platform (SSP). The structural platform delay highlights technical challenges in standardizing software and chassis architecture across multi-brand EV lineups.",
+      "summary": "Continued delays in Volkswagen Group's next-generation Scalable Systems Platform (SSP) have forced Audi to postpone production of its electric A4 replacement to March 2029. The unified EV architecture is intended to standardize chassis structural design and software integration across multi-brand vehicle segments.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
       "category": "EV Platforms"
     },
     {
-      "title": "Volkswagen Unveils Mission Efficiency Concept with Focus on Aero and Lightweight Design",
-      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
-      "summary": "Volkswagen has revealed the Mission Efficiency concept, an aerodynamic EV study drawing structural design cues from the ultra-lightweight 2013 XL1. The concept explores advanced body efficiency and lightweight engineering for future compact electric vehicle architectures.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
+      "title": "Maserati and JAC Partner on Next-Gen Electric GT and SUV Platform Strategy",
+      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
+      "summary": "Maserati is restructuring its electric vehicle platform manufacturing by pairing with JAC for structural manufacturing and Huawei software tech before final assembly in Italy. The platform realignment targets upcoming large GT and SUV electric vehicle architectures.",
+      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
+      "category": "Manufacturing"
+    },
+    {
+      "title": "Aston Martin DB12 S Implements 50kg Mass Reduction for Dynamic Enhancement",
+      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
+      "summary": "Aston Martin's newly unveiled DB12 S super tourer incorporates structural lightweighting techniques that shed up to 50kg from the vehicle platform. The engineering focus delivers a higher power-to-weight ratio and improved torsional dynamics for track-oriented performance.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
       "category": "Lightweight Structures"
     },
     {
-      "title": "Aston Martin DB12 S Incorporates 50kg Structural Weight Reduction",
-      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
-      "summary": "Aston Martin's DB12 S performance flagship incorporates key structural optimizations to shed up to 50kg compared to the standard model. The weight-saving program enhances vehicle dynamics, body rigidity, and overall power-to-weight efficiency.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
-      "category": "Lightweight Engineering"
+      "title": "McLaren to Phase Out Core Mid-Engine Platforms Ahead of Next-Gen Architecture",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/mclaren-retire-artura-gts-and-750s-next-two-years",
+      "summary": "McLaren plans to retire the Artura, GTS, and 750S model lines by 2028 as part of a major structural transition to a new supercar platform and SUV architecture. The upcoming structural design will accommodate advanced hybrid powertrains and refreshed carbon-tub layouts.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mclaren-artura-spider.jpg",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Nissan Teases Pixo EV Based on Shared Alliance Small Car Architecture",
-      "url": "https://www.carsuk.net/nissan-pixo-teased-as-nissans-take-on-the-renault-twingo-and-new-dacia-spring/",
-      "summary": "Nissan has teased an entry-level electric city car utilizing the shared Renault-Nissan-Mitsubishi AmpR Small platform. Platform sharing allows optimized body tooling and lower production costs for high-volume urban electric vehicles.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Nissan-Pixo-Tease-1-W-590x332.webp",
-      "category": "EV Platforms"
+      "title": "UK Vehicle Production Bolstered by McLaren Factory and Nissan Platform Investments",
+      "url": "https://www.autocar.co.uk/opinion/electric-cars/mclaren-and-nissan-boosts-buy-time-uk-lags-ev-race",
+      "summary": "New capital injections into McLaren's body manufacturing capabilities and Nissan's Sunderland plant provide critical support to UK vehicle assembly lines. However, industry experts emphasize that broader transition timelines to dedicated EV body-in-white structures remain sluggish.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/18303-mpc-1.jpg",
+      "category": "Manufacturing"
     },
     {
-      "title": "Maserati Explores Shared EV Manufacturing Strategy for Future GT and SUV Platforms",
-      "url": "https://www.motor1.com/news/808755/maserati-huawei-ev-gt-suv/",
-      "summary": "Maserati is evaluating collaborative manufacturing and EV hardware sharing with partners like JAC and Huawei for its upcoming electric grand tourer and SUV models. The strategy aims to leverage low-cost structural assembly while maintaining premium brand alignment.",
-      "image_url": "https://cdn.motor1.com/images/mgl/2N4e1E/s3/maserati-grecale-2026.jpg",
-      "category": "Automotive Manufacturing"
-    },
-    {
-      "title": "Dacia Spring EV Leverages Modular Architecture for Low-Cost Urban Mobility",
-      "url": "https://www.carsuk.net/new-dacia-spring-ev-is-an-18k-renault-twingo-sibling/",
-      "summary": "The new Dacia Spring EV arrives built on Renault Group's modular small car platform, sharing key body structural components with the Renault Twingo. The entry-level architecture demonstrates efficient crash protection and weight management tailored for affordable EVs.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Dacia-Spring-2026-Front-W-590x296.webp",
-      "category": "Vehicle Platforms"
+      "title": "Sixth-Generation Toyota RAV4 Platform Optimizes Plug-in Hybrid Battery Integration",
+      "url": "https://www.autocar.co.uk/car-review/toyota/rav4",
+      "summary": "The sixth-generation Toyota RAV4 features an updated platform architecture designed specifically to streamline plug-in hybrid system packaging and chassis reinforcement. The structural modifications accommodate larger battery capacity while preserving cabin volume and structural crash performance.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/toyota-rav4-review-2026-029.jpg",
+      "category": "Battery Integration"
     }
   ]
 }
