@@ -1848,25 +1848,26 @@ if ('serviceWorker' in navigator) {
         }
     };
 </script>
+
+  
+      // Javascript Code starts here
 <script>
   // Local fallback images mapped strictly to Cards 1 through 6
   const BIW_FALLBACK_IMAGES = [
-    "Revolution-Body-Battery-Engineering.jpg",          // Card 1
+    "Revolution-Body-Battery-Engineering.jpg",           // Card 1
     "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",  // Card 2
-    "Lightweight-Materials.jpg",                       // Card 3
-    "safety-benchmark.jpg",                            // Card 4
-    "digital-twin-automotive.png",                     // Card 5
-    "tata-sierra-ev.jpg"                               // Card 6
+    "Lightweight-Materials.jpg",                        // Card 3
+    "safety-benchmark.jpg",                             // Card 4
+    "digital-twin-automotive.png",                      // Card 5
+    "tata-sierra-ev.jpg"                                // Card 6
   ];
 
   // Helper function to safely update a single card by its JSON article index and card number ID
   function updateSingleCard(article, cardNumber) {
     if (!article) return;
 
-    // Determine slot-specific default local image
     const slotFallback = BIW_FALLBACK_IMAGES[(cardNumber - 1) % BIW_FALLBACK_IMAGES.length];
     
-    // Extract property keys safely regardless of python backend naming (link/url, image/image_url)
     const targetUrl = article.url || article.link || "#";
     const targetImage = article.image_url || article.image || slotFallback;
 
@@ -1886,15 +1887,13 @@ if ('serviceWorker' in navigator) {
     const imgElem = document.getElementById(`card${cardNumber}-img`);
     if (imgElem) {
       imgElem.alt = article.title || "Body in White Automotive Engineering";
-      imgElem.removeAttribute('srcset'); // Removes builder override so dynamic image loads
+      imgElem.removeAttribute('srcset');
 
-      // Attach error handler BEFORE setting src to catch immediate loading failures
       imgElem.onerror = function() {
-        this.onerror = null; // Prevent infinite fallback loops
+        this.onerror = null;
         this.src = slotFallback;
       };
 
-      // Assign article image or slot fallback if URL is empty or whitespace
       imgElem.src = (targetImage && targetImage.trim() !== '') ? targetImage : slotFallback;
     }
 
@@ -1917,7 +1916,6 @@ if ('serviceWorker' in navigator) {
 
       const data = await response.json();
       
-      // Support both root array format [...] and wrapped object format { biw_news: [...] }
       const articles = Array.isArray(data) ? data : (data.biw_news || []);
       if (articles.length === 0) return;
 
@@ -1928,6 +1926,12 @@ if ('serviceWorker' in navigator) {
 
     } catch (err) {
       console.error("Error updating AI news cards:", err);
+    } finally {
+      // Reveal the container smoothly ONLY AFTER the data is fetched & cards are updated
+      const newsContainer = document.getElementById('news-container');
+      if (newsContainer) {
+        newsContainer.classList.add('is-loaded');
+      }
     }
   }
 
