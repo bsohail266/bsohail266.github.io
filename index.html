@@ -1427,7 +1427,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image" 
              data-aid="CONTENT_IMAGE1_RENDERED" 
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;">      
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;">      
       </a>
     </div>
 
@@ -1463,7 +1463,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image" 
              data-aid="CONTENT_IMAGE2_RENDERED" 
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;">      
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;">      
       </a>
     </div>
 
@@ -1500,7 +1500,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image" 
              data-aid="CONTENT_IMAGE3_RENDERED" 
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;">      
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;">      
       </a>
     </div>
 
@@ -1537,7 +1537,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image" 
              data-aid="CONTENT_IMAGE4_RENDERED"
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;">     
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;">     
       </a>
     </div>
 
@@ -1573,7 +1573,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image" 
              data-aid="CONTENT_IMAGE5_RENDERED"
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;"
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;"
              onerror="this.onerror=null; this.src='digital-twin-automotive.png';">     
       </a>
     </div>
@@ -1610,7 +1610,7 @@ if ('serviceWorker' in navigator) {
              data-ux="Image"
              data-aid="CONTENT_IMAGE6_RENDERED"
              class="x-el x-el-img c1-1 c1-2 c1-4 c1-1v c1-27 c1-28 c1-x c1-z c1-29 c1-87 c1-2g c1-b c1-c c1-88 c1-d c1-e c1-f c1-g"
-             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important;">     
+             style="width: 100% !important; height: 194px !important; object-fit: fill !important; display: block !important; border-radius: 4px !important; opacity: 0; transition: opacity 0.25s ease;">     
       </a>
     </div>
 
@@ -1874,40 +1874,52 @@ if ('serviceWorker' in navigator) {
   ];
 
   function updateSingleCard(article, cardNumber) {
-    if (!article) return;
+  if (!article) return;
 
-    const slotFallback = BIW_FALLBACK_IMAGES[(cardNumber - 1) % BIW_FALLBACK_IMAGES.length];
-    const targetUrl = article.url || article.link || "#";
-    const targetImage = article.image_url || article.image || slotFallback;
+  const slotFallback = BIW_FALLBACK_IMAGES[(cardNumber - 1) % BIW_FALLBACK_IMAGES.length];
+  const targetUrl = article.url || article.link || "#";
+  const targetImage = article.image_url || article.image || slotFallback;
 
-    const titleElem = document.getElementById(`card${cardNumber}-title`);
-    if (titleElem) {
-      titleElem.innerHTML = `<a href="${targetUrl}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${article.title}</a>`;
-    }
-
-    const linkElem = document.getElementById(`card${cardNumber}-link`);
-    if (linkElem) {
-      linkElem.href = targetUrl;
-    }
-
-    const imgElem = document.getElementById(`card${cardNumber}-img`);
-    if (imgElem) {
-      imgElem.alt = article.title || "Body in White Automotive Engineering";
-      imgElem.removeAttribute('srcset');
-
-      imgElem.onerror = function() {
-        this.onerror = null;
-        this.src = slotFallback;
-      };
-
-      imgElem.src = (targetImage && targetImage.trim() !== '') ? targetImage : slotFallback;
-    }
-
-    const summaryElem = document.getElementById(`card${cardNumber}-summary`);
-    if (summaryElem) {
-      summaryElem.textContent = article.summary || "";
-    }
+  // 1. Update Title
+  const titleElem = document.getElementById(`card${cardNumber}-title`);
+  if (titleElem) {
+    titleElem.innerHTML = `<a href="${targetUrl}" target="_blank" rel="noopener" style="color: inherit; text-decoration: none;">${article.title}</a>`;
   }
+
+  // 2. Update Link
+  const linkElem = document.getElementById(`card${cardNumber}-link`);
+  if (linkElem) {
+    linkElem.href = targetUrl;
+  }
+
+  // 3. Update Image & fade in once loaded
+  const imgElem = document.getElementById(`card${cardNumber}-img`);
+  if (imgElem) {
+    imgElem.alt = article.title || "Body in White Automotive Engineering";
+    imgElem.removeAttribute('srcset');
+
+    // Create offscreen image object to preload dynamic source silently
+    const tempImg = new Image();
+    
+    tempImg.onload = function() {
+      imgElem.src = tempImg.src;
+      imgElem.style.opacity = '1'; // Fade image in smoothly
+    };
+
+    tempImg.onerror = function() {
+      imgElem.src = slotFallback;
+      imgElem.style.opacity = '1';
+    };
+
+    tempImg.src = (targetImage && targetImage.trim() !== '') ? targetImage : slotFallback;
+  }
+
+  // 4. Update Summary
+  const summaryElem = document.getElementById(`card${cardNumber}-summary`);
+  if (summaryElem) {
+    summaryElem.textContent = article.summary || "";
+  }
+}
 
   async function updateAiNewsCards() {
     const revealContainer = () => {
