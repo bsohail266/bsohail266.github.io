@@ -28,10 +28,15 @@ RSS_FEEDS = [
     "https://auto.economictimes.indiatimes.com/rss/auto-components",
     "https://auto.economictimes.indiatimes.com/rss/topstories",
     "https://www.carsuk.net/feed/",
-    "https://group.mercedes-benz.com/en/",
-    "https://www.bmwgroup.com/en/company.html",
-    "https://www.tatamotors.com",
-    "https://www.mahindra.com/our-business/automotive"
+    "https://rss.app/feeds/9L2XDsRAmES6aHKD.xml",
+    "https://rss.app/feeds/kZGAHISKoHrqHrp0.xml",
+    "https://rss.app/feeds/EJIBllUyZPHThgh5.xml",
+    "https://rss.app/feeds/FOEoWZL08pNjAFUp.xml",
+    "https://rss.app/feeds/G7fBOGsCJ3GmEiRk.xml",
+    "https://rss.app/feeds/Wpco9Bejny1LC9x0.xml",
+    "https://rss.app/feeds/7ngZlU746jTraEA3.xml",
+    "https://rss.app/feeds/qZrT6qTg8fmQtQlq.xml",
+    "https://rss.app/feeds/iv5K1yNqQGrlZ58k.xml"
 ]
 
 # 6 distinct, local fallback images mapped strictly to Cards 1 through 6
