@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
+      "title": "Honda Is Fast-Tracking Its Next Hybrids, Including The CR-V: Report",
+      "url": "https://www.motor1.com/news/809014/honda-crv-hybrid-production-rumor/",
+      "summary": "Honda will reportedly begin producing the new CR-V Hybrid as soon as this February.",
+      "image_url": "https://cdn.motor1.com/images/mgl/9mWNO0/s3/2026-honda-cr-v-trailsport-hybrid.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Porsche Is Working On An Automatic That Pretends To Be A Manual",
+      "url": "https://www.motor1.com/news/808978/porsche-simulated-manual-transmission-patent/",
+      "summary": "A new patent filing reveals Porsche's idea to turn a dual-clutch automatic gearbox into a manual transmission.",
+      "image_url": "https://cdn.motor1.com/images/mgl/Oo2PKY/s3/2025-porsche-911-carrera-t-cabriolet-first-drive.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "This Mazda Miata Packs A 3.0-Liter V6 With Porsche DNA",
+      "url": "https://www.motor1.com/news/808952/mazda-mx-5-nc-rocketeer/",
+      "summary": "Rocketeer turns the overlooked Mazda MX-5 NC into a 304-horsepower V6 restomod, keeping the factory balance while undercutting many new sports cars.",
+      "image_url": "https://cdn.motor1.com/images/mgl/QeGP81/s3/rocketeer-cars-mazda-mx-5-miata-nc.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "GM Teases New 8.3-Liter Duramax Diesel V8 For Its Heavy-Duty Trucks",
+      "url": "https://www.motor1.com/news/808985/general-motors-teases-new-duramax-diesel-engine-mongoose/",
+      "summary": "It's called the Mongoose, and is ready to fight Ford's 6.7-liter \"Scorpion\" Power Stroke V8 diesel.",
+      "image_url": "https://cdn.motor1.com/images/mgl/qk8ZEq/s3/gm-8.3l-duramax-diesel-v8-badge-teaser.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Nissan's New Skyline Finally Has A Debut Date: December 2026",
+      "url": "https://www.motor1.com/news/808942/next-gen-nissan-skyline-debut-date/",
+      "summary": "Nissan\u2019s 14th-generation Skyline shows up in just a few months.",
+      "image_url": "https://cdn.motor1.com/images/mgl/y2le0e/s3/nissan-skyline-rendering-by-motor1.jpg",
+      "category": "Automotive News"
+    },
+    {
       "title": "2027 Nissan Rogue Hybrid Debuts With 38 MPG. But It's Not A Traditional Hybrid",
       "url": "https://www.motor1.com/news/808824/2027-nisssan-rouge-hybrid-powertrain-specs-price/",
       "summary": "The 2027 Nissan Rogue Hybrid is the automaker's first model in the United States with its e-Power series hybrid system.",
       "image_url": "https://cdn.motor1.com/images/mgl/lE47bM/s3/2027-nissan-rogue-hybrid.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Tesla Reopens Roadster Reservations With A $50,000 Deposit",
-      "url": "https://www.motor1.com/news/808935/tesla-roadster-50-000-reservations/",
-      "summary": "After nearly nine years of delays, Tesla Roadster deposits return with a $50,000 structure that raises fresh questions about pricing and real production timing.",
-      "image_url": "https://cdn.motor1.com/images/mgl/1ZP4Xw/s3/tesla-roadster-reservation-form.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Massimo Mini Truck Is A $2,999 Two Person Off Road Go-Kart",
-      "url": "https://www.motor1.com/news/808931/massimo-mini-truck-a-2/",
-      "summary": "Massimo's Mini Truck channels classic 4x4 style with a 125cc engine and $2,999 price, but it is strictly an off-road toy for older teens.",
-      "image_url": "https://cdn.motor1.com/images/mgl/Rqb9RP/s3/massimo-mini-truck.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Porsche Is Planning A New Supercar With A Flat-Eight Engine: Report",
-      "url": "https://www.motor1.com/news/808907/porsche-new-supercar-flat-eight-engine/",
-      "summary": "The alleged \"S1\" is said to have an eight-cylinder boxer engine and a price tag well above the 911.",
-      "image_url": "https://cdn.motor1.com/images/mgl/6ZOz0r/s3/2017-porsche-919-clay-model.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "TechArt Finally Builds A 911 Restomod To Take On Singer",
-      "url": "https://www.motor1.com/news/808921/techart-gtclassic-911-restomod-marks/",
-      "summary": "TechArt\u2019s 964-based GTclassic mixes 374-horsepower performance, retro styling, and daily usability to stand out in an overcrowded Porsche restomod scene.",
-      "image_url": "https://cdn.motor1.com/images/mgl/xqObVz/s3/techart-gtclassic-porsche-911.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Aston Martin Valhalla Spider Reportedly Debuts In November",
-      "url": "https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/",
-      "summary": "November 2026 should bring the Aston Martin Valhalla Spider, pairing a targa-style roof with PHEV hypercar performance aimed at collectors and track drivers.",
-      "image_url": "https://cdn.motor1.com/images/mgl/9m42Y0/s3/2025-aston-martin-valhalla.jpg",
       "category": "Automotive News"
     }
   ]
