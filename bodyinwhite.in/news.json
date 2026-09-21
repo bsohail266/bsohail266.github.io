@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Novelis and Maxion Engineering High-Strength Aluminum Battery Enclosures for Commercial Vehicles",
-      "url": "https://www.lightmetalage.com/news/industry-news/automotive/novelis-and-maxion-introduce-innovative-aluminum-battery-housing-for-electric-commercial-vehicles/",
-      "summary": "Novelis and Maxion Structural Components have collaboratively designed a novel aluminum battery housing aimed at heavy-duty electric commercial vehicles. The structural enclosure prioritizes lightweighting, frame rigidity, and enhanced crashworthiness while maintaining optimal thermal management for large-capacity battery modules.",
-      "image_url": "Revolution-Body-Battery-Engineering.jpg",
-      "category": "Structural Engineering"
+      "title": "2027 Nissan Rogue Hybrid Debuts With 38 MPG. But It's Not A Traditional Hybrid",
+      "url": "https://www.motor1.com/news/808824/2027-nisssan-rouge-hybrid-powertrain-specs-price/",
+      "summary": "The 2027 Nissan Rogue Hybrid is the automaker's first model in the United States with its e-Power series hybrid system.",
+      "image_url": "https://cdn.motor1.com/images/mgl/lE47bM/s3/2027-nissan-rogue-hybrid.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Leapmotor Unveils LEAP 5.0 Architecture Featuring CTC 3.0 Structural Battery Integration",
-      "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
-      "summary": "Leapmotor introduced its next-generation LEAP 5.0 modular platform alongside CTC 3.0 (Cell-to-Chassis) technology, integrating the battery pack directly into the vehicle's structural floorpan. This structural integration eliminates redundant packaging layers, significantly enhancing torsional stiffness, space utilization, and overall vehicle mass efficiency.",
-      "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
-      "category": "Platform Architecture"
+      "title": "Tesla Reopens Roadster Reservations With A $50,000 Deposit",
+      "url": "https://www.motor1.com/news/808935/tesla-roadster-50-000-reservations/",
+      "summary": "After nearly nine years of delays, Tesla Roadster deposits return with a $50,000 structure that raises fresh questions about pricing and real production timing.",
+      "image_url": "https://cdn.motor1.com/images/mgl/1ZP4Xw/s3/tesla-roadster-reservation-form.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "AZL Aachen Commissions JetBlast System for Thermal Load Testing of Composites and Battery Casings",
-      "url": "https://chargedevs.com/newswire/azl-commissions-jetblast-system-for-flame-and-hot-particle-testing-of-battery-casings/",
-      "summary": "AZL Aachen has deployed JetBlast, an advanced simulation test rig designed to evaluate lightweight composite materials and battery enclosure structures under thermal runaway conditions. The apparatus subjects casing materials to combined flame exposure and high-velocity thermal particle blasts to validate structural integrity and containment safety under severe venting events.",
-      "image_url": "https://chargedevs.com/wp-content/uploads/2026/09/PR_JetBlast_2_\u00a9AZL-Aachen-GmbH-2-300x100.jpg",
-      "category": "Structural Safety & Materials"
+      "title": "Massimo Mini Truck Is A $2,999 Two Person Off Road Go-Kart",
+      "url": "https://www.motor1.com/news/808931/massimo-mini-truck-a-2/",
+      "summary": "Massimo's Mini Truck channels classic 4x4 style with a 125cc engine and $2,999 price, but it is strictly an off-road toy for older teens.",
+      "image_url": "https://cdn.motor1.com/images/mgl/Rqb9RP/s3/massimo-mini-truck.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "ET Foundation Opens 2027 Aluminum Extrusion Competition for Structural Automotive Applications",
-      "url": "https://www.lightmetalage.com/news/industry-news/extrusion/et-foundation-invites-professionals-and-students-to-enter-the-2027-aluminum-extrusion-design-competition/",
-      "summary": "The Extrusions Technology Educational Foundation has launched its 2027 design competition emphasizing structural innovations in engineered aluminum extrusions. The challenge highlights crash-absorbing profiles, multi-hollow extrusions, and lightweight structural joinery solutions for next-generation automotive architecture.",
-      "image_url": "safety-benchmark.jpg",
-      "category": "Lightweight Materials"
+      "title": "Porsche Is Planning A New Supercar With A Flat-Eight Engine: Report",
+      "url": "https://www.motor1.com/news/808907/porsche-new-supercar-flat-eight-engine/",
+      "summary": "The alleged \"S1\" is said to have an eight-cylinder boxer engine and a price tag well above the 911.",
+      "image_url": "https://cdn.motor1.com/images/mgl/6ZOz0r/s3/2017-porsche-919-clay-model.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Toyota Integrates Adaptive Automation and Robotic Systems Across Assembly Line Operations",
-      "url": "https://www.motor1.com/news/808869/toyota-factory-robots-they-mean/",
-      "summary": "Toyota is deploying 400,000 collaborative industrial robots across its manufacturing footprint to optimize assembly consistency and body shop throughput. Designed to work alongside skilled assembly technicians, these automated units improve dimensional tolerances during body assembly and advanced joining processes.",
-      "image_url": "https://cdn.motor1.com/images/mgl/ojEBMp/s3/toyota-eley-robot.jpg",
-      "category": "Advanced Manufacturing"
+      "title": "TechArt Finally Builds A 911 Restomod To Take On Singer",
+      "url": "https://www.motor1.com/news/808921/techart-gtclassic-911-restomod-marks/",
+      "summary": "TechArt\u2019s 964-based GTclassic mixes 374-horsepower performance, retro styling, and daily usability to stand out in an overcrowded Porsche restomod scene.",
+      "image_url": "https://cdn.motor1.com/images/mgl/xqObVz/s3/techart-gtclassic-porsche-911.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Lucid and Bolt Partner to Deploy Midsize EV Skateboard Architecture for Autonomous Fleets",
-      "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-      "summary": "Lucid and Bolt have announced plans to deploy at least 25,000 autonomous electric vehicles engineered on Lucid's upcoming dedicated midsize EV platform in European markets. The modular skateboard architecture provides structural rigidity, low center of gravity, and high payload integration designed specifically for intensive commercial autonomous duty cycles.",
-      "image_url": "https://www.electrive.com/media/2026/09/202609-bolt-lucid-group-kooperation-ki-autonomes-fahren-400x267.jpg",
-      "category": "EV Platforms"
+      "title": "Aston Martin Valhalla Spider Reportedly Debuts In November",
+      "url": "https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/",
+      "summary": "November 2026 should bring the Aston Martin Valhalla Spider, pairing a targa-style roof with PHEV hypercar performance aimed at collectors and track drivers.",
+      "image_url": "https://cdn.motor1.com/images/mgl/9m42Y0/s3/2025-aston-martin-valhalla.jpg",
+      "category": "Automotive News"
     }
   ]
 }
