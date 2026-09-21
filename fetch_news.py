@@ -36,7 +36,23 @@ RSS_FEEDS = [
     "https://rss.app/feeds/Wpco9Bejny1LC9x0.xml",
     "https://rss.app/feeds/7ngZlU746jTraEA3.xml",
     "https://rss.app/feeds/qZrT6qTg8fmQtQlq.xml",
-    "https://rss.app/feeds/iv5K1yNqQGrlZ58k.xml"
+    "https://rss.app/feeds/iv5K1yNqQGrlZ58k.xml",
+    "https://www.sae.org/news/rss/all",
+    "https://www.autonews.com/rss/all-news",
+    "https://www.automotive-iq.com/rss/articles",
+    "https://www.marklines.com/en/rss/news.xml",
+    "https://www.greencarcongress.com/atom.xml",
+    "https://www.electrive.com/feed/",
+    "https://chargedevs.com/feed/",
+    "https://insideevs.com/rss/news/all/",
+    "https://www.greencarreports.com/rss/news",
+    "https://www.thefabricator.com/rss",
+    "https://www.lightmetalage.com/feed/",
+    "https://www.compositesworld.com/rss/articles",
+    "https://www.aws.org/rss/news",
+    "https://www.drivespark.com/rss/news.xml",
+    "https://www.rushlane.com/feed",
+    "https://www.caranddriver.com/rss/all.xml/"
 ]
 
 # 6 distinct, local fallback images mapped strictly to Cards 1 through 6
