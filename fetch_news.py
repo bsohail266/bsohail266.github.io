@@ -187,7 +187,7 @@ def fetch_rss_articles():
     return collected_items
 
 def summarize_with_gemini(articles):
-prompt = f"""
+    prompt = f"""
     You are the Lead Automotive Structural & BIW Engineering Editor for bodyinwhite.in.
     Analyze the following list of raw automotive news articles and select EXACTLY 6 articles using a strict priority hierarchy.
 
