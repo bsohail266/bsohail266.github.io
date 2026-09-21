@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Leapmotor Unveils LEAP 5.0 Architecture and CTC 3.0 Battery Integration",
+      "title": "Leapmotor Introduces LEAP 5.0 Architecture and CTC 3.0 Cell-to-Chassis Tech",
       "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
-      "summary": "Leapmotor introduced its LEAP 5.0 Mobile Space Architecture alongside CTC 3.0 Cell-to-Chassis battery integration. The platform maximizes interior spatial efficiency while optimizing chassis rigidity and reducing low-voltage system complexity.",
+      "summary": "Leapmotor unveiled its LEAP 5.0 vehicle architecture designed to optimize cabin space along with a Cell-to-Chassis (CTC 3.0) battery integration system. The structural innovation integrates high and low voltage functionality to eliminate traditional 12V battery dependencies.",
       "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
-      "category": "Battery Integration"
+      "category": "Structural Engineering"
     },
     {
-      "title": "Aston Martin DB12 S Focuses on Weight Reduction and Dynamic Performance",
-      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
-      "summary": "Aston Martin's DB12 S super tourer achieves a structural weight reduction of up to 50kg compared to standard variants. The weight-saving engineering is combined with targeted chassis revisions to optimize vehicle dynamics.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
-      "category": "Lightweight Engineering"
-    },
-    {
-      "title": "Volkswagen SSP EV Platform Delays Push Audi A4 e-tron Production to 2029",
+      "title": "Volkswagen Group Delays Next-Gen Scalable Systems Platform (SSP)",
       "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Production of the all-electric Audi A4 e-tron has been rescheduled to 2029 due to software and development bottlenecks with Volkswagen Group's Scalable Systems Platform (SSP). The delay affects the rollout of next-generation EV body structures.",
+      "summary": "Software and platform development bottlenecks have forced Volkswagen to push the rollout of its unified SSP EV architecture to 2029. The delay impacts core structural and vehicle program launches across Audi and VW brands.",
       "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
       "category": "EV Platforms"
     },
     {
-      "title": "Volkswagen Unveils Mission Efficiency Aero Concept Based on XL1 Legacy",
-      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
-      "summary": "Volkswagen revealed the Mission Efficiency concept, an extreme aerodynamic development built upon the ID.Polo platform architecture. Drawing engineering principles from the ultra-light XL1, the study focuses on body drag reduction and lightweight structures.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
-      "category": "Structural Engineering"
+      "title": "Aston Martin DB12 S Achieves 50kg Mass Reduction Through Structural Optimization",
+      "url": "https://www.autocar.co.uk/car-review/aston-martin/db12-s",
+      "summary": "The performance-focused Aston Martin DB12 S variant cuts up to 50kg of kerb weight through targeted structural lightweighting and chassis tuning. Power is also increased alongside improved dynamic stiffness.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/aston-martin-db12-s-review-2026-001_0.jpg",
+      "category": "Lightweight Structures"
     },
     {
-      "title": "Audi Begins Assembly Line Production of New Compact A2 e-tron",
+      "title": "Audi Commences Series Production of Compact A2 e-tron in Ingolstadt",
       "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
-      "summary": "Audi has officially started manufacturing the compact A2 e-tron EV at its Ingolstadt facility. The assembly line integration highlights optimized body production processes designed for high manufacturing efficiency.",
+      "summary": "Audi has officially started body assembly and manufacturing of the all-electric A2 e-tron at its main plant in Ingolstadt. Production processes focus on maximum assembly efficiency and streamlined structural manufacturing.",
       "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
       "category": "Automotive Manufacturing"
     },
     {
-      "title": "Ford Validates Vehicle Hardware and Body Integrity in Extreme Thermal Testing",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-brutal-heat-testing-arizona-desert",
-      "summary": "Ford engineers are subjecting pre-production vehicles to severe high-temperature load testing in the Arizona desert. The program evaluates structural thermal expansion, body joint integrity, and hardware durability under high heat stress.",
-      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/inside-ford%E2%80%99s-brutal-heat-testing--110-degrees-in-the-arizona-desert-/01_APG_Hot_Weather_Testing_Explorer.webp",
-      "category": "Vehicle Safety & Testing"
+      "title": "Volkswagen Unveils Ultra-Efficient Lightweight Concept Derived from XL1 Design",
+      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
+      "summary": "Volkswagen has revealed the Mission Efficiency concept, drawing engineering inspiration from the ultra-lightweight XL1 monocoque principles. The EV concept explores extreme aerodynamic profiling paired with lightweight body structures.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
+      "category": "Lightweight Structures"
+    },
+    {
+      "title": "Ford Expands Kentucky Assembly Operations with New Manufacturing Capital Investment",
+      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-new-investment-kentucky-truck-plant",
+      "summary": "Ford has committed new funding toward its Kentucky Truck Plant to upgrade manufacturing infrastructure and assembly line flexibility. The investment supports ongoing body assembly and production scaling for high-margin truck platforms.",
+      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/ford-deepens-commitment-to-kentucky/expedition-kentucky-truck-S5A5682.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+      "category": "Automotive Manufacturing"
     }
   ]
 }
