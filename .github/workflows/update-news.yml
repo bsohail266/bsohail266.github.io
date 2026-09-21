@@ -1,7 +1,7 @@
 name: Automated BIW News Update
 
 on:
- # 7:23 PM UTC = 00:53 AM IST (runs around 7:00 AM - 8:00 AM IST)
+ schedule:
     - cron: '0 2 * * *'
   workflow_dispatch:
 
