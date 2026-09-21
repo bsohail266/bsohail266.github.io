@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Leapmotor Unveils LEAP 5.0 Modular Architecture and Cell-to-Chassis (CTC) 3.0 Integration",
-      "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
-      "summary": "Leapmotor introduced its LEAP 5.0 vehicle architecture alongside next-generation CTC 3.0 cell-to-chassis battery integration. The structural platform optimizes spatial efficiency and chassis rigidity while advancing low-voltage electrical integration directly into the floor structure.",
-      "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
-      "category": "Cell-to-Body Architecture"
+      "title": "Massimo Mini Truck Is A $2,999 Two Person Off Road Go-Kart",
+      "url": "https://www.motor1.com/news/808931/massimo-mini-truck-a-2/",
+      "summary": "Massimo's Mini Truck channels classic 4x4 style with a 125cc engine and $2,999 price, but it is strictly an off-road toy for older teens.",
+      "image_url": "https://cdn.motor1.com/images/mgl/Rqb9RP/s3/massimo-mini-truck.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Toyota Integrates 400,000 Adaptive Assembly Robots to Enhance Body Shop Precision",
-      "url": "https://www.motor1.com/news/808869/toyota-factory-robots-they-mean/",
-      "summary": "Toyota is deploying 400,000 collaborative industrial robots across its manufacturing plants to refine automated assembly lines. By incorporating craftsman-trained motion algorithms, the initiative aims to improve dimensional consistency and structural build quality in high-volume body manufacturing.",
-      "image_url": "https://cdn.motor1.com/images/mgl/ojEBMp/s3/toyota-eley-robot.jpg",
-      "category": "Advanced Manufacturing"
+      "title": "Porsche Is Planning A New Supercar With A Flat-Eight Engine: Report",
+      "url": "https://www.motor1.com/news/808907/porsche-new-supercar-flat-eight-engine/",
+      "summary": "The alleged \"S1\" is said to have an eight-cylinder boxer engine and a price tag well above the 911.",
+      "image_url": "https://cdn.motor1.com/images/mgl/6ZOz0r/s3/2017-porsche-919-clay-model.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Volkswagen Group Postpones Audi A4 Production Amid SSP Architecture Development Delays",
-      "url": "https://www.motor1.com/news/808773/audi-a4-tron-delayed-2029/",
-      "summary": "Audi has rescheduled the launch of its next-generation A4 to 2029 due to ongoing development bottlenecks with Volkswagen Group's Scalable Systems Platform (SSP). The unified mechatronic platform is designed to consolidate multi-segment chassis architectures, structural battery interfaces, and zonal electronics across group brands.",
-      "image_url": "https://cdn.motor1.com/images/mgl/QebrPB/s3/2025-audi-concept-c.jpg",
-      "category": "EV Platforms"
+      "title": "TechArt Finally Builds A 911 Restomod To Take On Singer",
+      "url": "https://www.motor1.com/news/808921/techart-gtclassic-911-restomod-marks/",
+      "summary": "TechArt\u2019s 964-based GTclassic mixes 374-horsepower performance, retro styling, and daily usability to stand out in an overcrowded Porsche restomod scene.",
+      "image_url": "https://cdn.motor1.com/images/mgl/xqObVz/s3/techart-gtclassic-porsche-911.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Volkswagen Reveals Mission Efficiency Concept Demonstrating Ultra-Lightweight EV Structure",
-      "url": "https://www.carsuk.net/volkswagen-mission-efficiency-revealed-as-the-electric-offspring-of-the-volkswagen-xl1/",
-      "summary": "Volkswagen has debuted the Mission Efficiency concept, applying ultra-lightweight structural principles derived from the high-efficiency XL1 monocoque project. The design focuses on extreme aerodynamic drag reduction and optimized body-in-white material hybridization for entry-segment electric architectures.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-Mission-Efficiency-W-590x283.webp",
-      "category": "Lightweight Architecture"
+      "title": "Aston Martin Valhalla Spider Reportedly Debuts In November",
+      "url": "https://www.motor1.com/news/808899/aston-martin-valhalla-spider-november/",
+      "summary": "November 2026 should bring the Aston Martin Valhalla Spider, pairing a targa-style roof with PHEV hypercar performance aimed at collectors and track drivers.",
+      "image_url": "https://cdn.motor1.com/images/mgl/9m42Y0/s3/2025-aston-martin-valhalla.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Audi Commences Assembly of A2 e-tron at Ingolstadt Plant Production Line",
-      "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
-      "summary": "Audi has officially initiated series production of the compact A2 e-tron at its main Ingolstadt facility. The manufacturing rollout leverages digitized body shop tools and optimized assembly flows to maximize structural build efficiency and vehicle production throughput.",
-      "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
-      "category": "Body Shop Automation"
+      "title": "Volkswagen Group Warns 'We Have No Time To Lose' As Problems Worsen",
+      "url": "https://www.motor1.com/news/808889/vw-warns-no-time-lose/",
+      "summary": "VW is cutting costs, slashing jobs, and lowering its profit outlook as China, EVs, and Germany's high costs pile on the pressure.",
+      "image_url": "https://cdn.motor1.com/images/mgl/7ZE06q/s3/2026-vw-id.-polo.jpg",
+      "category": "Automotive News"
     },
     {
-      "title": "Ford Conducts High-Temperature Durability and Structural Load Testing in Arizona Proving Grounds",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/ford-brutal-heat-testing-arizona-desert",
-      "summary": "Ford engineers are subjecting vehicle platforms to thermal and mechanical fatigue testing under severe desert conditions at the Arizona Proving Grounds. The testing protocol evaluates structural chassis performance, material degradation, and thermal management systems under extreme operational loads.",
-      "image_url": "https://www.fromtheroad.ford.com/content/dam/fordmediasite/us/en/library/2026/inside-ford%E2%80%99s-brutal-heat-testing--110-degrees-in-the-arizona-desert-/01_APG_Hot_Weather_Testing_Explorer.webp",
-      "category": "Structural Safety & Durability"
+      "title": "VW ID. Buzz Sets World Record With 92-Country Trip, No Technical Breakdowns",
+      "url": "https://www.motor1.com/news/808890/vw-id-buzz-world-record/",
+      "summary": "Record driver Rainer Zietlow covered 99,767 kilometers in a Volkswagen ID.Buzz, visiting 92 countries without a single technical breakdown.",
+      "image_url": "https://cdn.motor1.com/images/mgl/KbZBGl/s3/volkswagen-id.-buzz-world-tour---thailand.jpg",
+      "category": "Automotive News"
     }
   ]
 }
