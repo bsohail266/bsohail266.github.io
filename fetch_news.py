@@ -187,13 +187,34 @@ def fetch_rss_articles():
     return collected_items
 
 def summarize_with_gemini(articles):
-    prompt = f"""
-    You are an automotive engineering editor for bodyinwhite.in.
-    Analyze the following list of raw automotive news articles and select EXACTLY 6 articles.
-    
-    Prioritize topics related to Body in White (BIW), lightweight structures, EV platforms, battery integration, manufacturing, or crash safety. If fewer than 6 strictly BIW articles exist, include broader automotive technology and new vehicle platform announcements to reach EXACTLY 6 articles.
+prompt = f"""
+    You are the Lead Automotive Structural & BIW Engineering Editor for bodyinwhite.in.
+    Analyze the following list of raw automotive news articles and select EXACTLY 6 articles using a strict priority hierarchy.
 
-    For each of the 6 selected items, retain its original `image_url` field from the input provided.
+    --- SELECTION HIERARCHY & WEIGHTING ---
+    You must evaluate each article and prioritize them based on the following tiers:
+
+    TIER 1 (HIGHEST PRIORITY - Include as many as exist):
+    - Body in White (BIW), body structure, chassis design, spaceframe, monocoque architecture.
+    - Sheet metal stamping, hot stamping, press hardening, casting (megacasting / gigacasting).
+    - Joining technologies: Laser welding, SPR (Self-Piercing Riveting), structural adhesives, spot welding.
+    - Lightweight materials: Ultra-High-Strength Steel (UHSS/AHSS), aluminum extrusions, carbon fiber (CFRP).
+    - Crashworthiness, structural safety, Euro NCAP body deformation, roll-cage design.
+
+    TIER 2 (MEDIUM PRIORITY - Use only if Tier 1 articles are fewer than 6):
+    - EV platforms, skateboard chassis architecture, cell-to-body (CTB), cell-to-chassis (CTC) integration.
+    - Suspension hardpoints, subframes, battery pack structural enclosures/trays.
+    - Advanced manufacturing, body shop automation, press line technology.
+
+    TIER 3 (FALLBACK ONLY - Use only if Tier 1 and Tier 2 combined are fewer than 6):
+    - Broader automotive technology, general EV launches, powertrains, and OEM platform strategy.
+
+    --- INSTRUCTIONS ---
+    1. Sort and pick the top 6 highest-scoring articles following Tier 1 -> Tier 2 -> Tier 3 order.
+    2. Rewrite the title to sound technical, precise, and professional for a structural engineering reader.
+    3. Ensure the summary (2-3 sentences) explicitly highlights the engineering, structural, or material significance of the story.
+    4. Retain the exact original `image_url` field from the input provided.
+    5. CRITICAL INSTRUCTION: You MUST return EXACTLY 6 items in the `biw_news` array.
 
     Return EXACTLY a valid JSON object matching this schema without markdown code blocks:
     {{
@@ -208,12 +229,9 @@ def summarize_with_gemini(articles):
       ]
     }}
 
-    CRITICAL INSTRUCTION: You MUST return EXACTLY 6 items in the `biw_news` array.
-
     Raw Articles Input:
     {json.dumps(articles, indent=2)}
     """
-
     # Cascade through available models
     for model in MODEL_CASCADES:
         # Retry up to 2 times for temporary 503 capacity spikes
