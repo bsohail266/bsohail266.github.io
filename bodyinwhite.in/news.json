@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "The 2027 Lexus LX Gets New Colors, Red Brakes, and More Standard Tech",
-      "url": "https://www.motor1.com/news/809135/2027-lexus-lx-price-updates/",
-      "summary": "The flagship SUV adds new interior and exterior options and more standard equipment, while keeping that six-figure starting price.",
-      "image_url": "https://cdn.motor1.com/images/mgl/nA8mAj/s3/2027-lexus-lx-700h-overtrail.jpg",
-      "category": "Automotive News"
+      "title": "Novelis and Maxion Engineer Structural Aluminum Battery Enclosure for Commercial EVs",
+      "url": "https://www.lightmetalage.com/news/industry-news/automotive/novelis-and-maxion-introduce-innovative-aluminum-battery-housing-for-electric-commercial-vehicles/",
+      "summary": "Novelis and Maxion Structural Components have collaboratively developed an innovative aluminum EV battery tray designed for commercial vehicle chassis integration. The lightweight enclosure utilizes high-strength aluminum extrusions and sheet components to optimize structural stiffness and thermal management while reducing curb weight.",
+      "image_url": "Revolution-Body-Battery-Engineering.jpg",
+      "category": "Structural Materials & Lightweighting"
     },
     {
-      "title": "Nissan's Best-Selling SUV Costs More for 2027",
-      "url": "https://www.motor1.com/news/809124/2027-nissan-rogue-trims-pricing/",
-      "summary": "The non-hybrid 2027 Nissan Rogue is a carryover model that is $230 more than before, starting at $31,265.",
-      "image_url": "https://cdn.motor1.com/images/mgl/mMYEM4/s3/2027-nissan-rogue-rock-creek.jpg",
-      "category": "Automotive News"
+      "title": "Leapmotor Unveils LEAP 5.0 Architecture Featuring CTC 3.0 Cell-to-Chassis Structural Integration",
+      "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
+      "summary": "Leapmotor has debuted its LEAP 5.0 architecture incorporating a next-generation Cell-to-Chassis (CTC 3.0) structural battery integration system. By directly fusing battery module housings into the floor structure, the platform optimizes torsional rigidity while eliminating redundant structural crossmembers.",
+      "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
+      "category": "Vehicle Architecture & Integration"
     },
     {
-      "title": "Mercedes Warns Two German Plants Could Close Unless Costs Drop",
-      "url": "https://www.motor1.com/news/809096/mercedes-warns-two-german-plants/",
-      "summary": "Mercedes-Benz outlines conditional closure risk for one assembly plant and one powertrain site in Germany, tied directly to labor cost cuts.",
-      "image_url": "https://cdn.motor1.com/images/mgl/rKO9MO/s3/22-millionth-vehicle-produced-by-mercedes-benz-at-sindelfingen.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Over 200,000 Jeeps Might Never Turn On Their Tire Pressure Warning Light",
-      "url": "https://www.motor1.com/news/809093/jeep-tire-pressure-warning-recall/",
-      "summary": "Nearly 202,000 Jeep SUVs face a TPMS software defect, and owners get a free dealer update once notification letters start arriving.",
-      "image_url": "https://cdn.motor1.com/images/mgl/MkVxE4/s3/2025-jeep-wagoneer-overland-special-edition.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Volkswagen's EV Orders Are Beating Gas Cars In Germany, But That Creates A Problem",
-      "url": "https://www.motor1.com/news/809088/vw-ev-orders-beating-gas-cars-germany/",
-      "summary": "Some problems are good to have. This isn't one of them.",
-      "image_url": "https://cdn.motor1.com/images/mgl/ojEB6q/s3/2026-vw-id.-polo.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Monaco's First Supercar Targets $1.29 Million At Auction",
+      "title": "Historical Engineering Spotlight: 1990 MCA Centenaire Carbon Fiber Monocoque Architecture",
       "url": "https://www.motor1.com/news/809087/ultra-rare-mca-centenaire-offered/",
-      "summary": "Broad Arrow Auctions is bringing the first 1990 MCA Centenaire, Monaco\u2019s pioneering carbon fiber V12 supercar, to its 2026 Zoute Concours sale.",
+      "summary": "Broad Arrow Auctions is offering the 1990 MCA Centenaire, one of the earliest production supercars to feature a full carbon fiber monocoque chassis structure. The historic vehicle highlights early composite material applications and bonding methods in load-bearing vehicle architectures.",
       "image_url": "https://cdn.motor1.com/images/mgl/407m2k/s3/1990-monte-carlo-automotive-centenaire.jpg",
-      "category": "Automotive News"
+      "category": "Advanced Composites & Monocoque Design"
+    },
+    {
+      "title": "Advanced Recycled Aluminum Processing Technologies for Automotive Structural Alloys",
+      "url": "https://www.lightmetalage.com/resources/patents/international-patents-diverse-applications-and-processsing-of-recycled-aluminum/",
+      "summary": "Newly published international patent applications detail advanced melt processing and thermal treatment apparatus for secondary recycled aluminum alloys. These process innovations aim to maintain material ductility and tensile strength for sheet metal stamping and casting applications.",
+      "image_url": "safety-benchmark.jpg",
+      "category": "Metallurgy & Structural Materials"
+    },
+    {
+      "title": "Mahindra Updates Body-on-Frame Platform and Suspension Hardpoints for Enhanced Rigidity",
+      "url": "https://www.rushlane.com/2026-mahindra-thar-launch-price-rs-10-32-lakh-more-power-new-12556490.html",
+      "summary": "Mahindra has launched the refreshed Thar OG featuring an upgraded body-on-frame chassis platform with revised suspension geometry and hardpoints. The structural updates enhance vehicle body rigidity, crash energy absorption, and overall dynamic safety.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/new-mahindra-thar-og-2026.jpg",
+      "category": "Chassis Design & Platform Architecture"
+    },
+    {
+      "title": "Advanced Structural Composites Scale in EV Battery Enclosures and Fuel Cell Trays",
+      "url": "https://www.compositesworld.com/articles/composites-end-markets-batteries-and-fuel-cells-(2026)",
+      "summary": "Structural composite materials are seeing rapid adoption across EV battery trays and fuel cell enclosures driven by expanding global vehicle production. Composite components offer significant mass reduction and integrated thermal mitigation benefits compared to traditional metallic BIW enclosures.",
+      "image_url": "tata-sierra-ev.jpg",
+      "category": "Composite Structures & Battery Integration"
     }
   ]
 }
