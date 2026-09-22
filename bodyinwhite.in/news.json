@@ -1,46 +1,46 @@
 {
   "biw_news": [
     {
-      "title": "Novelis and Maxion Engineer Structural Aluminum Battery Enclosure for Commercial EVs",
+      "title": "Novelis and Maxion Engineer Advanced Aluminum Battery Housing for Commercial EVs",
       "url": "https://www.lightmetalage.com/news/industry-news/automotive/novelis-and-maxion-introduce-innovative-aluminum-battery-housing-for-electric-commercial-vehicles/",
-      "summary": "Novelis and Maxion Structural Components have collaboratively developed an innovative aluminum EV battery tray designed for commercial vehicle chassis integration. The lightweight enclosure utilizes high-strength aluminum extrusions and sheet components to optimize structural stiffness and thermal management while reducing curb weight.",
+      "summary": "Novelis and Maxion Structural Components have jointly engineered a specialized aluminum battery housing tailored for commercial electric vehicles. The design leverages advanced aluminum rolling and structural stamping techniques to optimize crash safety and payload capacity while minimizing weight.",
       "image_url": "Revolution-Body-Battery-Engineering.jpg",
-      "category": "Structural Materials & Lightweighting"
+      "category": "Structural Engineering"
     },
     {
-      "title": "Leapmotor Unveils LEAP 5.0 Architecture Featuring CTC 3.0 Cell-to-Chassis Structural Integration",
+      "title": "Leapmotor Debuts CTC 3.0 Cell-to-Chassis Architecture with High-Low Fusion Integration",
       "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
-      "summary": "Leapmotor has debuted its LEAP 5.0 architecture incorporating a next-generation Cell-to-Chassis (CTC 3.0) structural battery integration system. By directly fusing battery module housings into the floor structure, the platform optimizes torsional rigidity while eliminating redundant structural crossmembers.",
+      "summary": "Leapmotor has introduced its next-generation CTC 3.0 High-Low Fusion Battery system integrated directly into the vehicle architecture. This cell-to-chassis design eliminates traditional subframe boundaries, drastically improving torsional rigidity and structural integration.",
       "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
-      "category": "Vehicle Architecture & Integration"
+      "category": "Structural Engineering"
     },
     {
-      "title": "Historical Engineering Spotlight: 1990 MCA Centenaire Carbon Fiber Monocoque Architecture",
-      "url": "https://www.motor1.com/news/809087/ultra-rare-mca-centenaire-offered/",
-      "summary": "Broad Arrow Auctions is offering the 1990 MCA Centenaire, one of the earliest production supercars to feature a full carbon fiber monocoque chassis structure. The historic vehicle highlights early composite material applications and bonding methods in load-bearing vehicle architectures.",
-      "image_url": "https://cdn.motor1.com/images/mgl/407m2k/s3/1990-monte-carlo-automotive-centenaire.jpg",
-      "category": "Advanced Composites & Monocoque Design"
+      "title": "Hydro and Siemens Mobility Pioneer Closed-Loop Structural Aluminum Recycling for Rail and Automotive",
+      "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
+      "summary": "Through the Train2Train initiative, Hydro and Siemens Mobility are scaling up processes to remelt structural aluminum recovered from decommissioned transport applications into high-grade automotive and rail extrusions. The project proves the feasibility of maintaining strict metallurgical and mechanical property standards using recycled automotive-grade alloys.",
+      "image_url": "Lightweight-Materials.jpg",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Advanced Recycled Aluminum Processing Technologies for Automotive Structural Alloys",
-      "url": "https://www.lightmetalage.com/resources/patents/international-patents-diverse-applications-and-processsing-of-recycled-aluminum/",
-      "summary": "Newly published international patent applications detail advanced melt processing and thermal treatment apparatus for secondary recycled aluminum alloys. These process innovations aim to maintain material ductility and tensile strength for sheet metal stamping and casting applications.",
+      "title": "Laserax Acquires SLCR Lasertechnik to Expand Advanced Laser Surface Treatment for Joining Technologies",
+      "url": "https://www.lightmetalage.com/news/marketplace/supplier-news/laserax-acquires-a-majority-stake-slcr-lasertechnik-gmbh/",
+      "summary": "Laserax has acquired a majority stake in SLCR Lasertechnik, augmenting its portfolio of specialized laser systems for surface preparation. This technology plays a critical role in pre-treatment processes required for high-integrity structural bonding, laser welding, and mechanical joining of lightweight mixed-materials in the body shop.",
       "image_url": "safety-benchmark.jpg",
-      "category": "Metallurgy & Structural Materials"
+      "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra Updates Body-on-Frame Platform and Suspension Hardpoints for Enhanced Rigidity",
-      "url": "https://www.rushlane.com/2026-mahindra-thar-launch-price-rs-10-32-lakh-more-power-new-12556490.html",
-      "summary": "Mahindra has launched the refreshed Thar OG featuring an upgraded body-on-frame chassis platform with revised suspension geometry and hardpoints. The structural updates enhance vehicle body rigidity, crash energy absorption, and overall dynamic safety.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/new-mahindra-thar-og-2026.jpg",
-      "category": "Chassis Design & Platform Architecture"
+      "title": "Advancements in Tailored Thermoplastic Composite Ribs for Lightweight Aircraft and Automotive Wing Structures",
+      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
+      "summary": "Recent demonstrations of direct stamping and infrared welding on 64-ply thermoplastic composite rib structures highlight significant mass reductions over traditional aluminum frameworks. These high-rate manufacturing methods offer immense potential for future lightweight load-bearing automotive spaceframes and crash structures.",
+      "image_url": "digital-twin-automotive.png",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Advanced Structural Composites Scale in EV Battery Enclosures and Fuel Cell Trays",
-      "url": "https://www.compositesworld.com/articles/composites-end-markets-batteries-and-fuel-cells-(2026)",
-      "summary": "Structural composite materials are seeing rapid adoption across EV battery trays and fuel cell enclosures driven by expanding global vehicle production. Composite components offer significant mass reduction and integrated thermal mitigation benefits compared to traditional metallic BIW enclosures.",
-      "image_url": "tata-sierra-ev.jpg",
-      "category": "Composite Structures & Battery Integration"
+      "title": "Rolls-Royce Puts Project Nightingale Body Structure and Cashmere Roof Assembly Through Extreme Thermal Testing",
+      "url": "https://insideevs.com/news/809054/rolls-royce-project-nightingale-ev-cashmere-roof-testing/",
+      "summary": "Rolls-Royce is subjecting the body structure and interior assemblies of Project Nightingale to punishing thermal validation, testing material durability up to 176\u00b0F. The rigorous testing cycle also includes structural fatigue evaluations via 15,000 trunk-slamming iterations to ensure long-term body joint integrity.",
+      "image_url": "https://cdn.motor1.com/images/mgl/KbZBqQ/s3/rolls-royce-project-nightingale-enters-testing.jpg",
+      "category": "Structural Engineering"
     }
   ]
 }
