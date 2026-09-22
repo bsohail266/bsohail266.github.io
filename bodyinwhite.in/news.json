@@ -1,6 +1,20 @@
 {
   "biw_news": [
     {
+      "title": "The 2027 Lexus LX Gets New Colors, Red Brakes, and More Standard Tech",
+      "url": "https://www.motor1.com/news/809135/2027-lexus-lx-price-updates/",
+      "summary": "The flagship SUV adds new interior and exterior options and more standard equipment, while keeping that six-figure starting price.",
+      "image_url": "https://cdn.motor1.com/images/mgl/nA8mAj/s3/2027-lexus-lx-700h-overtrail.jpg",
+      "category": "Automotive News"
+    },
+    {
+      "title": "Nissan's Best-Selling SUV Costs More for 2027",
+      "url": "https://www.motor1.com/news/809124/2027-nissan-rogue-trims-pricing/",
+      "summary": "The non-hybrid 2027 Nissan Rogue is a carryover model that is $230 more than before, starting at $31,265.",
+      "image_url": "https://cdn.motor1.com/images/mgl/mMYEM4/s3/2027-nissan-rogue-rock-creek.jpg",
+      "category": "Automotive News"
+    },
+    {
       "title": "Mercedes Warns Two German Plants Could Close Unless Costs Drop",
       "url": "https://www.motor1.com/news/809096/mercedes-warns-two-german-plants/",
       "summary": "Mercedes-Benz outlines conditional closure risk for one assembly plant and one powertrain site in Germany, tied directly to labor cost cuts.",
@@ -26,20 +40,6 @@
       "url": "https://www.motor1.com/news/809087/ultra-rare-mca-centenaire-offered/",
       "summary": "Broad Arrow Auctions is bringing the first 1990 MCA Centenaire, Monaco\u2019s pioneering carbon fiber V12 supercar, to its 2026 Zoute Concours sale.",
       "image_url": "https://cdn.motor1.com/images/mgl/407m2k/s3/1990-monte-carlo-automotive-centenaire.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "This 1,001-HP Lamborghini Turned Into A Dark Knight",
-      "url": "https://www.motor1.com/news/809078/lamborghini-revuelto-voltoro-v1-dark/",
-      "summary": "Venuum Black\u2019s Voltoro V1 gives the Lamborghini Revuelto a widebody kit, gold turbine wheels, dark cabin finishes, and a fixed rear wing.",
-      "image_url": "https://cdn.motor1.com/images/mgl/KbZBpR/s3/lamborghini-revuelto-by-venuum-black.jpg",
-      "category": "Automotive News"
-    },
-    {
-      "title": "Volvo Already Has A New CEO, Just Two Years After Bringing Back Its Old One",
-      "url": "https://www.motor1.com/news/809069/volvo-names-klaus-zellmer-next/",
-      "summary": "Klaus Zellmer will take over from H\u00e5kan Samuelsson in 2027, keeping Volvo Cars\u2019 current strategy and leadership structure in place during the transition.",
-      "image_url": "https://cdn.motor1.com/images/mgl/Mk6Jp8/s3/volvo-appoints-klaus-zellmer-as-president-and-ceo.jpg",
       "category": "Automotive News"
     }
   ]
