@@ -11,16 +11,41 @@ if not api_key:
     raise RuntimeError("GEMINI_API_KEY secret is missing in GitHub Repository Settings.")
 
 client = genai.Client(api_key=api_key)
+# 1. Dynamically discover active models from your API key
+MODEL_CASCADES = []
 
-# Ordered fallback cascade using active Gemini models
-MODEL_CASCADES = [
-    "gemini-3.8-flash",      # Latest Flash workhorse
-    "gemini-3.6-flash",      # High-efficiency Flash
-    "gemini-3.5-flash",      # High-performance Flash
-    "gemini-2.5-flash",      # High-reliability stable model
-    "gemini-2.5-flash-lite"  # High-throughput budget fallback
-]
+try:
+    print("Fetching active Gemini models dynamically from API...")
+    # Query API for all models available on this API key
+    all_models = [m.name.replace("models/", "") for m in client.models.list()]
+    
+    # Filter for active text Flash models (excluding image/audio/live variants)
+    active_flash_models = [
+        m for m in all_models 
+        if "flash" in m.lower() and not any(x in m.lower() for x in ["image", "live", "tts", "audio", "omni"])
+    ]
+    
+    # Sort in reverse natural order so highest/newest versions appear first
+    active_flash_models.sort(reverse=True)
+    
+    if active_flash_models:
+        MODEL_CASCADES = active_flash_models
+        print(f"Dynamically discovered active models: {MODEL_CASCADES}")
 
+except Exception as e:
+    print(f"Dynamic model lookup failed ({e}). Reverting to default fallback cascade.")
+
+# 2. Hardcoded fallback cascade if dynamic discovery returns empty or fails
+if not MODEL_CASCADES:
+    MODEL_CASCADES = [
+        "gemini-3.8-flash",
+        "gemini-3.6-flash",
+        "gemini-3.5-flash",
+        "gemini-2.5-flash",
+        "gemini-2.5-flash-lite"
+    ]
+
+# 3. Model Cascade Execution Loop
 news_data = None
 
 for model_name in MODEL_CASCADES:
