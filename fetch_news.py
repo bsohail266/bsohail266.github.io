@@ -12,13 +12,45 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Cascade list including 3.6-flash with reliable production fallbacks
+# Ordered fallback cascade using active Gemini models
 MODEL_CASCADES = [
-    "gemini-3.6-flash",
-    os.environ.get("GEMINI_MODEL", "gemini-2.5-flash"),
-    "gemini-1.5-flash",
-    "gemini-1.5-pro"
+    "gemini-3.8-flash",      # Latest Flash workhorse
+    "gemini-3.6-flash",      # High-efficiency Flash
+    "gemini-3.5-flash",      # High-performance Flash
+    "gemini-2.5-flash",      # High-reliability stable model
+    "gemini-2.5-flash-lite"  # High-throughput budget fallback
 ]
+
+news_data = None
+
+for model_name in MODEL_CASCADES:
+    for attempt in range(1, 3):  # 2 attempts per model
+        try:
+            print(f"Attempting Gemini generation (Model: {model_name}, Attempt: {attempt})...")
+            
+            # --- YOUR EXISTING GEMINI GENERATION LOGIC HERE ---
+            # response = client.models.generate_content(
+            #     model=model_name,
+            #     contents=prompt
+            # )
+            # news_data = response.text
+            # ---------------------------------------------------
+
+            if news_data:
+                print(f"Successfully generated news using model: {model_name}")
+                break  # Exit attempt loop on success
+
+        except Exception as e:
+            error_msg = str(e)
+            print(f"Model {model_name} attempt {attempt} failed: {error_msg}")
+            
+            # If rate limited (429) or server busy (503), pause for 10s to let quota reset
+            if "429" in error_msg or "503" in error_msg:
+                print("Rate limit or server busy encountered. Pausing 10s before retry...")
+                time.sleep(10)
+
+    if news_data:
+        break  # Exit model cascade loop on success
 
 RSS_FEEDS = [
     "https://www.motor1.com/rss/news/all/",
