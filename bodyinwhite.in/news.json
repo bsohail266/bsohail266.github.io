@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Leapmotor Launches LEAP 5.0 Mobile Space Architecture and CTC 3.0 Battery Integration",
-      "url": "https://www.media.stellantis.com/em-en/leapmotor/press/leapmotor-launches-two-innovations-at-the-2026-leapmotor-tech-day",
-      "summary": "Leapmotor has introduced its new LEAP 5.0 architecture alongside the advanced CTC 3.0 High-Low Fusion Battery system. This cell-to-chassis structural integration significantly enhances torsional rigidity and eliminates redundant framework to optimize space utilization.",
-      "image_url": "https://www.media.stellantis.com/cache/c/c/3/3/0/cc330fb6cb8d97cc59863ef33b98e4e725510f7f.jpeg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Audi Begins Production of the Lightweight A2 e-tron Featuring Record-Setting Efficiency",
+      "title": "Audi Initiates Advanced Production Lines for the A2 e-tron Body Structure",
       "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
-      "summary": "Audi has officially commenced production of the A2 e-tron at its Ingolstadt facility, focusing heavily on advanced lightweight construction and aerodynamic body profiling. The vehicle achieves unprecedented energy efficiency through optimized body-in-white material combinations and ultra-low drag coefficients.",
+      "summary": "Audi has officially commenced series production of the A2 e-tron at Ingolstadt, showcasing optimized manufacturing efficiency and structural assembly methodologies tailored for lightweight electric architectures. The vehicle's body structure achieves unprecedented efficiency metrics, setting a new benchmark for structural mass reduction in the brand's compact EV segment.",
       "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hydro and Siemens Mobility Pioneer Aluminum Closed-Loop Recycling for Rail and Automotive Structures",
+      "title": "Hydro and Siemens Pioneer Closed-Loop Aluminum Recycling for Structural Rail Components",
       "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
-      "summary": "Hydro is collaborating with Siemens Mobility and industry partners on the Train2Train project to reclaim structural aluminum from decommissioned transport architectures. This closed-loop recycling initiative secures high-grade secondary aluminum alloys crucial for automotive extrusions and lightweight body structures.",
+      "summary": "Hydro is collaborating with Siemens Mobility on the Train2Train project to reprocess structural aluminum alloys recovered from decommissioned transport applications into high-integrity components. This closed-loop metallurgy approach highlights advanced recycling pathways essential for producing sustainable, high-strength structural automotive extrusions.",
+      "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Laserax Expands Advanced Joining and Surface Treatment Capabilities via SLCR Acquisition",
+      "url": "https://www.lightmetalage.com/news/marketplace/supplier-news/laserax-acquires-a-majority-stake-slcr-lasertechnik-gmbh/",
+      "summary": "Laserax has acquired a majority stake in SLCR Lasertechnik GmbH to advance specialized laser surface treatment technologies. This strategic integration reinforces precision joining preparation, cleaning, and structural bonding processes critical for next-generation multi-material body-in-white manufacturing lines.",
       "image_url": "Lightweight-Materials.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Laserax Acquires SLCR Lasertechnik to Expand Advanced Laser Joining and Surface Treatment",
-      "url": "https://www.lightmetalage.com/news/marketplace/supplier-news/laserax-acquires-a-majority-stake-slcr-lasertechnik-gmbh/",
-      "summary": "Laserax has acquired a majority stake in SLCR Lasertechnik, strengthening its portfolio of specialized laser systems for automotive manufacturing. The integration enhances advanced surface preparation and laser welding technologies vital for high-integrity body-in-white joining operations.",
+      "title": "Thermoplastic Composite Wing Rib Demonstrator Achieves 22 Percent Weight Reduction Over Aluminum",
+      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production/",
+      "summary": "Direct stamping and infrared welding techniques have been successfully applied to produce a 64-ply thermoplastic composite rib demonstrator. The resulting part delivers a 22 percent mass reduction compared to traditional aluminum architecture, illustrating high-rate production pathways for continuous carbon-fiber structural elements.",
       "image_url": "safety-benchmark.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Direct Stamping and Infrared Welding Innovation Targets Lightweight Thermoplastic Wing Ribs",
-      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
-      "summary": "Advanced direct stamping and continuous infrared welding processes have been successfully utilized to produce a 64-ply thermoplastic composite structural rib. This manufacturing breakthrough achieves a 22 percent weight reduction compared to traditional aluminum structural components.",
+      "title": "Neuman Aluminium Upgrades Austrian Facility Furnace with Advanced Scrap Recovery Systems",
+      "url": "https://www.lightmetalage.com/news/industry-news/casthouse/neuman-aluminium-improves-scrap-recovery-with-furnace-retrofit-in-austria/",
+      "summary": "Neuman Aluminium has completed a major furnace refurbishment at its Marktl headquarters, incorporating a newly engineered electromagnetic stirring system. The thermal and metallurgical upgrade enhances the facility's capacity to process recycled aluminum scrap, securing tight alloy specifications for automotive sheet and extrusion stock.",
       "image_url": "digital-twin-automotive.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra Launches the Thar OG Featuring an Upgraded Ladder-Frame Chassis and Suspension",
-      "url": "https://www.mahindra.com/news-room/press-release/en/mahindra-launches-thar-og-built-on-legacy-engineered-for-a-new-era-introductory-price-starting-at-rupees-10.32-lakh",
-      "summary": "Mahindra has expanded its rugged off-road portfolio with the launch of the Thar OG, featuring a heavily revised chassis frame and optimized suspension hardpoints. The updated structural architecture enhances torsional rigidity and articulation while supporting advanced onboard safety systems.",
-      "image_url": "https://www.mahindra.com/sites/default/files/social-thumbnail/Thar%20OG.png",
+      "title": "Hyundai Recalls Ioniq 9 eSUV Over Second-Row Power Seating Deformation Risk",
+      "url": "https://www.electrive.com/2026/09/23/hyundai-recalls-ioniq-9-over-power-folding-rear-seat-risk/",
+      "summary": "Hyundai is recalling 5,360 units of the 2026 Ioniq 9 eSUV due to a potential mechanical trapping hazard involving the second-row power-folding seating assemblies. The issue centers on sensor logic within the seat kinematic motion profiles, highlighting rigorous safety compliance requirements for interior occupant packaging.",
+      "image_url": "https://www.electrive.com/media/2026/02/hyundai-ioniq-9-fahrbericht-2026-23-400x267.jpg",
       "category": "Structural Engineering"
     }
   ]
