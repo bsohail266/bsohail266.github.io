@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Audi Initiates Advanced Production Lines for the A2 e-tron Body Structure",
+      "title": "Audi Begins Production of the Lightweight A2 e-tron with Advanced Structural Efficiency",
       "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
-      "summary": "Audi has officially commenced series production of the A2 e-tron at Ingolstadt, showcasing optimized manufacturing efficiency and structural assembly methodologies tailored for lightweight electric architectures. The vehicle's body structure achieves unprecedented efficiency metrics, setting a new benchmark for structural mass reduction in the brand's compact EV segment.",
+      "summary": "Audi has officially commenced production of the A2 e-tron in Ingolstadt, showcasing a benchmark in vehicle lightweighting and aerodynamic body design. The vehicle achieves unprecedented energy efficiency through optimized body-in-white structures and advanced material utilization.",
       "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hydro and Siemens Pioneer Closed-Loop Aluminum Recycling for Structural Rail Components",
-      "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
-      "summary": "Hydro is collaborating with Siemens Mobility on the Train2Train project to reprocess structural aluminum alloys recovered from decommissioned transport applications into high-integrity components. This closed-loop metallurgy approach highlights advanced recycling pathways essential for producing sustainable, high-strength structural automotive extrusions.",
-      "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
+      "title": "ROHM Silicon Carbide MOSFETs Integrated into BMW Neue Klasse EV Powertrain",
+      "url": "https://chargedevs.com/newswire/rohms-sic-mosfets-go-into-bmws-neue-klasse-electric-powertrain/",
+      "summary": "BMW has selected ROHM Semiconductor's advanced SiC MOSFETs to power the high-voltage architecture of its upcoming Neue Klasse platform. This integration supports high-efficiency power delivery within the vehicle's structural packaging constraints.",
+      "image_url": "https://chargedevs.com/wp-content/uploads/2026/09/BMW-Electric-Engine-6th-Generation-Front-300x100.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Laserax Expands Advanced Joining and Surface Treatment Capabilities via SLCR Acquisition",
-      "url": "https://www.lightmetalage.com/news/marketplace/supplier-news/laserax-acquires-a-majority-stake-slcr-lasertechnik-gmbh/",
-      "summary": "Laserax has acquired a majority stake in SLCR Lasertechnik GmbH to advance specialized laser surface treatment technologies. This strategic integration reinforces precision joining preparation, cleaning, and structural bonding processes critical for next-generation multi-material body-in-white manufacturing lines.",
-      "image_url": "Lightweight-Materials.jpg",
+      "title": "Brabus Reengineers Mercedes-AMG G 63 with Extensive Structural Reinforcement",
+      "url": "https://www.motor1.com/news/809411/brabus-900-rocket-edition-cabrio/",
+      "summary": "Brabus has unveiled the 900 Rocket Edition Cabrio, featuring a heavily modified Mercedes-AMG G 63 chassis. The conversion incorporates over 500 custom parts, requiring specialized structural bracing and torsional rigidity countermeasures to compensate for the removed roof structure.",
+      "image_url": "https://cdn.motor1.com/images/mgl/9mWy8y/s3/brabus-900-rocket-edition-cabrio-2026-auf-basis-mercedes-g-klasse-cabriolet.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Thermoplastic Composite Wing Rib Demonstrator Achieves 22 Percent Weight Reduction Over Aluminum",
-      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production/",
-      "summary": "Direct stamping and infrared welding techniques have been successfully applied to produce a 64-ply thermoplastic composite rib demonstrator. The resulting part delivers a 22 percent mass reduction compared to traditional aluminum architecture, illustrating high-rate production pathways for continuous carbon-fiber structural elements.",
-      "image_url": "safety-benchmark.jpg",
+      "title": "Nissan Z Kaze Concept Introduces Carbon-Fiber Aerodynamic Body Kit and T-Top Architecture",
+      "url": "https://www.caranddriver.com/news/a73866564/nissan-z-kaze-concept-revealed/",
+      "summary": "The Nissan Z Kaze concept revives classic T-top roof architecture while utilizing an advanced carbon-fiber aerodynamic body kit. The design highlights modern lightweight composite applications aimed at improving structural performance and reducing upper-body mass.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/edc56dfb-b720-4a6c-9dc7-888b1141dd8a.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Neuman Aluminium Upgrades Austrian Facility Furnace with Advanced Scrap Recovery Systems",
-      "url": "https://www.lightmetalage.com/news/industry-news/casthouse/neuman-aluminium-improves-scrap-recovery-with-furnace-retrofit-in-austria/",
-      "summary": "Neuman Aluminium has completed a major furnace refurbishment at its Marktl headquarters, incorporating a newly engineered electromagnetic stirring system. The thermal and metallurgical upgrade enhances the facility's capacity to process recycled aluminum scrap, securing tight alloy specifications for automotive sheet and extrusion stock.",
+      "title": "Direct Stamped Thermoplastic Composite Rib Demonstrator Targets High-Rate Wing Production",
+      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
+      "summary": "Recent advancements in direct stamping and infrared welding have produced a 64-ply thermoplastic composite rib. This manufacturing process yields a structure 22% lighter than equivalent aluminum designs, paving the way for high-rate production of lightweight structural components.",
       "image_url": "digital-twin-automotive.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hyundai Recalls Ioniq 9 eSUV Over Second-Row Power Seating Deformation Risk",
-      "url": "https://www.electrive.com/2026/09/23/hyundai-recalls-ioniq-9-over-power-folding-rear-seat-risk/",
-      "summary": "Hyundai is recalling 5,360 units of the 2026 Ioniq 9 eSUV due to a potential mechanical trapping hazard involving the second-row power-folding seating assemblies. The issue centers on sensor logic within the seat kinematic motion profiles, highlighting rigorous safety compliance requirements for interior occupant packaging.",
-      "image_url": "https://www.electrive.com/media/2026/02/hyundai-ioniq-9-fahrbericht-2026-23-400x267.jpg",
+      "title": "Riverti Automobili Transforms BMW M2 into Lightweight 3.0 CSL Homage",
+      "url": "https://www.caranddriver.com/news/a73857609/riverti-automobili-bmw-m2-csl-homage-details/",
+      "summary": "An Italian coachbuilder has re-engineered the modern BMW M2 platform to mirror the iconic 3.0 CSL racing silhouette. The build relies heavily on custom body panels and structural modifications to blend vintage motorsport aesthetics with contemporary chassis dynamics.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/5c804a5f-98a7-4503-8bd8-2ecf93d4aa82.jpg",
       "category": "Structural Engineering"
     }
   ]
