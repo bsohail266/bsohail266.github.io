@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Audi Begins Production of the Lightweight A2 e-tron with Advanced Structural Efficiency",
-      "url": "https://www.audi-mediacenter.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332",
-      "summary": "Audi has officially commenced production of the A2 e-tron in Ingolstadt, showcasing a benchmark in vehicle lightweighting and aerodynamic body design. The vehicle achieves unprecedented energy efficiency through optimized body-in-white structures and advanced material utilization.",
-      "image_url": "https://uploads.audi.com/system/production/media/133761/images/9ffea8b8879b0e4d42d379f512aefdb24f0860c4/A264571_blog.jpg",
+      "title": "Tata Aeris Structural Rigidity Demonstrated via Roof Loading with Harrier EV",
+      "url": "https://www.rushlane.com/tata-aeris-structural-strength-harrier-ev-on-its-roof-12556834.html",
+      "summary": "Tata successfully highlighted the torsional rigidity and roof-crush resistance of the Aeris body structure by stacking a heavier Harrier EV directly onto its roof. This striking demonstration underscores the robust load-bearing capability and safety margins engineered into the vehicle's monocoque architecture.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/tata-aeris-roof-harrier-ev.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "ROHM Silicon Carbide MOSFETs Integrated into BMW Neue Klasse EV Powertrain",
-      "url": "https://chargedevs.com/newswire/rohms-sic-mosfets-go-into-bmws-neue-klasse-electric-powertrain/",
-      "summary": "BMW has selected ROHM Semiconductor's advanced SiC MOSFETs to power the high-voltage architecture of its upcoming Neue Klasse platform. This integration supports high-efficiency power delivery within the vehicle's structural packaging constraints.",
-      "image_url": "https://chargedevs.com/wp-content/uploads/2026/09/BMW-Electric-Engine-6th-Generation-Front-300x100.jpg",
+      "title": "Daher Advances Thick Thermoplastic Composite Wing Ribs Using Direct Stamping",
+      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
+      "summary": "The Highly Loaded Thermoplastic Wing Rib program successfully validates advanced direct stamping and infrared welding processes for thick composite parts. These manufacturing techniques pave the way for high-rate production of lightweight, high-strength structural components that significantly outperform traditional metallic counterparts.",
+      "image_url": "https://cdn.motor1.com/images/mgl/NG6eWM/s3/jensen-interceptor-v8-engine-sound-video.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Brabus Reengineers Mercedes-AMG G 63 with Extensive Structural Reinforcement",
-      "url": "https://www.motor1.com/news/809411/brabus-900-rocket-edition-cabrio/",
-      "summary": "Brabus has unveiled the 900 Rocket Edition Cabrio, featuring a heavily modified Mercedes-AMG G 63 chassis. The conversion incorporates over 500 custom parts, requiring specialized structural bracing and torsional rigidity countermeasures to compensate for the removed roof structure.",
-      "image_url": "https://cdn.motor1.com/images/mgl/9mWy8y/s3/brabus-900-rocket-edition-cabrio-2026-auf-basis-mercedes-g-klasse-cabriolet.jpg",
+      "title": "Mitsubishi Chemical Develops CFRP/Graphite Thermal Dissipation Devices for Mobility",
+      "url": "https://www.compositesworld.com/articles/cfrpgraphite-heat-dissipation-device-enables-lighter-more-mobile-satellite-communication",
+      "summary": "A collaborative engineering team has engineered a carbon fiber reinforced polymer (CFRP) and graphite composite device capable of matching aluminum's thermal conductivity while achieving a 47% weight reduction. This material innovation showcases the expanding role of advanced lightweight composites in managing critical thermal and structural loads.",
+      "image_url": "https://cdn.motor1.com/images/mgl/NG6eWM/s3/jensen-interceptor-v8-engine-sound-video.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Nissan Z Kaze Concept Introduces Carbon-Fiber Aerodynamic Body Kit and T-Top Architecture",
-      "url": "https://www.caranddriver.com/news/a73866564/nissan-z-kaze-concept-revealed/",
-      "summary": "The Nissan Z Kaze concept revives classic T-top roof architecture while utilizing an advanced carbon-fiber aerodynamic body kit. The design highlights modern lightweight composite applications aimed at improving structural performance and reducing upper-body mass.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/edc56dfb-b720-4a6c-9dc7-888b1141dd8a.jpg",
+      "title": "Neuman Aluminium Upgrades Austria Casthouse Furnace for Enhanced Scrap Recovery",
+      "url": "https://www.lightmetalage.com/news/industry-news/casthouse/neuman-aluminium-improves-scrap-recovery-with-furnace-retrofit-in-austria/",
+      "summary": "Neuman Aluminium has modernized its production facility by retrofitting a melting furnace with an advanced electromagnetic stirring system. The engineering update optimizes scrap metal recovery and melt homogeneity, directly supporting closed-loop recycling initiatives for automotive-grade aluminum alloys.",
+      "image_url": "safety-benchmark.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Direct Stamped Thermoplastic Composite Rib Demonstrator Targets High-Rate Wing Production",
-      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
-      "summary": "Recent advancements in direct stamping and infrared welding have produced a 64-ply thermoplastic composite rib. This manufacturing process yields a structure 22% lighter than equivalent aluminum designs, paving the way for high-rate production of lightweight structural components.",
-      "image_url": "digital-twin-automotive.png",
+      "title": "Tesla Files Patent for Deployable Active Aerodynamic Rear Wing on Roadster",
+      "url": "https://www.caranddriver.com/news/a73879703/tesla-roadster-clever-rear-wing-patent/",
+      "summary": "Recent patent filings detail an active aerodynamic rear wing mechanism designed for the upcoming Tesla Roadster. The deployable structural element dynamically manages downforce and aerodynamic drag to optimize high-speed vehicle stability and crash avoidance dynamics.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/494bc24c-f7fa-40b3-813f-04029818b551.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Riverti Automobili Transforms BMW M2 into Lightweight 3.0 CSL Homage",
-      "url": "https://www.caranddriver.com/news/a73857609/riverti-automobili-bmw-m2-csl-homage-details/",
-      "summary": "An Italian coachbuilder has re-engineered the modern BMW M2 platform to mirror the iconic 3.0 CSL racing silhouette. The build relies heavily on custom body panels and structural modifications to blend vintage motorsport aesthetics with contemporary chassis dynamics.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/5c804a5f-98a7-4503-8bd8-2ecf93d4aa82.jpg",
+      "title": "Hydro and Siemens Mobility Partner on Train2Train Aluminum Recycling Project",
+      "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
+      "summary": "Hydro is collaborating with Siemens Mobility and industry partners to reclaim structural aluminum from decommissioned rail infrastructure for new component manufacturing. The Train2Train project establishes circular supply chains and rigorous metallurgical standards for secondary lightweight alloys used in heavy transport structures.",
+      "image_url": "tata-sierra-ev.jpg",
       "category": "Structural Engineering"
     }
   ]
