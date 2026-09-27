@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Structural Integrity Evaluation of the Tata Aeris via Stacked-Vehicle Load Testing",
-      "url": "https://www.rushlane.com/tata-aeris-structural-strength-harrier-ev-on-its-roof-12556834.html",
-      "summary": "Tata successfully showcased the body-in-white structural strength of the Aeris sedan by supporting a heavy Harrier EV directly on its roof structure. The demonstration highlights the monocoque's exceptional crashworthiness, roof crush resistance, and load-bearing capacity under extreme static deformation.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/tata-aeris-roof-harrier-ev.jpeg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Suzuki Targets 100 kg Mass Reduction Across Vehicle Body Structures",
+      "title": "Suzuki Aims For 100 kg Body Weight Reduction While Retaining Structural Safety",
       "url": "https://www.rushlane.com/suzuki-aims-to-reduce-car-weight-by-100-kgs-12556862.html",
-      "summary": "Suzuki is aggressively pursuing a 100 kg vehicle weight reduction strategy focused on optimizing BIW sheet metal thickness and structural component geometry. The engineering initiative also targets lightweighting high-pressure CNG cylinder assemblies down from 60 kg to 20 kg without compromising crash safety.",
+      "summary": "Suzuki's lightweight engineering initiatives focus heavily on optimizing vehicle body structures, chassis components, and alternative material integration. The strategy highlights advanced structural safety designs to shed 100 kilograms without compromising crashworthiness standards.",
       "image_url": "https://www.rushlane.com/wp-content/uploads/2025/06/maruti-baleno-crash-test-bharat-ncap-5.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Stamped Thermoplastic Composite Wing Ribs Deliver 22 Percent Mass Savings",
-      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
-      "summary": "Direct stamping and advanced infrared welding processes were utilized to manufacture a 64-ply thermoplastic composite wing rib. This structural component achieves a 22 percent weight reduction compared to conventional aluminum equivalents while proving out high-rate production capabilities.",
-      "image_url": "Lightweight-Materials.jpg",
+      "title": "Daher Proves Direct Stamping and Infrared Welding for Thick Thermoplastic Composite Wing Ribs",
+      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
+      "summary": "Daher\u2019s Highly Loaded Thermoplastic Wing Rib program demonstrates patented direct stamping and infrared welding processes for complex composite structures. This advanced manufacturing method establishes critical certification baselines for high-rate structural production.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/Revolution-Body-Battery-Engineering.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "CFRP and Graphite Thermal Management Device Achieves 47 Percent Weight Reduction",
+      "title": "Mitsubishi Chemical Develops CFRP/Graphite Heat Dissipation Structure for 47% Weight Reduction",
       "url": "https://www.compositesworld.com/articles/cfrpgraphite-heat-dissipation-device-enables-lighter-more-mobile-satellite-communication",
-      "summary": "A collaborative engineering project led by Mitsubishi Chemical has developed advanced carbon fiber reinforced polymer (CFRP) and graphite composite devices. The structure matches the thermal conductivity of traditional aluminum heat-dissipation hardware while shedding nearly half its weight.",
-      "image_url": "safety-benchmark.jpg",
+      "summary": "A collaborative engineering project led by Mitsubishi Chemical has introduced advanced carbon fiber reinforced polymer composite devices. The design matches the thermal conductivity of traditional aluminum housings while drastically optimizing structural mass.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/Revolution-Body-Battery-Engineering.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Neuman Aluminium Upgrades Austria Facility Furnace with Advanced Scrap Recovery Stirring System",
-      "url": "https://www.lightmetalage.com/news/industry-news/casthouse/neuman-aluminium-improves-scrap-recovery-with-furnace-retrofit-in-austria/",
-      "summary": "Neuman Aluminium has completed a major furnace retrofit at its Marktl facility, integrating an advanced stirring system designed to optimize closed-loop aluminum scrap recovery. This thermal and metallurgical enhancement supports sustainable, high-purity alloy production for automotive extrusion applications.",
-      "image_url": "digital-twin-automotive.png",
+      "title": "Direct Stamped Thermoplastic Composite Demonstrators Target High-Rate Structural Manufacturing",
+      "url": "https://www.compositesworld.com/articles/video-stamped-welded-tpc-rib-demonstrator-targets-high-rate-wing-production",
+      "summary": "Utilizing direct stamping and advanced infrared welding, engineers produced a 64-ply thermoplastic wing rib structure that is 22 percent lighter than aluminum counterparts. This manufacturing breakthrough addresses high-rate production demands for primary load-bearing assemblies.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/safety-benchmark.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hydro and Siemens Mobility Pioneer Train2Train Aluminum Recycling for Rail Components",
-      "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
-      "summary": "The Train2Train sustainability initiative brings together Hydro, Siemens Mobility, and industrial partners to recover and remelt structural aluminum from decommissioned rail stock. The recovered high-grade alloy is subsequently re-engineered into secondary structural components.",
-      "image_url": "tata-sierra-ev.jpg",
+      "title": "NexPoint Unveils UL 2597 Certified Resins for High-Voltage EV Electrical and Structural Architectures",
+      "url": "https://chargedevs.com/newswire/nexpoints-lexan-bpl1000-cycoloy-c2950-resins-earn-top-ul-2597-tracking-rating-at-900-v/",
+      "summary": "NexPoint Materials has achieved top ratings in the UL 2597 Surface Tracking Test at 900 V for its specialized engineering resins. These materials offer superior dielectric strength and structural stability for high-voltage battery enclosures and power distribution components.",
+      "image_url": "https://chargedevs.com/wp-content/uploads/2026/09/unnamed-300x100.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Hyundai R&D Head Confirms Solid-State Battery Integration Timeline for Future EV Platforms",
+      "url": "https://insideevs.com/news/809671/hyundai-solid-state-battery-bet-manfred-harrer/",
+      "summary": "Hyundai's executive R&D leadership has reaffirmed its commitment to deploying solid-state battery technology in upcoming EV architectures. The integration of solid-state cells will drastically impact future skateboard chassis design and structural pack packaging.",
+      "image_url": "https://cdn.motor1.com/images/mgl/YAOXxv/s3/hyundai-staria-electric-2026.jpg",
       "category": "Structural Engineering"
     }
   ]
