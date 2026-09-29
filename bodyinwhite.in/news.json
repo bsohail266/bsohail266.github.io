@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Robotic Dry Fiber Cell and 2,400-Ton Composite Press Cut Aerostructure Production Time by 90%",
-      "url": "https://www.compositesworld.com/articles/robotic-dry-fiber-cell-and-2400-ton-composite-press-reduce-aerostructure-build-time-by-90-",
-      "summary": "The COMPASS facility's advanced robotic dry fiber cell and high-tonnage composite press demonstrate high-rate manufacturing methods. This process drastically reduces build times for advanced structural carbon fiber components, with direct implications for automotive composite adoption.",
-      "image_url": "Revolution-Body-Battery-Engineering.jpg",
+      "title": "Alfa Romeo 33 Stradale Custom Features Exposed Matte Carbon Fiber Monocoque Construction",
+      "url": "https://www.caranddriver.com/news/a73931026/alfa-romeo-33-stradale-custom-carbon-fiber/",
+      "summary": "Bottega Alfa Romeo has unveiled a bespoke 33 Stradale finished entirely in matte-black carbon fiber, highlighting advanced composite layering and structural skin integration. The build emphasizes ultra-lightweight structural execution and the aesthetic display of high-strength structural weave.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/a98d9a79-99ce-4f66-8e8f-49ea824d7cdd.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Thick Thermoplastic Composite Wing Ribs Advance Direct Stamping and Infusion Techniques",
-      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
-      "summary": "Daher's thermoplastic wing rib program validates patented direct stamping and infrared welding processes. These manufacturing innovations create highly loaded structures with optimized weight-to-strength ratios applicable to next-gen vehicle architecture.",
+      "title": "Robotic Dry Fiber Cell and High-Rate Composite Press Minimize Aerostructure Cycle Times by 90 Percent",
+      "url": "https://www.compositesworld.com/articles/robotic-dry-fiber-cell-and-2400-ton-composite-press-reduce-aerostructure-build-time-by-90-",
+      "summary": "The University of Sheffield's COMPASS facility is leveraging a 2,400-ton composite press and automated dry fiber placement to drastically accelerate high-rate structural manufacturing. This advanced manufacturing cell sets a new benchmark for producing complex, high-load-bearing composite components with exceptional repeatability.",
       "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Tesla Roadster Patent Details Two-Piece Active Rear Wing and Crash-Safety Geometry",
-      "url": "https://www.motor1.com/news/809854/tesla-roadster-patent-details-hidden/",
-      "summary": "A newly published patent outlines an active two-piece aerodynamic wing engineered to shift between low-drag, high downforce, and dedicated crash-safety configurations. The mechanism highlights integration between vehicle body aerodynamics and structural crashworthiness management.",
-      "image_url": "https://cdn.motor1.com/images/mgl/AkOQxL/s3/tesla-roadster-active-aero-patent-illustration.jpg",
+      "title": "Mitsubishi Chemical Develops CFRP and Graphite Heat Dissipation Device for 47% Weight Reduction",
+      "url": "https://www.compositesworld.com/articles/cfrpgraphite-heat-dissipation-device-enables-lighter-more-mobile-satellite-communication",
+      "summary": "A collaborative engineering effort has successfully matched the thermal conductivity of traditional aluminum satellite heat exchangers while utilizing carbon fiber reinforced polymers (CFRP). The resulting composite assembly achieves a significant 47% mass reduction without compromising structural or thermal integrity.",
+      "image_url": "Lightweight-Materials.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Architected AFP Multifunctional Conductive Layers Replace Traditional Lightning Protection",
-      "url": "https://www.compositesworld.com/articles/beyond-lsp-to-an-architected-afp-multifunctional-conductive-layer",
-      "summary": "Automated Fiber Placement (AFP) enables tailored conductive layers within composite materials, replacing single sheets of metallic protection. This engineering approach maintains structural integrity and electrical connectivity while reducing parasitic mass.",
+      "title": "Daher Validates Direct Stamping and Infrared Welding for Thick Thermoplastic Composite Wing Ribs",
+      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
+      "summary": "Daher's Highly Loaded Thermoplastic Wing Rib program has successfully proven out patented direct stamping and rapid infrared welding manufacturing processes. These advanced joining techniques establish a robust certification basis and production readiness for highly stressed primary structural elements.",
       "image_url": "safety-benchmark.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Alpine Previews Next-Gen Electric Sports Car Architecture with Full-Scale Composite Veil Sculpture",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-alpine-a110-design-previewed-full-scale-sculpture",
-      "summary": "Alpine has showcased its upcoming dedicated electric sports car platform (APP) through a detailed design sculpture. The underlying chassis and body architecture are engineered to support a lightweight mid-engine inspired EV layout.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dppiproduction_00004992_0008.jpg",
+      "title": "Architected Automated Fiber Placement Creates Multifunctional Conductive Layers Overriding Traditional LSP",
+      "url": "https://www.compositesworld.com/articles/beyond-lsp-to-an-architected-afp-multifunctional-conductive-layer",
+      "summary": "Moving beyond conventional single-sheet metallic lightning strike protection (LSP), automated fiber placement (AFP) enables tailored electrical conductivity directly within composite laminates. This architected approach improves multi-hit structural resilience while optimizing inter-ply electrical connectivity in advanced airframes.",
+      "image_url": "digital-twin-automotive.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "CFRP and Graphite Heat Dissipation Structures Achieve 47 Percent Mass Reduction",
-      "url": "https://www.compositesworld.com/articles/cfrpgraphite-heat-dissipation-device-enables-lighter-more-mobile-satellite-communication",
-      "summary": "A collaborative development demonstrates carbon fiber reinforced polymer (CFRP) and graphite thermal devices matching aluminum's thermal conductivity. The resulting structural components drop weight significantly, showcasing advanced material substitution for demanding thermal-structural environments.",
-      "image_url": "tata-sierra-ev.jpg",
+      "title": "General Motors Confirms Spring Hill Facility for High-Volume Lithium-Manganese-Rich Cell Production",
+      "url": "https://insideevs.com/news/810064/gm-lmr-battery-production-at-spring-hill-lges/",
+      "summary": "General Motors has officially designated its manufacturing hub for mass-producing advanced lithium-manganese-rich (LMR) battery cells, critical for next-generation electric vehicle skateboard architectures. This scaling milestone directly impacts structural pack integration, gravimetric energy density, and cell-to-pack structural floor design.",
+      "image_url": "https://cdn.motor1.com/images/mgl/KbMrKq/s3/gm-forward-event-2025.jpg",
       "category": "Structural Engineering"
     }
   ]
