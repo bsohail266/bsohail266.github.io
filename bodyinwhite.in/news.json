@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Robotic Dry Fiber Cell and 2,400-Ton Composite Press Reduce Aerostructure Build Time by 90%",
+      "title": "Robotic Dry Fiber Cell and 2,400-Ton Composite Press Cut Aerostructure Production Time by 90%",
       "url": "https://www.compositesworld.com/articles/robotic-dry-fiber-cell-and-2400-ton-composite-press-reduce-aerostructure-build-time-by-90-",
-      "summary": "The Advanced Manufacturing Research Centre showcases an advanced robotic dry fiber cell paired with a 2,400-ton composite press. This setup drastically accelerates high-rate manufacturing of complex structural composite components while maintaining strict dimensional tolerances.",
+      "summary": "The COMPASS facility at the University of Sheffield's AMRC features a high-rate robotic dry fiber cell and a 2,400-ton composite press. This advanced manufacturing setup dramatically accelerates the production of complex, high-strength structural composite components.",
       "image_url": "Revolution-Body-Battery-Engineering.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Thick Thermoplastic Composite Parts for the Next Generation of Aircraft and Vehicles",
-      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
-      "summary": "Daher\u2019s Highly Loaded Thermoplastic program validates patented Direct Stamping and infrared welding technologies. These advanced joining and forming processes establish a robust structural certification basis for critical load-bearing frameworks.",
+      "title": "Novelis Expands Advanced Aluminum Portfolio for Structural Battery Enclosures",
+      "url": "https://www.lightmetalage.com/news/industry-news/flat-rolled-sheet/novelis-expands-its-aluminum-portfolio-for-growing-battery-and-energy-storage-markets/",
+      "summary": "Novelis is expanding its footprint in the lightweight vehicle sector by introducing high-performance coated aluminum sheets optimized for structural battery packs. The new alloy portfolio aims to improve crash energy management and reduce overall body-in-white weight.",
       "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "CFRP/Graphite Heat Dissipation Device Enables Lighter Structural Integrations",
-      "url": "https://www.compositesworld.com/articles/cfrpgraphite-heat-dissipation-device-enables-lighter-more-mobile-satellite-communication",
-      "summary": "A collaborative engineering project developed a carbon fiber reinforced polymer (CFRP) and graphite composite device matching the thermal conductivity of traditional aluminum elements. The design achieves a significant 47 percent weight reduction without compromising structural integrity.",
-      "image_url": "Lightweight-Materials.jpg",
+      "title": "OCSiAl Integrates Single-Wall Carbon Nanotubes into High-Energy Density Battery Cell Structures",
+      "url": "https://chargedevs.com/newswire/ocsial-contributes-nanotubes-to-eu-project-on-aircraft-battery-cells/",
+      "summary": "By supplying TUBALL single-wall carbon nanotubes to the EU-backed ELEVATE project, OCsial is helping reinforce the internal mechanical and electrical integrity of high-energy battery cells. These advanced conductive additives are critical for maintaining structural stability under extreme specific energy thresholds exceeding 400 Wh/kg.",
+      "image_url": "https://chargedevs.com/wp-content/uploads/2026/09/OCSiAl-contributes-nanotubes-to-EU-project-on-aircraft-battery-cells-300x100.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "ET \u201927: The Global Extrusion Industry\u2019s Technical Classroom for Lightweight Structures",
-      "url": "https://www.lightmetalage.com/news/event-news/et-27-the-global-extrusion-industrys-technical-classroom/",
-      "summary": "The International Aluminum Extrusion Technology Seminar focuses on advancing aluminum profile design and manufacturing for lightweight body-in-white structures. The event highlights innovations in multi-void extrusions and crash-management systems for modern automotive architectures.",
+      "title": "Daher Implements Direct Stamping and Infrared Welding for Thick Thermoplastic Composite Structures",
+      "url": "https://www.compositesworld.com/articles/thick-thermoplastic-composite-parts-for-the-next-generation-of-aircraft-",
+      "summary": "Daher's Highly Loaded Thermoplastic Wing Rib program validates novel Direct Stamping and infrared welding technologies for high-load-bearing applications. These advanced joining techniques establish a repeatable manufacturing baseline for lightweight, high-integrity structural components.",
       "image_url": "safety-benchmark.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Neuman Aluminium Improves Scrap Recovery with Advanced Furnace Retrofit",
+      "title": "Neuman Aluminium Enhances Scrap Recovery and Casthouse Efficiency via Austria Furnace Retrofit",
       "url": "https://www.lightmetalage.com/news/industry-news/casthouse/neuman-aluminium-improves-scrap-recovery-with-furnace-retrofit-in-austria/",
-      "summary": "Neuman Aluminium completed a major casthouse retrofit featuring a high-efficiency stirring system to optimize closed-loop scrap recycling. This metallurgical advancement ensures consistent alloy quality for automotive-grade structural sheet and extrusion products.",
+      "summary": "Neuman Aluminium has successfully upgraded its melting furnace with an advanced electromagnetic stirring system at its Austrian headquarters. The retrofit significantly optimizes recycled metal recovery and alloy consistency for downstream automotive extrusions and sheet metal applications.",
       "image_url": "digital-twin-automotive.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hydro and Siemens Mobility Pioneer Aluminum Closed-Loop Recycling for Transport Structures",
-      "url": "https://www.lightmetalage.com/news/industry-news/recycling-remelt/hydro-and-siemens-mobility-to-recycle-aluminum-from-end-of-life-trains/",
-      "summary": "The Train2Train initiative successfully recovers structural aluminum from decommissioned transit assets to cast high-strength raw materials for new structural components. This process demonstrates scalable circular metallurgy vital for reducing the carbon footprint of structural chassis frames.",
-      "image_url": "tata-sierra-ev.jpg",
+      "title": "BMW Integrates Neue Klasse EV Architecture Across Upcoming Entry-Level Hatchback Platforms",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-priming-new-1-series-neue-klasse-ev-platform-%E2%80%93-plus-x8-flagship",
+      "summary": "BMW has confirmed the application of its flexible Neue Klasse electric vehicle architecture to upcoming entry-level hatchbacks and compact crossovers. This dedicated skateboard chassis approach allows for optimized battery pack integration and improved structural rigidity.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_1_series_render_2026_web_0.jpg",
       "category": "Structural Engineering"
     }
   ]
