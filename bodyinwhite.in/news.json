@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Range Rover Sport Recalled Due to Structural Rear Subframe Forging Defects",
+      "title": "Range Rover Sport Rear Subframe Forging Defect and Structural Recall Analysis",
       "url": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/",
-      "summary": "NHTSA campaign 26V613000 addresses critical structural integrity issues in Solihull-built vehicles where rear subframe forgings are prone to cracking under operational loads. This recall highlights potential weak points in chassis component manufacturing and the rigorous fatigue demands placed on rear suspension hardpoints.",
+      "summary": "NHTSA recall campaign 26V613000 addresses critical structural fatigue and structural integrity risks discovered in rear subframe components of 2024-2026 models. The forging defect requires rigorous metallurgical evaluation and potential component replacement to prevent structural failure under dynamic suspension loads.",
       "image_url": "https://cdn.motor1.com/images/mgl/7Zo8V7/s3/range-rover-sport-sv-edition-two-primera-prueba.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Toyota Simulates Severe Crash and Impact Loads on Ninth-Generation Hilux Chassis",
+      "title": "Toyota Hilux Structural Durability and Impact Drop Testing",
       "url": "https://www.rushlane.com/toyota-drops-a-caravan-on-new-gen-hilux-durability-stunt-12557243.html",
-      "summary": "Toyota subjected the 9th-generation Hilux Electric platform to a severe drop-test durability stunt involving a 760 kg caravan. The exercise tests the structural resilience of the ladder-frame chassis and cabin safety cage under extreme vertical impact loads.",
+      "summary": "Toyota showcases the crashworthiness and roof crush resistance of its 9th-generation Hilux architecture by dropping a heavy caravan. This extreme structural durability test highlights the integrity of the cabin safety cage and load-bearing pillars under severe vertical impact forces.",
       "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/toyota-hilux-caravan-drop-test-recreated-cover.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "CarPoint Converts Transaxle-Era Porsche 944 Into Rigid Shooting Brake Structure",
-      "url": "https://www.caranddriver.com/news/a74001537/carpoint-porsche-944-conversion-details/",
-      "summary": "German tuner CarPoint modifies the classic Porsche transaxle architecture into a shooting brake body style. This conversion requires careful engineering of the rear roof extensions, C-pillar reinforcements, and load-bearing body panels to maintain torsional rigidity.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f4ceac84-0237-40b5-b547-31d7e6f7ce5a.jpg",
+      "title": "Honda 0 Alpha EV Prototype Structural Chassis Testing on Rough Surfaces",
+      "url": "https://www.rushlane.com/honda-0-alpha-ev-spied-testing-on-broken-roads-launch-soon-12557406.html",
+      "summary": "Prototype testing of the upcoming Honda 0 Alpha EV on harsh road surfaces provides insights into platform rigidity and torsional stiffness. Engineers are validating the skateboard chassis architecture and battery pack integration to ensure optimal structural durability and NVH performance.",
+      "image_url": "Lightweight-Materials.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ford Details Innovative Platform and Manufacturing Process for Upcoming Fathom EV",
+      "title": "Ford Fathom Electric Truck Innovative Platform and Body Manufacturing Strategy",
       "url": "https://www.motor1.com/news/810512/ford-fathom-electric-truck-challenge/",
-      "summary": "Ford outlines a radically different platform and body shop production methodology for its upcoming $30,000 Fathom electric truck. The new architecture requires advanced manufacturing automation and novel structural load paths to hit aggressive cost and weight targets.",
+      "summary": "Ford's upcoming Fathom electric truck relies on a novel platform architecture and advanced body-in-white manufacturing processes. The unique production approach highlights significant innovations in structural assembly and lightweight material integration for next-generation electric trucks.",
       "image_url": "https://cdn.motor1.com/images/mgl/Qe7j2Y/s3/ford-fathom-las-vegas-teaser.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Honda 0 Alpha EV Prototype Undergoes Rigorous Chassis and Suspension Durability Testing",
-      "url": "https://www.rushlane.com/honda-0-alpha-ev-spied-testing-on-broken-roads-launch-soon-12557406.html",
-      "summary": "Prototype testing of the upcoming Honda 0 Alpha EV highlights heavy evaluation on severely broken road surfaces. Engineers are validating structural durability, suspension hardpoint fatigue resistance, and battery enclosure rigidity ahead of production.",
-      "image_url": "digital-twin-automotive.png",
+      "title": "Volkswagen Chattanooga Plant Overhaul for New Atlas Body Shop Architecture",
+      "url": "https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-start-in-chattanooga/",
+      "summary": "Volkswagen has executed a massive line retooling at its Chattanooga facility to accommodate the 2027 Atlas body structure. The plant upgrade involves advanced stamping and robotic welding automation tailored for complex multi-material body architectures.",
+      "image_url": "https://cdn.motor1.com/images/mgl/XBbqYv/s3/2027-volkswagen-atlas-production-start-in-chattanooga.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volkswagen Overhauls Chattanooga Body Shop Infrastructure to Accommodate New Atlas Platform",
-      "url": "https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-start-in-chattanooga/",
-      "summary": "Volkswagen has executed its most extensive line change at the Chattanooga plant since its opening to manufacture the 2027 Atlas. The major retooling introduces advanced body shop assembly routines and automated welding systems tailored for the updated vehicle architecture.",
-      "image_url": "https://cdn.motor1.com/images/mgl/XBbqYv/s3/2027-volkswagen-atlas-production-start-in-chattanooga.jpg",
+      "title": "BMW Neue Klasse Platform Expansion Across ICE and EV Body Variants",
+      "url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
+      "summary": "BMW's flexible Neue Klasse platform strategy accommodates both internal combustion engine variants and dedicated EV architectures within a unified structural framework. This commonization engineering optimizes multi-energy body packaging, crash load paths, and manufacturing efficiencies.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
       "category": "Structural Engineering"
     }
   ]
