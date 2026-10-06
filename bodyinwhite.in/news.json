@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Range Rover Sport Rear Subframe Forging Defect Analysis and Recall",
-      "url": "https://www.motor1.com/news/810591/range-rover-sport-recall-subframe-cracks/",
-      "summary": "NHTSA campaign 26V613000 addresses structural integrity risks in 2024\u20132026 models due to critical subframe forging defects leading to potential fatigue cracking. Engineers must evaluate the suspension hardpoint loading and material microstructures to mitigate structural failure under dynamic torsional loads.",
-      "image_url": "https://cdn.motor1.com/images/mgl/7Zo8V7/s3/range-rover-sport-sv-edition-two-primera-prueba.jpg",
+      "title": "Architectural Evaluation of the New Italian Supercar Spaceframe Architecture",
+      "url": "https://www.motor1.com/news/810741/angelelli-tipo-829-italian-v6/",
+      "summary": "The Angelelli Automobili Tipo 829 structural layout is engineered to accommodate three distinct variants around a rigid chassis framework. Its multi-purpose structural design optimizes torsional rigidity across diverse driving dynamics.",
+      "image_url": "https://cdn.motor1.com/images/mgl/E6Xp9R/s3/angelelli-automobili-tipo-829-strada.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Toyota Recreates Iconic Drop Test for 9th-Gen Hilux Electric Frame Durability",
-      "url": "https://www.rushlane.com/toyota-drops-a-caravan-on-new-gen-hilux-durability-stunt-12557243.html",
-      "summary": "Toyota subjected the ninth-generation Hilux Electric ladder-frame chassis to a rigorous 760kg caravan drop test, evaluating impact absorption and frame rigidity. This physical validation proves essential for ensuring passenger-cabin survival space and torsional frame resilience under extreme shock loading.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/toyota-hilux-caravan-drop-test-recreated-cover.jpg",
+      "title": "Evaluating the Chassis Integration and Powertrain Layout of the BMW M3 EV",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/bmw-m3-ev-all-revealed-natural-enemy-ice-super-saloon",
+      "summary": "The upcoming electric M3 leverages the Neue Klasse skateboard architecture to optimize battery structural enclosure placement. This integration significantly lowers the vehicle's center of gravity while maintaining high torsional rigidity.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/p90658849_highres_one-million-times-th.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ford's Fathom Electric Truck Demands Radical Platform Architecture Innovation",
-      "url": "https://www.motor1.com/news/810512/ford-fathom-electric-truck-challenge/",
-      "summary": "Ford's upcoming Fathom electric truck relies on a clean-sheet skateboard platform and advanced manufacturing processes to achieve structural efficiency. The design requires novel load paths and battery pack integration to meet stringent crashworthiness standards while managing high payload mass.",
-      "image_url": "https://cdn.motor1.com/images/mgl/Qe7j2Y/s3/ford-fathom-las-vegas-teaser.jpg",
+      "title": "Chassis Stiffness and Lightweight Dynamics in the Toyota GR Yaris",
+      "url": "https://www.autocar.co.uk/car-review/toyota/gr-yaris",
+      "summary": "The GR Yaris employs specialized spot-welding patterns and structural adhesives to enhance body shell rigidity. Its multi-material body construction balances lightweight execution with high crashworthiness performance.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/toyota-yaris-gr-four-review-2026-023.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra Previews Vision T Architecture in First Spied Electric Thar Prototype",
-      "url": "https://www.rushlane.com/new-mahindra-thar-electric-spied-for-first-time-vision-t-design-interiors-12557434.html",
-      "summary": "The heavily camouflaged five-door Thar Electric prototype reveals key structural adaptation of the Vision T concept for off-road EV duty. Engineers face unique challenges protecting the high-capacity underfloor battery pack while maintaining high ground clearance and robust frame stiffness.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/mahindra-thar-electric-spied-for-first-time.jpeg",
+      "title": "Structural Analysis of the Bentley Torcal Dedicated EV Platform",
+      "url": "https://www.carsuk.net/bentley-torcal-arrives-to-challenge-the-range-rover-electric/",
+      "summary": "Bentley's first battery-electric vehicle utilizes a robust skateboard chassis architecture designed to house high-capacity battery packs safely. The underfloor structure acts as a primary load-bearing element, increasing overall chassis stiffness.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Bentley-Torcal-Front-W-590x354.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Integrates ICE Variants into Neue Klasse Flexible Body Architecture",
+      "title": "Platform Engineering and Body-in-White Evolution in the New BMW 3 Series",
       "url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
-      "summary": "BMW extends its Neue Klasse platform principles to internal combustion variants of the upcoming 3 Series. The architecture leverages mixed-material construction and optimized load-bearing tunnels to accommodate diverse powertrains without compromising torsional rigidity.",
+      "summary": "The internal combustion variants of the new 3 Series adopt Neue Klasse structural design principles to streamline manufacturing. The BIW architecture features optimized load paths and advanced high-strength steel grades for enhanced crash safety.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volkswagen Modernizes Chattanooga Plant Body Shop for Next-Gen Atlas Production",
-      "url": "https://www.motor1.com/news/810561/2027-volkswagen-atlas-production-chattanooga/",
-      "summary": "Volkswagen has executed its largest assembly and body shop line overhaul at Chattanooga to support the 2027 Atlas production. The upgraded facility incorporates advanced automation and press-line technology to handle complex body stampings and laser-welded structural assemblies.",
-      "image_url": "https://cdn.motor1.com/images/mgl/XBbqYv/s3/2027-volkswagen-atlas-production-start-in-chattanooga.jpg",
+      "title": "Subframe and Suspension Hardpoint Rigidity in the 2026 Subaru WRX",
+      "url": "https://www.caranddriver.com/reviews/a71934066/2026-subaru-wrx-drive/",
+      "summary": "The Subaru WRX chassis utilizes reinforced subframe mounting points to minimize suspension deflection under high lateral loads. Optimized chassis hardpoints ensure precise kinematic control and structural durability during aggressive track use.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2015f176-f2c7-43ab-8125-93a0f39cbf8a.jpg",
       "category": "Structural Engineering"
     }
   ]
