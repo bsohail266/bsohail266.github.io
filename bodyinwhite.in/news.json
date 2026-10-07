@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Polestar 5 Body Structure and British Engineering Evaluation",
-      "url": "https://www.autocar.co.uk/car-review/polestar/5",
-      "summary": "The production-ready Polestar 5 highlights advanced bonded aluminum chassis construction and high-torsional rigidity frameworks. Developed heavily by British engineering teams, the platform showcases state-of-the-art lightweight material application designed to match rigorous premium EV structural performance targets.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/polestar-5-review-2026-001.jpg",
+      "title": "Ferrari Purosangue Handling Speciale: Chassis Stiffness and Dynamic Architecture Upgrades",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/ferrari-purosangue-handling-speciale-driven-sublime-or-overkill",
+      "summary": "Ferrari introduces a specialized Handling Speciale package for its flagship performance crossover. The engineering focus centers on optimized suspension hardpoints, refined damping, and enhanced torsional rigidity for superior body control under high lateral loads.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari_purosangue-handling-speciale-review-2026-039.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW M3 EV Neue Klasse Platform and Monocoque Architecture Analysis",
-      "url": "https://www.caranddriver.com/news/a74056328/bmw-m3-ev-i3-neue-klasse-prototype-photos/",
-      "summary": "New prototype imagery of the upcoming electric M3 reveals critical integration details of the Neue Klasse modular architecture. The skateboard platform layout optimizes battery pack structural enclosure placement to maximize chassis bending stiffness and passenger cell crash protection.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/8ee5b715-db83-4df6-92ca-716900b90a03.jpg",
+      "title": "Porsche 718 Boxster EV: Dedicated Electric Skateboard Platform and Structural Battery Integration",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/first-ride-speed-new-porsche-718-boxster-ev",
+      "summary": "Porsche's upcoming pure-electric 718 sports car transitions to a bespoke EV architecture. The chassis layout utilizes an optimized floor-mounted battery tray to maintain a low center of gravity and ensure exceptional torsional rigidity in an open-top body style.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porscheboxsterevlead.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Jeep Compass Electric 4x4 Structural Patent and Platform Architecture",
-      "url": "https://www.rushlane.com/new-gen-jeep-compass-electric-4x4-patented-in-india-12557602.html",
-      "summary": "Recent patent filings for the third-generation Jeep Compass Electric detail its dedicated multi-energy floorpan and robust 4x4 subframe mountings. The structural layout emphasizes heavy-duty underbody protection and reinforced side-sill members to safeguard high-voltage battery modules during severe off-road articulation and side-impact scenarios.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/jeep-compass-electric-patented-1.jpg",
+      "title": "BMW Neue Klasse Architecture: Advanced Lightweight Monocoque and Multi-Material Joining",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/bmw-ix4-revealed-rakish-ix3-514-mile-range",
+      "summary": "BMW details the structural philosophy of its upcoming Neue Klasse platform underpinning the iX3 and iX4. The body architecture leverages a hybrid mix of high-strength steels and aluminum structural castings to optimize crash load paths and reduce overall BIW mass.",
+      "image_url": "https://images.cdn.autocar.co.uk/images/cdn.autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/wgm32484_4.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra Thar Roxx Chassis Testing and Suspension Hardpoint Integration",
-      "url": "https://www.rushlane.com/mahindra-thar-roxx-spied-testing-davinci-suspension-12557627.html",
-      "summary": "Spy shots of the Mahindra Thar Roxx indicate ongoing durability testing of advanced damper configurations and upgraded suspension hardpoints. Structural engineers are optimizing frame load paths and crossmember rigidity to manage increased dynamic stresses across rough terrain.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/mahindra-thar-roxx-davinci-dampers-launch.jpg",
+      "title": "Jaguar Type 01 EV: High-Performance Monocoque and Advanced Composite Body Construction",
+      "url": "https://www.carsuk.net/jaguar-type-01-revealed-jaguars-last-chance-saloon/",
+      "summary": "Jaguar's flagship electric GT showcases a radical structural design engineered around an ultra-rigid aluminum-intensive spaceframe. The vehicle utilizes advanced structural bonding and riveting technologies to handle massive torque loads while minimizing structural deflection.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Jaguar-Type-01-Front-W-590x345.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mini Countryman Untamed Edition Chassis Lift and Subframe Reinforcements",
-      "url": "https://www.caranddriver.com/news/a74037175/2027-mini-countryman-untamed-edition-revealed/",
-      "summary": "The rugged Untamed Edition of the Mini Countryman incorporates modified suspension geometry and reinforced subframe attachment points. These structural updates accommodate increased ground clearance while maintaining the body's torsional integrity under high-load off-road conditions.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0296a1f1-8206-4fda-8055-a6b68ec0c514.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Range Rover Sport Electric Skateboard Chassis and Battery Enclosure Design",
+      "title": "Range Rover Sport Electric: Torsional Rigidity and Battery Pack Structural Enclosures",
       "url": "https://www.carsuk.net/range-rover-sport-electric-is-a-110k-rival-for-the-new-porsche-cayenne-electric/",
-      "summary": "JLR's Range Rover Sport Electric utilizes an advanced mixed-material platform integrating a stiff structural battery pack tray as a core load-bearing member. This cell-to-chassis integration approach enhances overall body stiffness, optimizes the center of gravity, and elevates crashworthiness performance.",
+      "summary": "JLR adapts its longitudinal modular architecture for heavy-duty EV powertrain integration in the Range Rover Sport Electric. The chassis features a reinforced underbody safety cell designed to protect the high-voltage battery housing while maximizing off-road structural bending stiffness.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Range-Rover-Sport-Electric-Front-W-590x353.webp",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Porsche Mission S Concept: Mid-Engine Supercar Spaceframe and Lightweight Crash Architecture",
+      "url": "https://www.caranddriver.com/news/a74065319/porsche-mid-engine-supercar-teaser/",
+      "summary": "Porsche's new mid-engine supercar concept highlights cutting-edge lightweight structural engineering. The vehicle is expected to feature a bespoke carbon-fiber-reinforced polymer (CFRP) and aluminum intensive spaceframe to maximize crashworthiness and power-to-weight efficiency.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/3be36f0e-99fc-4529-b804-bef5aa3251e6.jpeg",
       "category": "Structural Engineering"
     }
   ]
