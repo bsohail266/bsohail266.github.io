@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Chassis Dynamics and Active Air Suspension Integration in the Lamborghini Urus Performante",
+      "title": "Neue Klasse Platform Architecture: Optimizing EV Skateboard Chassis and Structural Rigidity",
+      "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
+      "summary": "BMW expands its dedicated EV skateboard architecture with the new Neue Klasse framework, focusing on optimized torsional rigidity and integrated battery pack structural enclosures. The chassis design significantly improves crash energy management while accommodating high-capacity energy storage systems.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Advanced 6D Suspension Kinematics and Active Chassis Integration in High-Performance SUVs",
       "url": "https://www.autocar.co.uk/car-news/new-cars/lamborghini-urus-performante-leaner-meaner-and-more-sensible",
-      "summary": "Lamborghini integrates advanced active air suspension and proprietary 6D sensor technology into the Urus Performante. This electromechanical hardware significantly enhances chassis control, body roll management, and high-speed structural stability.",
+      "summary": "Lamborghini integrates advanced active air suspension technology with multi-axis 6D sensor telemetry to dynamically control chassis pitch, roll, and heave. This electro-mechanical system works alongside high-strength subframes to counteract extreme cornering loads and improve dynamic stability.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/lamborghini-urus-se-perfomante-review-2026-160.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ferrari Purosangue Handling Speciale: Structural Rigidity and Chassis Tuning Upgrades",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/ferrari-purosangue-handling-speciale-driven-sublime-or-overkill",
-      "summary": "Ferrari introduces a specialized Handling Speciale package aimed at stiffening the chassis architecture of its flagship performance SUV. The engineering changes optimize suspension hardpoints and torsional rigidity to handle extreme lateral G-forces.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari_purosangue-handling-speciale-review-2026-039.jpg",
+      "title": "Next-Generation Hybrid Platform Engineering Focuses on Lightweight Structural Architecture",
+      "url": "https://www.caranddriver.com/news/a74092472/honda-new-hybrid-system-name-details/",
+      "summary": "Honda details its upcoming platform architecture specifically engineered to reduce overall BIW mass while enhancing structural load paths for multi-powertrain integration. The optimized framework utilizes advanced hot-stamped steel grades to maintain crashworthiness standards while housing compact electrified drivelines.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/honda-civic-hybrid-prototype-104-690a1a876d02a.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse Architecture Expands With the High-Performance iX3 M60 EV Variant",
+      "title": "Neue Klasse ICE Adaptation: Merging Powertrain Variants on a Shared Flexible Body Structure",
+      "url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
+      "summary": "BMW showcases its flexible platform engineering by adapting the Neue Klasse body structure to accommodate both internal combustion engines and electric powertrains. The multi-energy framework requires innovative tunnel reinforcement and crossmember redesign to preserve torsional stiffness across all variants.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "High-Performance EV Architecture: Balancing Structural Integrity and Battery Tray Load Paths",
       "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-ix3-gains-hot-m60-variant-604bhp-and-470-mile-range",
-      "summary": "BMW's dedicated Neue Klasse electric platform underpins the new iX3 M60, highlighting advanced battery pack structural integration. The skateboard chassis architecture accommodates a massive energy-dense pack while maintaining optimal torsional stiffness.",
+      "summary": "The performance-focused M60 variant highlights how rigid battery pack enclosures double as structural load-bearing members within the EV monocoque. Advanced joining technologies, including structural adhesives and laser welding, ensure optimal load transfer across the chassis floor assembly.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-ix3-m60-9.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Aerodynamic Optimization and Fastback Monocoque Styling of the New BMW iX4 EV",
-      "url": "https://www.autocar.co.uk/car-news/electric-cars/bmw-ix4-revealed-rakish-ix3-514-mile-range",
-      "summary": "The BMW iX4 utilizes the foundational Neue Klasse platform with a heavily optimized coupe-style roofline to maximize aerodynamic drag reduction. The body shell geometry balances structural crash safety requirements with high-efficiency aerodynamic profiling.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/wgm32484_4.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Structural Enclosure Design and Battery Integration in the Bentley Torcal EV Platform",
-      "url": "https://www.carsuk.net/bentley-torcal-arrives-to-challenge-the-range-rover-electric/",
-      "summary": "Bentley's first battery-electric vehicle architecture employs a heavy-duty structural floor pan designed to house an 872bhp powertrain. The chassis utilizes extensive aluminum extrusions and structural adhesives to safely manage high torque loads and crash energy dissipation.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Bentley-Torcal-Front-W-590x354.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Range Rover Sport Electric Introduces Rigid EV Skateboard Platform Architecture",
-      "url": "https://www.carsuk.net/range-rover-sport-electric-is-a-110k-rival-for-the-new-porsche-cayenne-electric/",
-      "summary": "The Range Rover Sport Electric leverages JLR's dedicated high-voltage platform, incorporating a robust cell-to-pack structural floor enclosure. This design maximizes torsional rigidity and protects sensitive battery modules during severe off-road articulation and crash events.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Range-Rover-Sport-Electric-Front-W-590x353.webp",
+      "title": "Platform Evolution: Re-engineering the Volkswagen Group Electric SUV Body Architecture",
+      "url": "https://www.carsuk.net/volkswagen-id-tiguan-on-the-way-as-a-facelift-of-the-vw-id-4/",
+      "summary": "Volkswagen implements structural refinements to its MEB platform derivatives, altering upper body pillars and roof rails to improve side-impact crash deformation characteristics. The revisions focus on optimizing stamping geometries for ultra-high-strength steel components in the occupant safety cell.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Volkswagen-ID-Tiguan-Camo-Front-W-590x339.webp",
       "category": "Structural Engineering"
     }
   ]
