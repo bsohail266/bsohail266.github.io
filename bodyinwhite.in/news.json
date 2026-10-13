@@ -1,44 +1,44 @@
 {
   "biw_news": [
     {
-      "title": "Sierra-Derived Architecture Chosen for Upcoming Jeep SUV Partnership",
-      "url": "https://www.rushlane.com/sierra-based-jeep-suv-planned-tata-stellantis-sign-agreement-12558199.html",
-      "summary": "Tata and Stellantis have signed a definitive agreement to utilize the ARGOS vehicle architecture for an upcoming Jeep SUV. This collaboration leverages advanced platform design to support multi-energy powertrains including structural battery integration and robust chassis configurations.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/02/tata-sierra-ev-spied-testing-launch-june-2026-1.jpeg",
+      "title": "Unorthodox Mid-Engine EV Architecture: Packaging Batteries in Porsche's 718 Platform",
+      "url": "https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/",
+      "summary": "Porsche's upcoming electric 718 platform reimagines the traditional mid-engine layout by housing high-density battery modules directly behind the passenger cabin, presenting unique structural and weight-distribution challenges for the monocoque chassis.",
+      "image_url": "https://cdn.motor1.com/images/mgl/bgOOwM/s3/porsche-718-ev.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Alpine A310 Vision Concept Previews Dedicated Lightweight Platform",
-      "url": "https://www.caranddriver.com/news/a74109830/alpine-a310-vision-concept-revealed/",
-      "summary": "Alpine's latest concept showcases high-end structural engineering built on top of a newly developed monocoque platform. The design emphasizes advanced composite application and weight-saving strategies tailored for high-performance electric sports cars.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/b580aa0e-cac6-4ee1-bc62-21e4c4441aba.jpeg",
+      "title": "Chassis Integration of Underfloor Twin-Cylinder CNG Enclosures in Mahindra XUV3XO",
+      "url": "https://www.rushlane.com/mahindra-xuv3xo-cng-spied-with-twin-cylinder-setup-like-nexon-12558396.html",
+      "summary": "Recent spy shots detail the underfloor integration of a twin-cylinder CNG packaging layout in the Mahindra XUV3XO, highlighting modifications to the lower body structure and rear chassis crossmembers to maintain crash safety margins.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-mahindra-xuv-3xo-cng-spied-testing.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse Architecture Expands with iX4 Structural Integration",
+      "title": "Rigid Frame Adaptation for High-Performance V8 Powertrains in the 2028 Dodge Charger",
+      "url": "https://www.caranddriver.com/news/a74120104/2028-dodge-charger-hemi-v8-report/",
+      "summary": "Internal documentation indicates the multi-energy platform of the upcoming Dodge Charger will require structural tunnel and firewall reinforcements to accommodate the high torque loads of a supercharged Hemi V8 powertrain.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/dodge-charger-hellcat-demon-cd-copy-6958194d2e13b.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Cell-to-Body Platform Integration and Structural Rigidity in the BMW Neue Klasse iX4",
       "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "The new BMW iX4 is built upon the dedicated Neue Klasse skateboard chassis, maximizing battery pack structural enclosure efficiency. This skateboard architecture integrates the high-voltage energy storage directly into the lower body frame to enhance torsional rigidity.",
+      "summary": "Leveraging the dedicated Neue Klasse EV architecture, the BMW iX4 relies on advanced battery pack integration to serve as a primary structural member, significantly boosting torsional rigidity while managing the added weight of the skateboard chassis.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volvo EX90 Launch Highlights Cell-to-Chassis Structural Safety",
-      "url": "https://www.rushlane.com/volvo-ex90-launch-price-rs-1-26-cr-6s-106-kwh-456-bhp-625-km-range-12558202.html",
-      "summary": "The Volvo EX90 enters the market featuring an advanced safety cage and a reinforced floor structure designed to protect its massive 106 kWh battery pack. The body-in-white incorporates extensive use of ultra-high-strength boron steel to optimize crash energy management during side impacts.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-volvo-ex90-india-launch-cover.jpg",
+      "title": "JLR Skateboard Architecture and Battery Enclosure Design in the Range Rover Sport Electric",
+      "url": "https://www.carsuk.net/range-rover-sport-electric-is-a-110k-rival-for-the-new-porsche-cayenne-electric/",
+      "summary": "The Range Rover Sport Electric utilizes a heavily reinforced aluminum-intensive platform framework designed to protect the massive underfloor battery pack while preserving torsional rigidity during high-load off-road articulation.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Range-Rover-Sport-Electric-Front-W-590x353.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Appoints Neue Klasse Monocoque Integration to ICE 3 Series Variants",
-      "url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
-      "summary": "BMW has adapted its flexible Neue Klasse platform strategies to accommodate internal combustion engine variants alongside EVs within the new 3 Series lineup. This unified body architecture requires innovative subframe layouts to house disparate powertrain configurations without compromising structural integrity.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Jaguar Type 01 Introduces Rebuilt EV Skateboard Chassis Architecture",
+      "title": "Modular EV Skateboard Adaptation for the Jaguar Type 01 Flagship Platform",
       "url": "https://www.carsuk.net/jaguar-type-01-revealed-jaguars-last-chance-saloon/",
-      "summary": "Jaguar's rebirth vehicle, the Type 01, relies on a bespoke high-performance electric chassis designed around a rigid central battery tray. The platform utilizes advanced aluminum extrusion joining technologies to maximize torsional stiffness and manage high-output power delivery.",
+      "summary": "Jaguar's new dedicated EV architecture features an expansive flat floor structure tailored to house high-capacity battery modules, demanding advanced high-strength steel extrusions and structural adhesives to manage 1,000+ horsepower torsional stresses.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Jaguar-Type-01-Front-W-590x345.webp",
       "category": "Structural Engineering"
     }
