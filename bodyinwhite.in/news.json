@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Unorthodox Mid-Engine EV Architecture: Packaging Batteries in Porsche's 718 Platform",
-      "url": "https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/",
-      "summary": "Porsche's upcoming electric 718 platform reimagines the traditional mid-engine layout by housing high-density battery modules directly behind the passenger cabin, presenting unique structural and weight-distribution challenges for the monocoque chassis.",
-      "image_url": "https://cdn.motor1.com/images/mgl/bgOOwM/s3/porsche-718-ev.jpg",
+      "title": "Zenos E10 Lightweight Spaceframe and Chassis Architecture Revived",
+      "url": "https://www.motor1.com/news/811923/zenos-e10-returns-385-hp/",
+      "summary": "The British lightweight sports car returns with its signature bonded and extruded aluminum spine chassis, maximizing structural rigidity while minimizing mass. This engineering-focused architecture delivers exceptional power-to-weight performance without relying on heavy active systems.",
+      "image_url": "https://cdn.motor1.com/images/mgl/wlkkyQ/s3/zenos-e10-2027.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Integration of Underfloor Twin-Cylinder CNG Enclosures in Mahindra XUV3XO",
+      "title": "ZF Lifetec Introduces Infrared Camera-Integrated Seatbelt Structural Systems",
+      "url": "https://www.autocar.co.uk/car-news/technology/buckle-seatbelt-knows-if-youre-wearing-it-wrong",
+      "summary": "ZF Lifetec has developed an advanced infrared belt integration that works alongside cabin vision systems to verify correct occupant restraint positioning. This technology enhances occupant kinematics modeling and crashworthiness safety compliance under tightened global standards.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/zf_ir_seatbelt.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Mahindra XUV3XO Integrates Underfloor Twin-Cylinder CNG Structural Packaging",
       "url": "https://www.rushlane.com/mahindra-xuv3xo-cng-spied-with-twin-cylinder-setup-like-nexon-12558396.html",
-      "summary": "Recent spy shots detail the underfloor integration of a twin-cylinder CNG packaging layout in the Mahindra XUV3XO, highlighting modifications to the lower body structure and rear chassis crossmembers to maintain crash safety margins.",
+      "summary": "Recent spy shots reveal the structural packaging modifications made to accommodate a twin-cylinder CNG layout beneath the vehicle floor. This packaging configuration requires careful subframe and chassis reinforcement to maintain rear crash safety margins and structural integrity.",
       "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-mahindra-xuv-3xo-cng-spied-testing.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Rigid Frame Adaptation for High-Performance V8 Powertrains in the 2028 Dodge Charger",
-      "url": "https://www.caranddriver.com/news/a74120104/2028-dodge-charger-hemi-v8-report/",
-      "summary": "Internal documentation indicates the multi-energy platform of the upcoming Dodge Charger will require structural tunnel and firewall reinforcements to accommodate the high torque loads of a supercharged Hemi V8 powertrain.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/dodge-charger-hellcat-demon-cd-copy-6958194d2e13b.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Cell-to-Body Platform Integration and Structural Rigidity in the BMW Neue Klasse iX4",
+      "title": "BMW Neue Klasse Architecture Expands to iX4 Electric Crossover Platform",
       "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "Leveraging the dedicated Neue Klasse EV architecture, the BMW iX4 relies on advanced battery pack integration to serve as a primary structural member, significantly boosting torsional rigidity while managing the added weight of the skateboard chassis.",
+      "summary": "The new BMW iX4 leverages the dedicated Neue Klasse skateboard architecture, optimizing high-voltage battery integration and floorpan rigidity. This platform approach utilizes advanced multi-material joining techniques to handle high torsional loads and deliver expansive driving range.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "JLR Skateboard Architecture and Battery Enclosure Design in the Range Rover Sport Electric",
-      "url": "https://www.carsuk.net/range-rover-sport-electric-is-a-110k-rival-for-the-new-porsche-cayenne-electric/",
-      "summary": "The Range Rover Sport Electric utilizes a heavily reinforced aluminum-intensive platform framework designed to protect the massive underfloor battery pack while preserving torsional rigidity during high-load off-road articulation.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/09/Range-Rover-Sport-Electric-Front-W-590x353.webp",
+      "title": "Hyundai Commits Rs 11,000 Crore to Pune Plant Expansion and Manufacturing Automation",
+      "url": "https://www.rushlane.com/hyundai-india-new-pune-plant-hybrid-production-planned-12558489.html",
+      "summary": "Hyundai is significantly scaling up its regional production capacity with advanced body shop automation and flexible press lines to support upcoming hybrid and EV architectures. The infrastructure investment focuses on high-precision stamping and automated welding cells for improved body-in-white dimensional accuracy.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-india-pune-plant-venue-1.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Modular EV Skateboard Adaptation for the Jaguar Type 01 Flagship Platform",
-      "url": "https://www.carsuk.net/jaguar-type-01-revealed-jaguars-last-chance-saloon/",
-      "summary": "Jaguar's new dedicated EV architecture features an expansive flat floor structure tailored to house high-capacity battery modules, demanding advanced high-strength steel extrusions and structural adhesives to manage 1,000+ horsepower torsional stresses.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Jaguar-Type-01-Front-W-590x345.webp",
+      "title": "Zenos E10 Mid-Engine Lightweight Chassis and Extruded Aluminum Construction",
+      "url": "https://www.autocar.co.uk/car-review/zenos/e10",
+      "summary": "The mid-engined track machine highlights the engineering benefits of an epoxy-bonded composite and aluminum spine chassis layout. Its minimalist structural design eliminates superfluous mass while maintaining high torsional rigidity for optimal handling dynamics.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/zenos-review-2026-295.jpg",
       "category": "Structural Engineering"
     }
   ]
