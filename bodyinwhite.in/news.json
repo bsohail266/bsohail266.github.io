@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Zenos E10 Lightweight Spaceframe and Chassis Architecture Revived",
-      "url": "https://www.motor1.com/news/811923/zenos-e10-returns-385-hp/",
-      "summary": "The British lightweight sports car returns with its signature bonded and extruded aluminum spine chassis, maximizing structural rigidity while minimizing mass. This engineering-focused architecture delivers exceptional power-to-weight performance without relying on heavy active systems.",
-      "image_url": "https://cdn.motor1.com/images/mgl/wlkkyQ/s3/zenos-e10-2027.jpg",
+      "title": "Porsche Mission S Concept Establishes New Mid-Engine Supercar Monocoque Architecture",
+      "url": "https://www.caranddriver.com/news/a74145375/porsche-mission-s-concept-revealed/",
+      "summary": "Porsche has officially detailed its upcoming mid-engine supercar concept, showcasing advanced lightweight spaceframe construction and optimized torsional rigidity. The layout sets a new structural benchmark to sit above the iconic 911 platform.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/4e1cabb0-29be-46cd-865b-4490d50facab.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "ZF Lifetec Introduces Infrared Camera-Integrated Seatbelt Structural Systems",
+      "title": "Porsche Advanced Concept Previews Next-Generation Composite Body Structures",
+      "url": "https://www.motor1.com/news/812133/porsche-mission-s-concept-debut-details/",
+      "summary": "The Mission S engineering study highlights innovative material mixing, combining high-strength aluminum extrusions and structural carbon fiber. This approach aims to maximize crashworthiness while keeping overall curb weight exceptionally low.",
+      "image_url": "https://cdn.motor1.com/images/mgl/JO6y9n/s3/hoffman-project0338-2_copy.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Fiat Multiplina Quadricycle Targets Aggressive Lightweight Stamping and Body Optimization",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/fiat-multiplina-tiny-four-seater-must-lose-weight-make-production",
+      "summary": "Fiat faces strict structural mass targets for its upcoming four-seat electric microcar, requiring extensive gauge reduction and novel joining methods. Engineers are re-evaluating subframe stampings and panel thicknesses to ensure structural integrity under strict weight constraints.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/legacy/fiat-multiplina-202.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "ZF Lifetec Integrates Infrared Sensors into Structural Seatbelt Assemblies for Enhanced Crash Safety",
       "url": "https://www.autocar.co.uk/car-news/technology/buckle-seatbelt-knows-if-youre-wearing-it-wrong",
-      "summary": "ZF Lifetec has developed an advanced infrared belt integration that works alongside cabin vision systems to verify correct occupant restraint positioning. This technology enhances occupant kinematics modeling and crashworthiness safety compliance under tightened global standards.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/zf_ir_seatbelt.jpg",
+      "summary": "ZF Lifetec has introduced an advanced infrared monitoring system integrated directly into occupant restraint anchorages. This technology ensures proper webbing geometry during high-severity crash deformation events, optimizing occupant retention and reducing injury metrics.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/legacy/zf_ir_seatbelt.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra XUV3XO Integrates Underfloor Twin-Cylinder CNG Structural Packaging",
-      "url": "https://www.rushlane.com/mahindra-xuv3xo-cng-spied-with-twin-cylinder-setup-like-nexon-12558396.html",
-      "summary": "Recent spy shots reveal the structural packaging modifications made to accommodate a twin-cylinder CNG layout beneath the vehicle floor. This packaging configuration requires careful subframe and chassis reinforcement to maintain rear crash safety margins and structural integrity.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-mahindra-xuv-3xo-cng-spied-testing.jpeg",
+      "title": "Toyota Multi-Energy Platform Architecture Balances Rigid Chassis Design for ICE and EV Variants",
+      "url": "https://www.motor1.com/news/812121/toyota-corolla-powertrain-details-specs/",
+      "summary": "Toyota's upcoming vehicle architecture accommodates diverse powertrain layouts without compromising underbody torsional rigidity. The chassis features adaptable load paths and reinforced subframe mounting points to support heavy battery packs alongside conventional exhaust tunnels.",
+      "image_url": "https://cdn.motor1.com/images/mgl/E6YLJ3/s3/toyota-corolla-concept-2026.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse Architecture Expands to iX4 Electric Crossover Platform",
-      "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "The new BMW iX4 leverages the dedicated Neue Klasse skateboard architecture, optimizing high-voltage battery integration and floorpan rigidity. This platform approach utilizes advanced multi-material joining techniques to handle high torsional loads and deliver expansive driving range.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Hyundai Commits Rs 11,000 Crore to Pune Plant Expansion and Manufacturing Automation",
-      "url": "https://www.rushlane.com/hyundai-india-new-pune-plant-hybrid-production-planned-12558489.html",
-      "summary": "Hyundai is significantly scaling up its regional production capacity with advanced body shop automation and flexible press lines to support upcoming hybrid and EV architectures. The infrastructure investment focuses on high-precision stamping and automated welding cells for improved body-in-white dimensional accuracy.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-india-pune-plant-venue-1.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Zenos E10 Mid-Engine Lightweight Chassis and Extruded Aluminum Construction",
-      "url": "https://www.autocar.co.uk/car-review/zenos/e10",
-      "summary": "The mid-engined track machine highlights the engineering benefits of an epoxy-bonded composite and aluminum spine chassis layout. Its minimalist structural design eliminates superfluous mass while maintaining high torsional rigidity for optimal handling dynamics.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/zenos-review-2026-295.jpg",
+      "title": "BMW Implements Flexible Neue Klasse Body Architecture Across ICE and EV 3 Series Lineup",
+      "url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
+      "summary": "BMW's latest structural rollout unifies internal combustion and battery-electric variants onto a single flexible body-in-white framework. The platform leverages advanced hot-formed ultra-high-strength steels to maintain uniform crash safety performance across all powertrain configurations.",
+      "image_url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
       "category": "Structural Engineering"
     }
   ]
