@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Porsche Mission S Concept Establishes New Mid-Engine Supercar Monocoque Architecture",
-      "url": "https://www.caranddriver.com/news/a74145375/porsche-mission-s-concept-revealed/",
-      "summary": "Porsche has officially detailed its upcoming mid-engine supercar concept, showcasing advanced lightweight spaceframe construction and optimized torsional rigidity. The layout sets a new structural benchmark to sit above the iconic 911 platform.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/4e1cabb0-29be-46cd-865b-4490d50facab.jpeg",
+      "title": "Subaru Structural Patent Details Innovative Hollow-Camshaft Vibration Suppression",
+      "url": "https://www.caranddriver.com/news/a74158213/subaru-patent-details/",
+      "summary": "Subaru has filed a mechanical engineering patent introducing balance weights inside a hollow camshaft design to optimize structural vibration damping. This innovative powertrain refinement strategy mitigates harmonic resonance and mechanical stress within high-performance engine configurations.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/6e53f5fb-c0d1-478e-b27b-511f9074e2b0.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "Porsche Advanced Concept Previews Next-Generation Composite Body Structures",
-      "url": "https://www.motor1.com/news/812133/porsche-mission-s-concept-debut-details/",
-      "summary": "The Mission S engineering study highlights innovative material mixing, combining high-strength aluminum extrusions and structural carbon fiber. This approach aims to maximize crashworthiness while keeping overall curb weight exceptionally low.",
-      "image_url": "https://cdn.motor1.com/images/mgl/JO6y9n/s3/hoffman-project0338-2_copy.jpg",
+      "title": "China Proposes Strict Regulatory Overhaul Banning Hidden Exterior Door Handles",
+      "url": "https://www.motor1.com/news/812238/china-hidden-door-handle-rules/",
+      "summary": "Proposed regulatory safety mandates in China target flush, hidden exterior door handles by requiring fail-safe mechanical exterior releases and strict compliance deadlines by 2027. This structural accessibility shift directly impacts outer door panel stamping geometry, crash safety rescue protocols, and body side-impact architecture.",
+      "image_url": "https://cdn.motor1.com/images/mgl/lEqBAM/s3/2026-nissan-leaf-this-is-it.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Fiat Multiplina Quadricycle Targets Aggressive Lightweight Stamping and Body Optimization",
+      "title": "Fiat Micro-Quadricycle Platform Demands Aggressive Mass Reduction for Production",
       "url": "https://www.autocar.co.uk/car-news/new-cars/fiat-multiplina-tiny-four-seater-must-lose-weight-make-production",
-      "summary": "Fiat faces strict structural mass targets for its upcoming four-seat electric microcar, requiring extensive gauge reduction and novel joining methods. Engineers are re-evaluating subframe stampings and panel thicknesses to ensure structural integrity under strict weight constraints.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/legacy/fiat-multiplina-202.jpg",
+      "summary": "Fiat engineers are forced to execute rigorous weight-saving measures on the upcoming four-seat electric quadricycle structure to meet strict light-vehicle homologation thresholds. Achieving the necessary structural mass reduction requires optimized lightweight material selection and minimalist chassis packaging.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/fiat-multiplina-202.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "ZF Lifetec Integrates Infrared Sensors into Structural Seatbelt Assemblies for Enhanced Crash Safety",
-      "url": "https://www.autocar.co.uk/car-news/technology/buckle-seatbelt-knows-if-youre-wearing-it-wrong",
-      "summary": "ZF Lifetec has introduced an advanced infrared monitoring system integrated directly into occupant restraint anchorages. This technology ensures proper webbing geometry during high-severity crash deformation events, optimizing occupant retention and reducing injury metrics.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/legacy/zf_ir_seatbelt.jpg",
+      "title": "Porsche Evaluates Manual Transmission Architecture Compatibility for Mission S Platform",
+      "url": "https://www.caranddriver.com/news/a74163104/porsche-mission-s-manual-transmission-compatible/",
+      "summary": "Porsche leadership confirms that the underlying structural packaging of the Mission S concept maintains theoretical compatibility with manual transmission layouts. The chassis tunnel and subframe spatial constraints have been engineered to accommodate diverse powertrain and transmission configurations depending on future market demand.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/ed8e481b-bae2-43d4-8d6c-74194046db2c.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Toyota Multi-Energy Platform Architecture Balances Rigid Chassis Design for ICE and EV Variants",
-      "url": "https://www.motor1.com/news/812121/toyota-corolla-powertrain-details-specs/",
-      "summary": "Toyota's upcoming vehicle architecture accommodates diverse powertrain layouts without compromising underbody torsional rigidity. The chassis features adaptable load paths and reinforced subframe mounting points to support heavy battery packs alongside conventional exhaust tunnels.",
-      "image_url": "https://cdn.motor1.com/images/mgl/E6YLJ3/s3/toyota-corolla-concept-2026.jpg",
+      "title": "Euro NCAP Safety Testing Protocol Changes Spark Industry Debate Over Structural Compliance",
+      "url": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/new-fiat-boss-dont-get-euro-ncap-any-com",
+      "summary": "Automotive executives have raised concerns over the rapid evolution of Euro NCAP crash safety criteria and structural deformation scoring parameters. Constant regulatory shifts complicate long-term BIW crashworthiness development cycles and body structure optimization strategies for high-volume manufacturers.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/fiat_crash_sidey.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Implements Flexible Neue Klasse Body Architecture Across ICE and EV 3 Series Lineup",
-      "url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-3-Series-2026-Front-W-590x301.webp",
-      "summary": "BMW's latest structural rollout unifies internal combustion and battery-electric variants onto a single flexible body-in-white framework. The platform leverages advanced hot-formed ultra-high-strength steels to maintain uniform crash safety performance across all powertrain configurations.",
-      "image_url": "https://www.carsuk.net/new-bmw-3-series-ice-models-get-neue-klasse-makeover/",
+      "title": "Dodge Charger Scat Pack Features Rigid Widebody Chassis and Twin-Turbo Inline-Six Layout",
+      "url": "https://www.caranddriver.com/sponsored/a74083478/factory-performance-is-just-the-starting-line-for-the-550-hp-charger-scat-pack/",
+      "summary": "The Dodge Charger Scat Pack utilizes a stiffened widebody platform architecture designed to handle high torsional rigidity requirements and rear-drive balance. The chassis layout integrates a robust twin-turbo straight-six powertrain while providing structural hardpoints capable of enduring extreme aftermarket performance enhancements.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/1eda8d71-20a8-4ad4-a10c-e717c9a60dd3.jpg",
       "category": "Structural Engineering"
     }
   ]
