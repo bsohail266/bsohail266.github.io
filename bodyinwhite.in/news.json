@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Advanced Body Structures and Level 2 ADAS Integration in the New Hyundai Bayon",
-      "url": "https://www.rushlane.com/hyundai-bayon-10-colours-safety-features-revealed-23-adas-12559102.html",
-      "summary": "Hyundai has detailed the heavily reinforced body structure of the new Bayon, engineered to achieve high crash safety standards. The structural integrity is complemented by a comprehensive Level 2 ADAS suite and over 35 standard safety features.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/hyundai-bayon-india-platform-5-star-safety-enineered-1.jpg",
+      "title": "Neue Klasse Platform Integration: Structural Evaluation of the 2027 BMW iX5 Body Architecture",
+      "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
+      "summary": "Analyzing BMW's integration of heavy battery packs within the Neue Klasse skateboard architecture. The chassis must manage substantial mass while maintaining torsional rigidity and crash safety compliance.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Structural Upgrades and Fox Suspension Integration in the Ford Bronco ORV",
-      "url": "https://www.caranddriver.com/news/a74207750/ford-bronco-orv-package-details/",
-      "summary": "The Ford Bronco ORV package introduces specialized structural and suspension enhancements, featuring a high-performance Fox suspension kit. These upgrades are designed to handle severe off-road cyclic loads while maintaining chassis rigidity and durability.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/84faf76c-2bcd-4498-ab0b-380200df083d.jpeg",
+      "title": "Ultraviolette VX-100 Platform: Lightweight Construction and Structural Rigidity Analysis",
+      "url": "https://www.rushlane.com/new-ultraviolette-x-47-venom-launch-price-rs-2-65-lakh-onwards-12559248.html",
+      "summary": "The newly developed VX-100 platform introduces optimized weight-saving geometries and advanced structural framing. This architecture enhances mass centralization while housing the high-density battery pack securely.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-ultraviolette-x-47-venom-electric-launch-price-3.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Geometry and Suspension Lift Optimization in the 2027 Honda Passport TrailSport",
-      "url": "https://www.caranddriver.com/reviews/a74180938/2027-honda-passport-trailsport-test/",
-      "summary": "Honda has re-engineered the Passport TrailSport chassis with a dedicated suspension lift and modified hardpoints. These geometric revisions improve articulation and ground clearance without compromising the unibody's torsional rigidity under heavy off-road loads.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f1d0ef60-63f6-4371-ae2b-41b3c327c9d5.jpg",
+      "title": "Body-on-Frame Engineering: Honda and Mitsubishi Partner on Rigid Pickup Architecture",
+      "url": "https://www.caranddriver.com/news/a74220992/honda-mitsubishi-pickup-truck-details/",
+      "summary": "Utilizing Mitsubishi's robust ladder-frame chassis design, this collaboration focuses on high-strength steel frame rails to support heavy towing loads and torsional stress conditions in commercial truck applications.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/778f5077-e428-43cd-9c86-ec74c0b8d28a.png",
       "category": "Structural Engineering"
     },
     {
-      "title": "Aerodynamic Optimization and Structural Heritage in Saab's Aircraft-Derived Engineering",
-      "url": "https://www.autocar.co.uk/car-news/from-the-archive/more-marketing-how-saab-really-did-use-jets-develop-cars",
-      "summary": "Saab successfully pioneered the transfer of aerospace wind-tunnel testing and aerodynamic principles into automotive body design. This cross-industry methodology significantly influenced monocoque streamlining and high-speed structural stability.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/saab_jet_fighter_lead.jpg",
+      "title": "Chassis Safety Advisory: Suspension Component Integrity and Fastener Load Limits in Porsche Performance Models",
+      "url": "https://www.caranddriver.com/news/a74219012/porsche-911-gt3-turbo-s-718-cayman-gt4-spyder-rs-do-not-drive-recall-wheels/",
+      "summary": "Addressing critical mechanical fastening limits and dynamic load concentrations at the wheel hub and suspension hardpoints. Structural integrity checks are mandatory to prevent localized fatigue and joint failure under high cornering loads.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/5130f2f7-e49a-4724-8a46-86ca3a0ac0d6.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Neue Klasse Platform Evolution: The Architecture of the BMW iX4 Electric Crossover",
+      "title": "Battery Enclosure and Thermal-Structural Layout in the 2027 BMW iX5 Skateboard Chassis",
+      "url": "https://www.caranddriver.com/reviews/a74178960/2027-bmw-ix5-drive/",
+      "summary": "Examining the integration of the structural battery pack tray within the mid-size electric platform. The enclosure acts as a primary load-bearing shear panel, enhancing overall body stiffness and side-impact crashworthiness.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/3d02a8ae-c2d5-4a79-b76b-29030db3445c.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Platform Architecture Review: Structural Trade-offs Between the BMW iX3 and iX4 Body Styles",
       "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "Utilizing BMW's advanced Neue Klasse dedicated EV architecture, the iX4 showcases next-generation skateboard chassis integration. The platform efficiently packages high-density battery enclosures while maintaining high torsional rigidity for dynamic handling.",
+      "summary": "Comparing the roofline load paths and rear bulkhead reinforcement required for the fastback coupe-SUV silhouette against traditional multi-purpose utility geometries on the same EV platform.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Cell-to-Chassis Integration and Structural Battery Pack Design in the BYD Atto 8",
-      "url": "https://www.carsuk.net/byd-atto-8-arrives-to-challenge-the-skoda-peaq-kia-ev9-and-more/",
-      "summary": "The BYD Atto 8 integrates a massive 115kWh battery pack within its skateboard architecture, serving as a primary structural element of the platform. This configuration enhances overall chassis bending stiffness while optimizing interior space for a 7-seat layout.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BYD-Atto-8-Front-W-590x333.webp",
       "category": "Structural Engineering"
     }
   ]
