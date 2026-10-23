@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Neue Klasse Platform Integration: Structural Evaluation of the 2027 BMW iX5 Body Architecture",
+      "title": "Ducati Hypermotard V2 Adopts Advanced Monocoque Chassis Architecture",
+      "url": "https://www.rushlane.com/new-ducati-hypermotard-v2-launch-price-rs-16-53-l-120-bhp-94-nm-177-kg-12559331.html",
+      "summary": "The newly launched Ducati Hypermotard V2 integrates an advanced monocoque chassis structure designed to optimize torsional rigidity while maintaining a low dry weight of 177 kg. This lightweight structural approach enhances overall vehicle dynamics and structural efficiency.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-ducati-hypermotard-v2-india-launch-3.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Volvo Outlines Advanced SPA3 Platform Architecture for Next-Generation EVs",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-follow-ex60-lower-priced-ev-europe-2027",
+      "summary": "Volvo is expanding its vehicle lineup utilizing the newly developed SPA3 platform architecture. This scalable skateboard chassis design improves manufacturing automation and structural battery integration for future European electric models.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo-ex60-2026-jh-15.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Neue Klasse EV Architecture Underpins Structural Integration in BMW iX5",
       "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
-      "summary": "Analyzing BMW's integration of heavy battery packs within the Neue Klasse skateboard architecture. The chassis must manage substantial mass while maintaining torsional rigidity and crash safety compliance.",
+      "summary": "The new BMW iX5 leverages the dedicated Neue Klasse EV architecture to accommodate a massive structural battery pack. This integration optimizes the vehicle's center of gravity and torsional rigidity despite a heavy overall displacement.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ultraviolette VX-100 Platform: Lightweight Construction and Structural Rigidity Analysis",
-      "url": "https://www.rushlane.com/new-ultraviolette-x-47-venom-launch-price-rs-2-65-lakh-onwards-12559248.html",
-      "summary": "The newly developed VX-100 platform introduces optimized weight-saving geometries and advanced structural framing. This architecture enhances mass centralization while housing the high-density battery pack securely.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-ultraviolette-x-47-venom-electric-launch-price-3.jpg",
+      "title": "Structural Evaluation of Neue Klasse Platform Dynamics in the 2027 BMW iX3",
+      "url": "https://www.caranddriver.com/reviews/a74184219/2027-bmw-ix3-test/",
+      "summary": "Initial track and road evaluations of the 2027 BMW iX3 highlight the structural integrity of its dedicated EV skateboard architecture. The chassis demonstrates exceptional torsional stiffness and effective management of heavy high-voltage battery enclosures.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f471fd2d-56ba-4f77-a87d-1a9860dcf34a.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Body-on-Frame Engineering: Honda and Mitsubishi Partner on Rigid Pickup Architecture",
-      "url": "https://www.caranddriver.com/news/a74220992/honda-mitsubishi-pickup-truck-details/",
-      "summary": "Utilizing Mitsubishi's robust ladder-frame chassis design, this collaboration focuses on high-strength steel frame rails to support heavy towing loads and torsional stress conditions in commercial truck applications.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/778f5077-e428-43cd-9c86-ec74c0b8d28a.png",
+      "title": "Audi Q9 Introduces Ultrathin Glass and Curvature Innovations in Lighting Assemblies",
+      "url": "https://www.motor1.com/news/813009/audi-q9-curved-oled-taillights/",
+      "summary": "The Audi Q9 features world-first curved digital OLED panels utilizing ultra-thin glass and 512 distinct segments. From an exterior integration standpoint, these assemblies showcase advanced packaging techniques for complex body geometry.",
+      "image_url": "https://cdn.motor1.com/images/mgl/AkOpA9/s3/audi-q9-curved-oled-taillights.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Safety Advisory: Suspension Component Integrity and Fastener Load Limits in Porsche Performance Models",
-      "url": "https://www.caranddriver.com/news/a74219012/porsche-911-gt3-turbo-s-718-cayman-gt4-spyder-rs-do-not-drive-recall-wheels/",
-      "summary": "Addressing critical mechanical fastening limits and dynamic load concentrations at the wheel hub and suspension hardpoints. Structural integrity checks are mandatory to prevent localized fatigue and joint failure under high cornering loads.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/5130f2f7-e49a-4724-8a46-86ca3a0ac0d6.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Battery Enclosure and Thermal-Structural Layout in the 2027 BMW iX5 Skateboard Chassis",
-      "url": "https://www.caranddriver.com/reviews/a74178960/2027-bmw-ix5-drive/",
-      "summary": "Examining the integration of the structural battery pack tray within the mid-size electric platform. The enclosure acts as a primary load-bearing shear panel, enhancing overall body stiffness and side-impact crashworthiness.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/3d02a8ae-c2d5-4a79-b76b-29030db3445c.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Platform Architecture Review: Structural Trade-offs Between the BMW iX3 and iX4 Body Styles",
-      "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "Comparing the roofline load paths and rear bulkhead reinforcement required for the fastback coupe-SUV silhouette against traditional multi-purpose utility geometries on the same EV platform.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
+      "title": "Toyota Develops Mid-Engine GR Racing Prototype Utilizing Motorsport Chassis Geometry",
+      "url": "https://www.caranddriver.com/news/a74233723/toyota-gr-yaris-race-car-next-gen-mr2-preview/",
+      "summary": "Toyota's new mid-engine racing prototype employs a dedicated motorsport spaceframe configuration tailored for high-stress endurance racing. The layout provides insights into future lightweight sports car architecture and structural load paths.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/cb8b4346-31c9-4fcd-a50e-b8513c05510d.jpeg",
       "category": "Structural Engineering"
     }
   ]
