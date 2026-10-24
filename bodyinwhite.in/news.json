@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Ducati Hypermotard V2 Adopts Advanced Monocoque Chassis Architecture",
-      "url": "https://www.rushlane.com/new-ducati-hypermotard-v2-launch-price-rs-16-53-l-120-bhp-94-nm-177-kg-12559331.html",
-      "summary": "The newly launched Ducati Hypermotard V2 integrates an advanced monocoque chassis structure designed to optimize torsional rigidity while maintaining a low dry weight of 177 kg. This lightweight structural approach enhances overall vehicle dynamics and structural efficiency.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-ducati-hypermotard-v2-india-launch-3.jpg",
+      "title": "Volvo Confronts Structural Manufacturing Bottlenecks on New EX60 Platform",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/production-crucial-new-volvo-ex60-taking-longer-planned",
+      "summary": "Volvo reports that production ramp-up for the new EX60 electric SUV is taking longer than anticipated due to complex manufacturing challenges. Engineering teams are actively working to optimize body shop assembly and structural component integration for the platform.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo-ex60-2026-jh-17.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volvo Outlines Advanced SPA3 Platform Architecture for Next-Generation EVs",
+      "title": "Volvo Expands SPA3 Platform Architecture with Upcoming European EV",
       "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-follow-ex60-lower-priced-ev-europe-2027",
-      "summary": "Volvo is expanding its vehicle lineup utilizing the newly developed SPA3 platform architecture. This scalable skateboard chassis design improves manufacturing automation and structural battery integration for future European electric models.",
+      "summary": "Following the rollout of the EX60, Volvo is preparing a second vehicle utilizing its advanced SPA3 scalable EV platform. This new platform architecture focuses on modular body structures and highly integrated battery pack enclosures to improve manufacturing efficiency.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo-ex60-2026-jh-15.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Neue Klasse EV Architecture Underpins Structural Integration in BMW iX5",
-      "url": "https://www.autocar.co.uk/car-review/bmw/ix5",
-      "summary": "The new BMW iX5 leverages the dedicated Neue Klasse EV architecture to accommodate a massive structural battery pack. This integration optimizes the vehicle's center of gravity and torsional rigidity despite a heavy overall displacement.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/bmw-ix5-review-2026-067.jpg",
+      "title": "BMW Integrates Neue Klasse Chassis Architecture in the New iX4",
+      "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
+      "summary": "BMW expands its dedicated electric vehicle portfolio with the introduction of the iX4, sharing the flexible Neue Klasse skateboard architecture. The chassis design prioritizes optimal torsional rigidity and structural battery pack integration to handle high-output dual-motor powertrains.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Structural Evaluation of Neue Klasse Platform Dynamics in the 2027 BMW iX3",
-      "url": "https://www.caranddriver.com/reviews/a74184219/2027-bmw-ix3-test/",
-      "summary": "Initial track and road evaluations of the 2027 BMW iX3 highlight the structural integrity of its dedicated EV skateboard architecture. The chassis demonstrates exceptional torsional stiffness and effective management of heavy high-voltage battery enclosures.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f471fd2d-56ba-4f77-a87d-1a9860dcf34a.jpg",
+      "title": "Toyota Issues Safety Recall for Land Cruiser Hybrid Over Fuel-Line Integrity",
+      "url": "https://www.caranddriver.com/news/a74233226/toyota-land-cruiser-hybrid-fuel-leak-recall/",
+      "summary": "Toyota is recalling over 106,000 hybrid Land Cruisers due to a potentially faulty fuel-line connection under the chassis. Structural and mechanical engineers are inspecting routing paths to prevent component chafing and mitigate potential fire hazards.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2024-toyota-land-cruiser-133-6695615ead437.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Audi Q9 Introduces Ultrathin Glass and Curvature Innovations in Lighting Assemblies",
-      "url": "https://www.motor1.com/news/813009/audi-q9-curved-oled-taillights/",
-      "summary": "The Audi Q9 features world-first curved digital OLED panels utilizing ultra-thin glass and 512 distinct segments. From an exterior integration standpoint, these assemblies showcase advanced packaging techniques for complex body geometry.",
-      "image_url": "https://cdn.motor1.com/images/mgl/AkOpA9/s3/audi-q9-curved-oled-taillights.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Toyota Develops Mid-Engine GR Racing Prototype Utilizing Motorsport Chassis Geometry",
+      "title": "Toyota Previews Mid-Engine GR Racing Prototype with Advanced Spaceframe Layout",
       "url": "https://www.caranddriver.com/news/a74233723/toyota-gr-yaris-race-car-next-gen-mr2-preview/",
-      "summary": "Toyota's new mid-engine racing prototype employs a dedicated motorsport spaceframe configuration tailored for high-stress endurance racing. The layout provides insights into future lightweight sports car architecture and structural load paths.",
+      "summary": "Toyota's latest GR racing prototype highlights a specialized mid-engine layout engineered for endurance competition in Japan. The chassis utilizes a lightweight tubular spaceframe structure designed to optimize weight distribution and cornering rigidity.",
       "image_url": "https://hips.hearstapps.com/hmg-prod/images/cb8b4346-31c9-4fcd-a50e-b8513c05510d.jpeg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Chevrolet Updates Corvette Stingray Chassis Dynamics with New V-8 Powertrain",
+      "url": "https://www.caranddriver.com/news/a74196488/2027-chevrolet-corvette-stingray-vs-2020-chevrolet-corvette-stingray/",
+      "summary": "Chevrolet's updated Corvette Stingray integrates the new LS6 V-8 engine into its bonded aluminum spaceframe structure. Structural enhancements ensure the monocoque chassis can effectively manage the increased torsional loads and powertrain outputs.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/ff79b21c-5ea6-40cc-a27a-9c5d2caf607d.jpg",
       "category": "Structural Engineering"
     }
   ]
