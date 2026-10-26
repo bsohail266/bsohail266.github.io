@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Volvo Confronts Production Bottlenecks in Advanced SPA3 Platform Architecture and Structural Integration",
-      "url": "https://www.autocar.co.uk/car-news/electric-cars/production-crucial-new-volvo-ex60-taking-longer-planned",
-      "summary": "Volvo addresses complex manufacturing challenges associated with the structural ramp-up of its next-generation EV platforms. The intricacies of integrating advanced battery enclosures into the body shell highlight ongoing stamping and assembly hurdles in modern body shops.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo-ex60-2026-jh-17.jpg",
+      "title": "IIHS Structural Crash Safety Evaluation: Assessing Rear-Seat Belt Modifications and Cabin Deformation in Modern Crossovers",
+      "url": "https://www.motor1.com/news/813211/iihs-crash-test-results-nissan/",
+      "summary": "Recent IIHS evaluations highlight structural occupant protection challenges in compact SUVs, detailing how rear-seat belt load limiters and structural restraint adjustments impact occupant kinematics during frontal impacts. The analysis underscores the critical role of optimized load paths and intrusion resistance in achieving top safety ratings.",
+      "image_url": "https://cdn.motor1.com/images/mgl/pb8WVW/s3/2026-nissan-kicks-earns-iihs-top-safety-pick.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volvo Expands Scalable Product Architecture 3 (SPA3) Implementation for High-Volume EV Monocoques",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/volvo-follow-ex60-lower-priced-ev-europe-2027",
-      "summary": "The Swedish manufacturer details its upcoming vehicle architecture strategy utilizing the SPA3 platform framework. This scalable chassis design optimizes structural rigidity, mass reduction, and automated manufacturing efficiency for future European electric vehicle lines.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo-ex60-2026-jh-15.jpg",
+      "title": "Carbon Composite Body Integration: Acura ADX Customization and Lightweight Material Application",
+      "url": "https://www.motor1.com/news/813208/acura-adx-cz-77-concept/",
+      "summary": "Exploring the integration of bespoke carbon-fiber exterior body panels on a monocoque architecture to achieve localized mass reduction. This engineering showcase demonstrates advanced composite material layup techniques and mechanical fastening strategies for non-structural cladding.",
+      "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse Architecture Advances Skateboard Chassis and Battery-Pack Structural Integration",
+      "title": "Brabus 900-HP G63 Conversion: High-Performance Chassis Reinforcement and Rigid Frame Modifications",
+      "url": "https://www.caranddriver.com/news/a74251542/brabus-mercedes-amg-g63-pickup-truck/",
+      "summary": "Transforming the Mercedes-AMG G63 into a high-output pickup truck demands rigorous ladder-frame chassis reinforcement and torsional rigidity enhancements. Engineers must recalculate bending moments and implement heavy-duty subframe bracing to manage extreme powertrain torque.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/b77c2cf5-5eee-4333-8f18-4fd8cda7fc37.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Lamborghini Revuelto SV Track Dynamics: Advanced Carbon Monocoque and Aerodynamic Load Management",
+      "url": "https://www.caranddriver.com/reviews/a74229398/2027-lamborghini-revuelto-sv-drive/",
+      "summary": "The Lamborghini Revuelto SV leverages an advanced carbon fiber multi-technology monocoque structure designed to withstand extreme torsional loads on track. Structural integration of high-downforce aerodynamic elements requires reinforced hardpoints and localized CFRP layup optimization.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/3b5f70d7-ba50-4938-b4a0-931669c53f8b.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "BMW Neue Klasse EV Platform Architecture: Integrating Skateboard Chassis and Battery Enclosures",
       "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "The integration of BMW's Neue Klasse platform demonstrates state-of-the-art skateboard chassis design and cell-to-pack integration. The structural housing acts as a primary load-bearing element, enhancing torsional rigidity while minimizing overall vehicle mass.",
+      "summary": "The BMW Neue Klasse platform utilizes a dedicated EV skateboard architecture where the high-voltage battery housing serves as a primary structural load-bearing member. This cell-to-chassis integration enhances torsional rigidity while optimizing the vehicle's center of gravity and crash energy absorption paths.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mahindra Secures Design Patents for Vision S Lightweight Sub-4M Off-Road Monocoque Structure",
-      "url": "https://www.rushlane.com/mahindra-vision-s-design-patented-new-suv-launch-likely-in-2027-12558245.html",
-      "summary": "Mahindra's patent filings for the Vision S reveal critical packaging layout and crash-load path geometries for a compact SUV architecture. The structural design focuses on maximizing cabin space within sub-4-meter constraints while maintaining high torsional crashworthiness standards.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/Mahindra-Vision-S-Design-Patented-10.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Maruti Suzuki Engineers Zeroes-In on Dedicated EV Platform Architecture and Body Shell Layout",
-      "url": "https://www.rushlane.com/2027-maruti-nexa-electric-mpv-spied-front-rear-interior-new-details-12559404.html",
-      "summary": "Early prototype evaluations of the upcoming Nexa electric MPV highlight structural accommodations for underfloor battery pack integration. The BIW design incorporates reinforced side sills and longitudinal members to protect high-voltage energy storage systems during side-impact events.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/new-maruti-nexa-electric-mpv-spied-launch-2027-4.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Chevrolet Corvette Retains High-Strength Aluminum Spaceframe and Composite Body Panel Matrix",
-      "url": "https://www.caranddriver.com/news/a74196488/2027-chevrolet-corvette-stingray-vs-2020-chevrolet-corvette-stingray/",
-      "summary": "An analysis of the updated Corvette Stingray highlights its utilization of extruded aluminum structures and structural adhesives to maintain chassis torsional rigidity. The mid-engine architecture leverages a multi-material mix to optimize the stiffness-to-weight ratio for superior handling dynamics.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/ff79b21c-5ea6-40cc-a27a-9c5d2caf607d.jpg",
+      "title": "Genesis GV60 Magma Performance SUV: High-Voltage Battery Pack Structural Integration and Suspension Hardpoints",
+      "url": "https://www.autocar.co.uk/car-review/genesis/gv60-magma",
+      "summary": "The Genesis GV60 Magma utilizes a reinforced electric skateboard platform engineered with specialized subframes and upgraded suspension mounting points to handle increased dynamic loads. The structural battery enclosure acts as a shear web, significantly improving overall torsional stiffness compared to traditional ICE platforms.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/genesis-gv6-magma-review-2026-001.jpg",
       "category": "Structural Engineering"
     }
   ]
