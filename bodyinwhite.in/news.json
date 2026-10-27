@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "IIHS Structural Crash Safety Evaluation: Assessing Rear-Seat Belt Modifications and Cabin Deformation in Modern Crossovers",
-      "url": "https://www.motor1.com/news/813211/iihs-crash-test-results-nissan/",
-      "summary": "Recent IIHS evaluations highlight structural occupant protection challenges in compact SUVs, detailing how rear-seat belt load limiters and structural restraint adjustments impact occupant kinematics during frontal impacts. The analysis underscores the critical role of optimized load paths and intrusion resistance in achieving top safety ratings.",
-      "image_url": "https://cdn.motor1.com/images/mgl/pb8WVW/s3/2026-nissan-kicks-earns-iihs-top-safety-pick.jpg",
+      "title": "Audi Q4 E-Tron High-Voltage Battery Structural Enclosure Recall",
+      "url": "https://www.motor1.com/news/813371/audi-q4-e-tron-recall/",
+      "summary": "Audi has issued a recall affecting 9,048 units of the Q4 E-Tron as structural engineers develop a permanent high-voltage battery housing remedy to mitigate thermal and mechanical risks. The integrity of the underbody battery pack enclosure is critical for maintaining overall torsional rigidity and crash safety in BEV architectures.",
+      "image_url": "https://cdn.motor1.com/images/mgl/ko8zkQ/s3/audi-q4-sportback-e-tron.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Carbon Composite Body Integration: Acura ADX Customization and Lightweight Material Application",
-      "url": "https://www.motor1.com/news/813208/acura-adx-cz-77-concept/",
-      "summary": "Exploring the integration of bespoke carbon-fiber exterior body panels on a monocoque architecture to achieve localized mass reduction. This engineering showcase demonstrates advanced composite material layup techniques and mechanical fastening strategies for non-structural cladding.",
-      "image_url": "WATT-EV-Donut-Lab-Lightweight-Aluminium-Torqu.jpg",
+      "title": "Koenigsegg CC850 Monocoque Hypercar US Parking Brake Defect Recall",
+      "url": "https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/",
+      "summary": "Koenigsegg has recalled its entire US allocation of the carbon-fiber monocoque CC850 hypercar due to a mechanical parking brake vulnerability. Ensuring precise mechanical engagement in low-volume, ultra-lightweight carbon composite structures remains a critical quality milestone for vehicle safety compliance.",
+      "image_url": "https://cdn.motor1.com/images/mgl/Rq9q7g/s3/koenigsegg-cc850.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Brabus 900-HP G63 Conversion: High-Performance Chassis Reinforcement and Rigid Frame Modifications",
-      "url": "https://www.caranddriver.com/news/a74251542/brabus-mercedes-amg-g63-pickup-truck/",
-      "summary": "Transforming the Mercedes-AMG G63 into a high-output pickup truck demands rigorous ladder-frame chassis reinforcement and torsional rigidity enhancements. Engineers must recalculate bending moments and implement heavy-duty subframe bracing to manage extreme powertrain torque.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/b77c2cf5-5eee-4333-8f18-4fd8cda7fc37.jpg",
+      "title": "Land Rover Defender 110 Structural Local Assembly and Cost Optimization",
+      "url": "https://www.rushlane.com/defender-110-india-price-cut-by-up-to-rs-34-lakh-heres-why-12559623.html",
+      "summary": "Local assembly of the Defender 110 introduces revised manufacturing workflows and localized structural sub-assembly processes. This transition maintains the rigid integrated monocoque and steel subframe integrity while significantly reducing production overhead for regional markets.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/10/land-rover-defender-110-india-price-cut-2.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Lamborghini Revuelto SV Track Dynamics: Advanced Carbon Monocoque and Aerodynamic Load Management",
-      "url": "https://www.caranddriver.com/reviews/a74229398/2027-lamborghini-revuelto-sv-drive/",
-      "summary": "The Lamborghini Revuelto SV leverages an advanced carbon fiber multi-technology monocoque structure designed to withstand extreme torsional loads on track. Structural integration of high-downforce aerodynamic elements requires reinforced hardpoints and localized CFRP layup optimization.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/3b5f70d7-ba50-4938-b4a0-931669c53f8b.jpg",
+      "title": "Polestar 4 SUV Platform Chassis Architecture and Torsional Rigidity Refinement",
+      "url": "https://www.autocar.co.uk/car-review/polestar/4-suv",
+      "summary": "Polestar has comprehensively retuned the chassis architecture and rear structural load paths of its latest electric SUV variant. The redesign balances increased cabin packaging volume with the strict torsional rigidity demands required of a dedicated skateboard EV platform.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/polestar_4_suv_dual_motor_-_aurora_006.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse EV Platform Architecture: Integrating Skateboard Chassis and Battery Enclosures",
+      "title": "BMW iX4 Neue Klasse Dedicated Electric Skateboard Platform Architecture",
       "url": "https://www.carsuk.net/bmw-ix4-arrives-as-the-ix3s-less-practical-more-expensive-sibling/",
-      "summary": "The BMW Neue Klasse platform utilizes a dedicated EV skateboard architecture where the high-voltage battery housing serves as a primary structural load-bearing member. This cell-to-chassis integration enhances torsional rigidity while optimizing the vehicle's center of gravity and crash energy absorption paths.",
+      "summary": "The new BMW iX4 expands upon the automaker's advanced Neue Klasse skateboard chassis architecture, integrating the high-voltage battery pack directly into the lower load-bearing frame. This cell-to-chassis methodology maximizes structural bending resistance while optimizing interior floor packaging.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/BMW-iX4-50-xDrive-Front-W-590x348.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Genesis GV60 Magma Performance SUV: High-Voltage Battery Pack Structural Integration and Suspension Hardpoints",
-      "url": "https://www.autocar.co.uk/car-review/genesis/gv60-magma",
-      "summary": "The Genesis GV60 Magma utilizes a reinforced electric skateboard platform engineered with specialized subframes and upgraded suspension mounting points to handle increased dynamic loads. The structural battery enclosure acts as a shear web, significantly improving overall torsional stiffness compared to traditional ICE platforms.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/genesis-gv6-magma-review-2026-001.jpg",
+      "title": "Honda Passport Baja-Spec Race Truck Tubular Roll Cage and Frame Reinforcement",
+      "url": "https://www.caranddriver.com/news/a74262258/honda-passport-baja-spec-race-truck-teaser/",
+      "summary": "Honda's extreme Baja-Spec race truck features a heavily reinforced custom tubular spaceframe chassis designed to withstand severe impact loads and chassis flexing. Advanced roll-cage integration and high-strain suspension hardpoint bracing ensure maximum structural survival capability under grueling off-road racing conditions.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/08d881b5-f6b6-4b5f-9dbf-fc04783e4148.png",
       "category": "Structural Engineering"
     }
   ]
