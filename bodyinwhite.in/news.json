@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Audi Explores Scout-Based Body-on-Frame Architecture for South Carolina Production",
-      "url": "https://www.motor1.com/news/813660/audi-scout-based-south-carolina/",
-      "summary": "Audi is evaluating a rugged, body-on-frame platform leveraging Scout's heavy-duty truck architecture. This layout requires specialized chassis crossmembers and torsional rigidity modifications to handle extreme off-road structural loads.",
-      "image_url": "Revolution-Body-Battery-Engineering.jpg",
+      "title": "Bentley Torcal EV Structural Prototype Completes Extreme Climate and Durability Testing",
+      "url": "https://www.motor1.com/news/813869/bentley-torcal-passes-a-million/",
+      "summary": "Bentley has subjected its upcoming EV prototype to rigorous validation, putting the chassis, battery pack structural enclosures, and body-in-white architecture through 621,000 miles of extreme climate and crash safety evaluations. This comprehensive testing ensures structural integrity and torsional rigidity under severe stress and high-altitude operating conditions.",
+      "image_url": "https://cdn.motor1.com/images/mgl/ZnlwRy/s3/bentley-torcal-validation-prototype-in-factory.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Tata Safari EV Integrates Advanced Acti.ev+ Platform Architecture",
-      "url": "https://www.rushlane.com/tata-safari-ev-launch-expected-in-jan-2027-details-12559734.html",
-      "summary": "The upcoming Tata Safari EV utilizes the purpose-built Acti.ev+ platform, designed to integrate a heavy underfloor battery pack while maximizing cabin space across its 6 and 7-seater configurations. The structural enclosure acts as a primary load-bearing shear member.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/09/tata-sierra-ev-triple-screen-spied-new-4.jpg",
+      "title": "Classic Datsun S30 Concept Integrates Carbon-Fiber Body Panels and Nismo Chassis Hardware",
+      "url": "https://www.motor1.com/news/813889/datsun-s30-concept-blends-240z/",
+      "summary": "This custom build highlights advanced lightweight material application by replacing traditional steel bodywork with custom carbon-fiber panels. The integration of modern Nismo chassis reinforcements optimizes the power-to-weight ratio while enhancing overall structural torsional rigidity.",
+      "image_url": "https://cdn.motor1.com/images/mgl/8A06be/s3/datsun-s30-concept.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "2027 BMW M350 Body Structure and Rigid Chassis Dynamics Evaluation",
-      "url": "https://www.caranddriver.com/reviews/a74274538/2027-bmw-3-series-drive/",
-      "summary": "The latest BMW 3-Series variant showcases enhanced suspension hardpoints and reinforced subframe mountings to handle increased powertrain torque. Advanced high-strength steels and localized structural reinforcements significantly improve torsional stiffness.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/8a6efedf-9c45-44fa-a5f2-57fcbdf0af67.jpg",
+      "title": "Audacious IV Restomod Utilizes RS4 Chassis Underpinnings for High-Performance Quattro Tribute",
+      "url": "https://www.motor1.com/news/813910/audi-quattro-restomod-10000-rpm-v8/",
+      "summary": "The Audacious IV successfully transplants classic Audi Quattro bodywork onto a modern factory Audi RS4 chassis framework. This engineering approach preserves modern crashworthiness, suspension hardpoints, and high-strength structural crash loads within a retro monocoque silhouette.",
+      "image_url": "https://cdn.motor1.com/images/mgl/L36rOQ/s3/audacious-iv.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Aston Martin Valhalla Spider Carbon Fiber Monocoque and Structural Rigidity",
-      "url": "https://www.carsuk.net/aston-martin-valhalla-spider-astons-hypercar-loses-its-roof-video/",
-      "summary": "Removing the roof on the Valhalla Spider required substantial re-engineering of the carbon fiber monocoque tub to preserve torsional and bending stiffness. Structural engineers implemented strategic reinforcements around the sills and cockpit bulkheads.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Aston-Martin-Valhalla-Spider-Front-W-590x342.webp",
+      "title": "Ariel Atom and Nomad Rolling Chassis Imported to US via Forman Motorworks",
+      "url": "https://www.motor1.com/news/813846/ariel-extreme-cars-finally-coming/",
+      "summary": "Ariel's high-performance lineup relies on exposed tubular steel spaceframe chassis design to maximize structural stiffness while minimizing vehicle mass. Importing these vehicles as dedicated rolling chassis emphasizes their minimalist, high-strength structural engineering philosophy.",
+      "image_url": "https://cdn.motor1.com/images/mgl/mMzg2o/s3/ariel-atom-4rr-2026.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mercedes-AMG GT SUV EV Skateboard Platform and Battery Enclosure Design",
-      "url": "https://www.carsuk.net/mercedes-amg-gt-suv-ev-arrives-to-challenge-the-new-porsche-cayenne-electric/",
-      "summary": "Mercedes-AMG's high-performance electric SUV utilizes a dedicated EV skateboard architecture with an integrated structural battery pack. The enclosure functions as a central load-bearing member, optimizing crash energy management and floorpan stiffness.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Mercedes-AMG-GT-SUV-Front-W-590x348.webp",
+      "title": "BMW i3 Electric Sedan Platform Integration and Skateboard Architecture Analysis",
+      "url": "https://www.caranddriver.com/reviews/a74275637/2027-bmw-i3-drive/",
+      "summary": "BMW's latest all-electric 3 Series variant incorporates a heavily revised platform capable of housing high-capacity battery packs within the floorpan. The structural integration balances skateboard EV architecture requirements with traditional occupant protection and crash deformation zones.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0fab9470-88f9-4a36-a8c6-823504ddb6f0.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Porsche Mission S Concept Previews Advanced Lightweight Mid-Engine Supercar Platform",
-      "url": "https://www.carsuk.net/porsche-mission-s-concept-previews-a-new-range-topping-mid-engined-porsche-supercar/",
-      "summary": "The Porsche Mission S concept showcases an advanced multi-material spaceframe design intended for future high-performance applications. The architecture blends aluminum extrusions and carbon composite structures to maximize crashworthiness and reduce mass.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Porsche-Mission-S-First-Front-W-590x296.webp",
+      "title": "BMW M350 Retains Traditional ICE Architecture While Adopting Neue Klasse Aesthetic Styling",
+      "url": "https://www.autocar.co.uk/car-review/bmw/3-series",
+      "summary": "The latest BMW 3 Series variant pairs futuristic exterior styling with a proven steel-and-aluminum mixed-material body structure. This engineering strategy maintains optimized front and rear subframe hardpoints, heavy-duty crash structures, and high-strength passenger cell integrity.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/011_bmw_m350_xdrive.jpg",
       "category": "Structural Engineering"
     }
   ]
