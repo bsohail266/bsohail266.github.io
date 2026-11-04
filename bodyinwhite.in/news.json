@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Carbon-Fiber Composite Bodywork Integration in Ringbrothers Modified GTO Platform",
-      "url": "https://www.caranddriver.com/news/a74312712/ringbrothers-pontiac-gto-billie-sema-revealed/",
-      "summary": "This custom build features advanced carbon-fiber bodywork panels integrated into a modified chassis framework. The structural integration showcases lightweight composite manufacturing methods applied to classic automotive architecture.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/521afb82-e7cb-45a6-bcc3-00e50bfd0739.jpg",
+      "title": "Volvo Outlines Advanced SPA3 Platform Architecture for Upcoming Electric Vehicles",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-volvo-ex40-swedens-crucial-elroq-rival-shapes",
+      "summary": "Volvo is preparing its radical new SPA3 electric platform to underpin upcoming models like the EX40 successor. This flexible vehicle architecture is engineered to optimize battery integration, structural rigidity, and scalable manufacturing efficiency.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo_xc40_render_final_2026.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Geometry and Independent Suspension Hardpoints in Jeep Wrangler Scrambler SRT",
-      "url": "https://www.caranddriver.com/news/a74314455/jeep-wrangler-scrambler-srt-concept-revealed/",
-      "summary": "The Jeep concept introduces a newly developed independent front suspension system coupled with a robust Trophy Truck-inspired rear axle. This suspension geometry significantly alters structural load paths and off-road chassis durability.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/6822fb64-2375-4f43-993b-02b5c6cbd704.jpg",
+      "title": "Fat Fender Garage Re-Engineers Classic 1956 Ford F-100 with Custom Performance Chassis",
+      "url": "https://www.motor1.com/news/814286/ford-f100-restomod-800-hp-coyote-v8-restomod/",
+      "summary": "This meticulous restomod project replaces the original framework with an entirely bespoke chassis structure to handle 800 horsepower from a supercharged V8. The engineering overhaul demonstrates advanced aftermarket integration of modern high-strength structural foundations.",
+      "image_url": "https://cdn.motor1.com/images/mgl/OoZLWl/s3/fat-fender-garage-gt-fx-ford-restomod.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Spaceframe Structural Rigidity and Aerodynamic Load Management in Ariel Atom 4RR",
-      "url": "https://www.caranddriver.com/reviews/a74220412/2027-ariel-atom-4rr-drive/",
-      "summary": "Utilizing an exposed tubular steel spaceframe architecture, the Atom 4RR achieves exceptional torsional rigidity. The chassis design effectively manages high downforce loads without compromising occupant safety or structural integrity.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/10913f4b-df99-4e2b-8439-3fc8c0dc0221.jpg",
+      "title": "Custom 1985 Ford F-250 SEMA Build Preserves Original Heavy-Duty Chassis Design",
+      "url": "https://www.motor1.com/news/814206/ford-f-250-sema-restomod/",
+      "summary": "By retaining the original heavy-duty ladder frame chassis while heavily modernizing the powertrain and twin-traction-beam front suspension, this SEMA build highlights classic truck structural durability. The engineering approach emphasizes the preservation of robust vintage steel frame architectures under high-stress conditions.",
+      "image_url": "https://cdn.motor1.com/images/mgl/wlkbGo/s3/1985-ford-f-250-sema-restomod.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Lightweight Aluminum Chassis Integration in Norton 450cc Platform",
-      "url": "https://www.rushlane.com/tvs-unveils-norton-450cc-motorcycle-454cc-single-45-nm-launch-2027-12559999.html",
-      "summary": "TVS has integrated a specialized lightweight aluminium frame into its new Norton 450cc platform. This metal architecture optimizes the power-to-weight ratio while maintaining necessary structural stiffness under dynamic loading.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-tvs-norton-450cc-single-cylinder-motorcycle-launch-8.jpg",
+      "title": "Fat Fender Garage GT/FX Debuts Custom Frame and Modernized Structural Layout",
+      "url": "https://www.caranddriver.com/news/a74314900/fat-fender-garage-gtfx-truck-sema-revealed/",
+      "summary": "Based on a classic Ford F-100, the GT/FX integrates a completely redesigned proprietary chassis and reinforced structural hardpoints to support an 800-hp powertrain. The build showcases advanced frame fabrication techniques tailored for high-output restomod applications.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/4ec6ad9a-3b29-486e-95f9-d7663b5f5c21.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Restomod Chassis Reinforcement and Structural Integration in Ford F-250 Raptor Build",
-      "url": "https://www.caranddriver.com/news/a74314548/1985-ford-f-250-raptor-sema/",
-      "summary": "The 1985 F-250 restomod project required extensive frame stiffening and modern structural member integration. Ford Performance backing ensured the vintage ladder frame could handle high-stress off-road dynamics.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/1e3328ee-a4c8-4f70-a965-9b046257f058.jpg",
+      "title": "Toyota Gazoo Racing Prepares New Celica Platform for WRC Structural Demands",
+      "url": "https://www.motor1.com/news/814253/toyota-celica-confirmed-for-wrc/",
+      "summary": "Toyota's return to rallying with a competition-spec Celica mandates an extremely rigid body-in-white and specialized roll-cage architecture. The motorsport structural shell will endure severe dynamic torsional loads and high-impact crash scenarios.",
+      "image_url": "https://cdn.motor1.com/images/mgl/G3QNMZ/s3/toyota-gr-celica-prototype-fuji.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Thermal Management Architecture and Battery Enclosure Integration for 800V Powertrains",
-      "url": "https://www.automotive-iq.com/thermal-management/articles/800v-sic-thermal-management-explained-why-the-whole-cooling-system-has-to-change?utm_medium=RSS",
-      "summary": "The shift toward 800V Silicon Carbide architectures demands a complete structural redesign of battery cooling loops and packaging. Integrating these dense thermal systems requires careful consideration of structural tray layout and thermal isolation.",
-      "image_url": "tata-sierra-ev.jpg",
+      "title": "Toyota Confirms GR Celica Competition Shell for Upcoming Rally Program",
+      "url": "https://www.caranddriver.com/news/a74322779/toyota-gr-celica-confirmed-rally-racing-2027/",
+      "summary": "The upcoming rally-spec Celica will feature a heavily reinforced structural safety cell designed to meet rigorous WRC crashworthiness regulations. Engineers are focusing on lightweight composite integration and high-strength tubular framing to withstand severe motorsport abuse.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/e3f4b4d6-80d3-4cc8-bfbc-008339041ab6.jpg",
       "category": "Structural Engineering"
     }
   ]
