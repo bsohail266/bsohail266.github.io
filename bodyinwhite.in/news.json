@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Volvo Outlines Advanced SPA3 Platform Architecture for Upcoming Electric Vehicles",
+      "title": "Volvo Details Radical SPA3 Platform Architecture for Upcoming EX40 Structural Layout",
       "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-volvo-ex40-swedens-crucial-elroq-rival-shapes",
-      "summary": "Volvo is preparing its radical new SPA3 electric platform to underpin upcoming models like the EX40 successor. This flexible vehicle architecture is engineered to optimize battery integration, structural rigidity, and scalable manufacturing efficiency.",
+      "summary": "Volvo outlines its upcoming SPA3 platform, a radical vehicle architecture designed to optimize skateboard chassis integration and structural battery enclosure rigidity. This advanced platform architecture serves as the foundational backbone for next-generation electric vehicles, prioritizing torsional stiffness and crashworthiness.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo_xc40_render_final_2026.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Fat Fender Garage Re-Engineers Classic 1956 Ford F-100 with Custom Performance Chassis",
-      "url": "https://www.motor1.com/news/814286/ford-f100-restomod-800-hp-coyote-v8-restomod/",
-      "summary": "This meticulous restomod project replaces the original framework with an entirely bespoke chassis structure to handle 800 horsepower from a supercharged V8. The engineering overhaul demonstrates advanced aftermarket integration of modern high-strength structural foundations.",
-      "image_url": "https://cdn.motor1.com/images/mgl/OoZLWl/s3/fat-fender-garage-gt-fx-ford-restomod.jpg",
+      "title": "Custom V-16 Engine Architecture Integration Requires Extensive Chassis Fabrication",
+      "url": "https://www.caranddriver.com/news/a74329515/v16-engine-sema-custom-build/",
+      "summary": "Engineering a bespoke V-16 engine by combining two LS3 V-8 blocks demands profound modifications to the engine bay bulkhead and front subframe geometry. Fabricators must carefully manage torsional loads and weight distribution to maintain structural integrity under high-output engine torque.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/988dd728-0d43-4ab0-b12b-5b0e8f3dda67.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Custom 1985 Ford F-250 SEMA Build Preserves Original Heavy-Duty Chassis Design",
-      "url": "https://www.motor1.com/news/814206/ford-f-250-sema-restomod/",
-      "summary": "By retaining the original heavy-duty ladder frame chassis while heavily modernizing the powertrain and twin-traction-beam front suspension, this SEMA build highlights classic truck structural durability. The engineering approach emphasizes the preservation of robust vintage steel frame architectures under high-stress conditions.",
-      "image_url": "https://cdn.motor1.com/images/mgl/wlkbGo/s3/1985-ford-f-250-sema-restomod.jpg",
+      "title": "SEMA Custom Builds Showcase Advanced Frame Modification and Structural Reinforcement",
+      "url": "https://www.caranddriver.com/news/a74326064/coolest-craziest-cars-sema-2026/",
+      "summary": "This year's SEMA showcase highlights innovative chassis modifications, custom roll-cage designs, and hand-fabricated structural reinforcements. These builds demonstrate advanced joining technologies and custom subframe designs required to handle extreme power outputs safely.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f183b881-b9d9-491c-80bf-2e18fd46f9af.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Fat Fender Garage GT/FX Debuts Custom Frame and Modernized Structural Layout",
-      "url": "https://www.caranddriver.com/news/a74314900/fat-fender-garage-gtfx-truck-sema-revealed/",
-      "summary": "Based on a classic Ford F-100, the GT/FX integrates a completely redesigned proprietary chassis and reinforced structural hardpoints to support an 800-hp powertrain. The build showcases advanced frame fabrication techniques tailored for high-output restomod applications.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/4ec6ad9a-3b29-486e-95f9-d7663b5f5c21.jpg",
+      "title": "Hasport and Throtl Implement Complex Drivetrain Swaps Requiring Heavy Monocoque Fabrication",
+      "url": "https://www.motor1.com/news/814346/honda-prelude-type-r-sema/",
+      "summary": "Integrating a high-performance Civic Type R powertrain into alternative chassis configurations requires extensive cutting and reinforcement of the engine cradle and front monocoque rails. Structural engineers must re-engineer front-end load paths to absorb crash forces and handle increased torsional input.",
+      "image_url": "https://cdn.motor1.com/images/mgl/rK6NP9/s3/honda-prelude-type-r-sema-build-by-throtl-and-idemitsu.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Toyota Gazoo Racing Prepares New Celica Platform for WRC Structural Demands",
-      "url": "https://www.motor1.com/news/814253/toyota-celica-confirmed-for-wrc/",
-      "summary": "Toyota's return to rallying with a competition-spec Celica mandates an extremely rigid body-in-white and specialized roll-cage architecture. The motorsport structural shell will endure severe dynamic torsional loads and high-impact crash scenarios.",
-      "image_url": "https://cdn.motor1.com/images/mgl/G3QNMZ/s3/toyota-gr-celica-prototype-fuji.jpg",
+      "title": "Extreme V-8 Engine Swaps Push Porsche 911 Chassis and Dry-Sump Layouts to Structural Limits",
+      "url": "https://www.motor1.com/news/814365/two-porsche-911s-get-wild/",
+      "summary": "Fitting large-displacement V-8 powerplants into the rear-engine architecture of Porsche 911 models necessitates intricate modifications to the rear subframe and chassis firewalls. Maintaining structural rigidity while accommodating custom dry-sump oil routing is a major engineering hurdle.",
+      "image_url": "https://cdn.motor1.com/images/mgl/0ep8o9/s3/eneos-porsche-911-v8-conversions-for-sema.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Toyota Confirms GR Celica Competition Shell for Upcoming Rally Program",
-      "url": "https://www.caranddriver.com/news/a74322779/toyota-gr-celica-confirmed-rally-racing-2027/",
-      "summary": "The upcoming rally-spec Celica will feature a heavily reinforced structural safety cell designed to meet rigorous WRC crashworthiness regulations. Engineers are focusing on lightweight composite integration and high-strength tubular framing to withstand severe motorsport abuse.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/e3f4b4d6-80d3-4cc8-bfbc-008339041ab6.jpg",
+      "title": "Extreme Multi-Rotor Powertrain Integration Demands Custom Tube-Frame Chassis Reinforcement",
+      "url": "https://www.motor1.com/news/814332/13-rotor-miata-debuts-2026/",
+      "summary": "Installing a massive multi-rotor rotary engine assembly into a compact roadster chassis requires a complete redesign of the front structural load-bearing members. Engineers utilized custom tubular spaceframe reinforcements to manage unprecedented front-end mass and vibrational harmonics.",
+      "image_url": "https://cdn.motor1.com/images/mgl/L36Vjl/s3/rob-dahm-13-rotor-miata-sema.jpg",
       "category": "Structural Engineering"
     }
   ]
