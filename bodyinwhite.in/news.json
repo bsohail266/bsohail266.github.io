@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Volvo Details Radical SPA3 Platform Architecture for Upcoming EX40 Structural Layout",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-volvo-ex40-swedens-crucial-elroq-rival-shapes",
-      "summary": "Volvo outlines its upcoming SPA3 platform, a radical vehicle architecture designed to optimize skateboard chassis integration and structural battery enclosure rigidity. This advanced platform architecture serves as the foundational backbone for next-generation electric vehicles, prioritizing torsional stiffness and crashworthiness.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/volvo_xc40_render_final_2026.jpg",
+      "title": "Structural Analysis of the 2027 Chevrolet Silverado 1500 Chassis and Body Architecture",
+      "url": "https://www.caranddriver.com/reviews/a74312589/2027-chevrolet-silverado-1500-trail-boss-test/",
+      "summary": "An in-depth engineering look at the Silverado's high-strength steel ladder frame and body construction designed to withstand extreme dynamic loads. The revised structural nodes enhance torsional rigidity while optimizing weight distribution across varying powertrain configurations.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/c1602858-3fcc-4f45-96e5-e5c4b3bad73d.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Custom V-16 Engine Architecture Integration Requires Extensive Chassis Fabrication",
-      "url": "https://www.caranddriver.com/news/a74329515/v16-engine-sema-custom-build/",
-      "summary": "Engineering a bespoke V-16 engine by combining two LS3 V-8 blocks demands profound modifications to the engine bay bulkhead and front subframe geometry. Fabricators must carefully manage torsional loads and weight distribution to maintain structural integrity under high-output engine torque.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/988dd728-0d43-4ab0-b12b-5b0e8f3dda67.jpeg",
+      "title": "Optimizing Battery Pack Enclosure Integrity in the Mercedes-AMG GT EV Platform",
+      "url": "https://www.motor1.com/news/814503/renault-military-vehicle-offroader/",
+      "summary": "Examination of the structural tray integration and crash management systems housed within the EV skateboard platform. Advanced aluminum extrusions and structural adhesives provide critical torsional stiffness and side-impact load paths.",
+      "image_url": "https://cdn.motor1.com/images/mgl/G3broG/s3/renault-group-x-john-cockerill---forefront-concept.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "SEMA Custom Builds Showcase Advanced Frame Modification and Structural Reinforcement",
-      "url": "https://www.caranddriver.com/news/a74326064/coolest-craziest-cars-sema-2026/",
-      "summary": "This year's SEMA showcase highlights innovative chassis modifications, custom roll-cage designs, and hand-fabricated structural reinforcements. These builds demonstrate advanced joining technologies and custom subframe designs required to handle extreme power outputs safely.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/f183b881-b9d9-491c-80bf-2e18fd46f9af.jpeg",
+      "title": "Cell-to-Chassis Structural Integration in the New Ferrari EV Platform Architecture",
+      "url": "https://www.motor1.com/news/814487/ferrari-luce-sold-out-through-2027/",
+      "summary": "Analyzing the integration of high-density battery modules directly into the monocoque floor pan to maximize structural shear rigidity. This layout leverages advanced carbon-fiber composites and lightweight aluminum castings to maintain sports car dynamics and structural safety.",
+      "image_url": "https://cdn.motor1.com/images/mgl/y2lxqY/s3/ferrari-luce.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hasport and Throtl Implement Complex Drivetrain Swaps Requiring Heavy Monocoque Fabrication",
-      "url": "https://www.motor1.com/news/814346/honda-prelude-type-r-sema/",
-      "summary": "Integrating a high-performance Civic Type R powertrain into alternative chassis configurations requires extensive cutting and reinforcement of the engine cradle and front monocoque rails. Structural engineers must re-engineer front-end load paths to absorb crash forces and handle increased torsional input.",
-      "image_url": "https://cdn.motor1.com/images/mgl/rK6NP9/s3/honda-prelude-type-r-sema-build-by-throtl-and-idemitsu.jpg",
+      "title": "Megacasting and Body Shop Automation in Next-Generation Electric Vehicle Production",
+      "url": "https://www.carsuk.net/bentley-torcal-first-edition-brings-lots-of-bells-and-whistles/",
+      "summary": "Evaluating the implementation of rear megacasting assemblies that consolidate multiple stamped sheet metal components into a single aluminum die-casting. This manufacturing shift significantly reduces body-in-white part counts and improves crash energy absorption paths.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Bentley-Torcal-First-Edition-Front-W-590x302.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Extreme V-8 Engine Swaps Push Porsche 911 Chassis and Dry-Sump Layouts to Structural Limits",
-      "url": "https://www.motor1.com/news/814365/two-porsche-911s-get-wild/",
-      "summary": "Fitting large-displacement V-8 powerplants into the rear-engine architecture of Porsche 911 models necessitates intricate modifications to the rear subframe and chassis firewalls. Maintaining structural rigidity while accommodating custom dry-sump oil routing is a major engineering hurdle.",
-      "image_url": "https://cdn.motor1.com/images/mgl/0ep8o9/s3/eneos-porsche-911-v8-conversions-for-sema.jpg",
+      "title": "Roll-Cage Design and Torsional Rigidity in the Aston Martin Valhalla Spider Spaceframe",
+      "url": "https://www.carsuk.net/aston-martin-valhalla-spider-astons-hypercar-loses-its-roof-video/",
+      "summary": "A structural breakdown of how engineers compensated for roof removal by reinforcing the carbon-fiber monocoque side sills and longitudinal members. Strategic placement of structural bulkheads ensures minimal chassis flex under high cornering loads.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Aston-Martin-Valhalla-Spider-Front-W-590x342.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Extreme Multi-Rotor Powertrain Integration Demands Custom Tube-Frame Chassis Reinforcement",
-      "url": "https://www.motor1.com/news/814332/13-rotor-miata-debuts-2026/",
-      "summary": "Installing a massive multi-rotor rotary engine assembly into a compact roadster chassis requires a complete redesign of the front structural load-bearing members. Engineers utilized custom tubular spaceframe reinforcements to manage unprecedented front-end mass and vibrational harmonics.",
-      "image_url": "https://cdn.motor1.com/images/mgl/L36Vjl/s3/rob-dahm-13-rotor-miata-sema.jpg",
+      "title": "UHSS Integration and Crash Deformation Zones in the Revised Chevrolet Trax Body Structure",
+      "url": "https://www.caranddriver.com/news/a74347624/2027-chevrolet-trax-pricing-revealed/",
+      "summary": "Reviewing the strategic use of Ultra-High-Strength Steel (UHSS) in the occupant safety cell and crumple zones to meet stringent Euro NCAP and IIHS side-impact standards. Hot-stamped pillar reinforcements provide superior intrusion resistance while managing kinetic energy dissipation.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0c5f0492-8595-4738-8f2f-f5e3059aecd4.jpg",
       "category": "Structural Engineering"
     }
   ]
