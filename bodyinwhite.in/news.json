@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Structural Analysis of the 2027 Chevrolet Silverado 1500 Chassis and Body Architecture",
-      "url": "https://www.caranddriver.com/reviews/a74312589/2027-chevrolet-silverado-1500-trail-boss-test/",
-      "summary": "An in-depth engineering look at the Silverado's high-strength steel ladder frame and body construction designed to withstand extreme dynamic loads. The revised structural nodes enhance torsional rigidity while optimizing weight distribution across varying powertrain configurations.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/c1602858-3fcc-4f45-96e5-e5c4b3bad73d.jpg",
+      "title": "Lamborghini Gallardo Restomod Integrates Extensive Carbon Fiber Body Enhancements",
+      "url": "https://www.caranddriver.com/news/a74336866/lamborghini-gallardo-original-designer-restomod/",
+      "summary": "The Cav\u00ebn Atelier Hommage 26 restomod rebuilds the iconic supercar using extensive carbon fiber composite panels and modern structural reinforcements. These lightweight composite materials enhance overall torsional rigidity while significantly reducing curb weight compared to the original monocoque.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/59a56ba1-9a51-4229-9737-519fab4f13bb.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Optimizing Battery Pack Enclosure Integrity in the Mercedes-AMG GT EV Platform",
-      "url": "https://www.motor1.com/news/814503/renault-military-vehicle-offroader/",
-      "summary": "Examination of the structural tray integration and crash management systems housed within the EV skateboard platform. Advanced aluminum extrusions and structural adhesives provide critical torsional stiffness and side-impact load paths.",
-      "image_url": "https://cdn.motor1.com/images/mgl/G3broG/s3/renault-group-x-john-cockerill---forefront-concept.jpg",
+      "title": "1992 Schuppan Porsche 962R Archive Drive Highlighting Group C Chassis Design",
+      "url": "https://www.caranddriver.com/reviews/a74278904/1992-schuppan-porsche-962r-archive-drive/",
+      "summary": "Exploring Vern Schuppan's ambitious endeavor to translate a pure Group C racing spaceframe architecture into a street-legal sports car. The engineering showcases bespoke tubular chassis fabrication and motorsport-derived safety cell design intended to handle extreme aerodynamic loads.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/c9b98994-f031-4135-be73-e0295bc873c4.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Cell-to-Chassis Structural Integration in the New Ferrari EV Platform Architecture",
-      "url": "https://www.motor1.com/news/814487/ferrari-luce-sold-out-through-2027/",
-      "summary": "Analyzing the integration of high-density battery modules directly into the monocoque floor pan to maximize structural shear rigidity. This layout leverages advanced carbon-fiber composites and lightweight aluminum castings to maintain sports car dynamics and structural safety.",
-      "image_url": "https://cdn.motor1.com/images/mgl/y2lxqY/s3/ferrari-luce.jpg",
+      "title": "Toyota RAV4 Woodland Receives Specialized Suspension Hardpoint and Chassis Upgrades",
+      "url": "https://www.motor1.com/news/814660/2027-toyota-rav4-woodland-pricing/",
+      "summary": "The 2027 Toyota RAV4 Woodland features revised suspension geometry and reinforced subframe hardpoints to accommodate increased ride heights. These structural modifications are engineered to withstand harsher articulation stresses and improve off-road durability.",
+      "image_url": "https://cdn.motor1.com/images/mgl/Mk6bE8/s3/2027-toyota-rav4-hev-woodland-urban-rock.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Megacasting and Body Shop Automation in Next-Generation Electric Vehicle Production",
-      "url": "https://www.carsuk.net/bentley-torcal-first-edition-brings-lots-of-bells-and-whistles/",
-      "summary": "Evaluating the implementation of rear megacasting assemblies that consolidate multiple stamped sheet metal components into a single aluminum die-casting. This manufacturing shift significantly reduces body-in-white part counts and improves crash energy absorption paths.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Bentley-Torcal-First-Edition-Front-W-590x302.webp",
+      "title": "VW Group Evaluates Integration of Advanced Chinese EV Architecture across Core European Models",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/vw-group-could-put-chinese-tech-architecture-75-european-cars",
+      "summary": "Volkswagen Group is evaluating the adoption of co-developed electrical and structural platform layouts across 75% of its European lineup. This strategy aims to streamline modular EV skateboard architectures and reduce development cycles for future body-in-white structures.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/b2026cw00085_large.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Roll-Cage Design and Torsional Rigidity in the Aston Martin Valhalla Spider Spaceframe",
-      "url": "https://www.carsuk.net/aston-martin-valhalla-spider-astons-hypercar-loses-its-roof-video/",
-      "summary": "A structural breakdown of how engineers compensated for roof removal by reinforcing the carbon-fiber monocoque side sills and longitudinal members. Strategic placement of structural bulkheads ensures minimal chassis flex under high cornering loads.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Aston-Martin-Valhalla-Spider-Front-W-590x342.webp",
+      "title": "Mass and Structural Degradation Challenges Highlighted in Modern EV Lifecycle Analysis",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/ev-emissions-spotlight-increased-weight-drives-tyre-wear",
+      "summary": "Recent findings underscore how heavily loaded structural battery enclosures in electric vehicles contribute to accelerated secondary wear components. Automotive engineers must continually optimize chassis mass distribution and suspension compliance to offset these elevated vehicle loads.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/dsc_0515.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "UHSS Integration and Crash Deformation Zones in the Revised Chevrolet Trax Body Structure",
-      "url": "https://www.caranddriver.com/news/a74347624/2027-chevrolet-trax-pricing-revealed/",
-      "summary": "Reviewing the strategic use of Ultra-High-Strength Steel (UHSS) in the occupant safety cell and crumple zones to meet stringent Euro NCAP and IIHS side-impact standards. Hot-stamped pillar reinforcements provide superior intrusion resistance while managing kinetic energy dissipation.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0c5f0492-8595-4738-8f2f-f5e3059aecd4.jpg",
+      "title": "Mahindra BE 7 Electric SUV Spied Testing Advanced GNSS Sensor Integration on BIW Roof",
+      "url": "https://www.rushlane.com/mahindra-be-7-spied-in-bkc-mumbai-with-gnss-receiver-on-roof-12560687.html",
+      "summary": "The upcoming Mahindra BE 7 electric SUV prototype was spotted evaluating high-precision sensor setups mounted directly onto the roof structure. Incorporating these calibration arrays requires specific reinforcement of the upper roof crossmembers and A-pillar structural nodes.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-be-7-spied-with-gnss-receiver-cover.jpg",
       "category": "Structural Engineering"
     }
   ]
