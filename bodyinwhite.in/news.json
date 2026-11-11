@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Audi Ceases Production of the A8 Flagship Sedan",
-      "url": "https://www.caranddriver.com/news/a74378869/audi-a8-sedan-production-ended/",
-      "summary": "Audi has officially halted production of its flagship A8 sedan, marking the end of an era for its advanced aluminum spaceframe architecture and large-scale luxury body manufacturing. The closure of this production line shifts manufacturing focus toward newer platform configurations and alternative vehicle segments.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/a218143-medium-1635867809.jpg",
+      "title": "Lotus Esprit Hybrid Architecture and Twin-Turbo V8 Structural Integration",
+      "url": "https://www.caranddriver.com/news/a74388746/2029-lotus-esprit-v8-engine-details/",
+      "summary": "The upcoming Lotus Esprit supercar integrates a high-output twin-turbo V8 and hybrid system into a lightweight chassis architecture. This powertrain layout demands advanced structural rigidity and optimized load paths to handle over 1,000 combined horsepower.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/d0b64efe-c254-4ba5-af1c-96cfaac65aed.jpeg",
       "category": "Structural Engineering"
     },
     {
-      "title": "NHTSA Investigates Ford Explorer Structural Restraints and Airbag Safety",
-      "url": "https://www.caranddriver.com/news/a74377264/ford-explorer-airbag-burn-injury-investigation/",
-      "summary": "Federal regulators have opened an investigation into 1.2 million Ford Explorer models regarding airbag deployment anomalies that pose thermal and structural safety risks. Engineers must evaluate occupant protection systems and potential localized structural thermal degradation during explosive deployment events.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/a239116c-796f-4932-8699-88be0a1d79c4.jpg",
+      "title": "Force Traveller Dedicated EV Platform and Chassis Investment Strategy",
+      "url": "https://www.rushlane.com/force-traveller-ev-launch-in-q1-2027-rs-3000-cr-investment-12560808.html",
+      "summary": "Force Motors is channeling a substantial INR 3,000 crore investment into a dedicated electric vehicle architecture. The structural platform is engineered to house heavy high-voltage battery enclosures while maintaining optimal commercial payload capacities.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-force-traveller-ev-launching-in-q1-2027.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Honda Announces $3 Billion Investment for Ohio EV and Hybrid Manufacturing Plant",
-      "url": "https://www.caranddriver.com/news/a74376992/honda-announces-3-billion-dollar-ohio-factory-2029/",
-      "summary": "Honda's massive capital injection will establish a cutting-edge production facility in Ohio tailored for next-generation electric vehicle architecture and hybrid transmission assemblies. The plant will heavily integrate advanced body shop automation and press line technologies to support rigorous lightweight platform requirements.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2023-honda-crv-exl-125-647e04f956045.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "BYD Unveils Yangwang Altior Flagship EV Sedan on Advanced Skateboard Platform",
-      "url": "https://www.caranddriver.com/news/a74377991/byd-yangwang-altior-ev-revealed/",
-      "summary": "The newly introduced Yangwang Altior leverages a rigid skateboard architecture optimized for high-capacity battery pack structural integration. Its massive proportions showcase advanced torsional rigidity and tailored load-path distribution designed to protect the underfloor energy storage enclosure.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/e5e32d55-d367-4eb6-a56a-e768624491a7.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "UK Implements Euro 7 Regulations Targeting Brake Particulate and Tire Wear",
+      "title": "Euro 7 Regulations Impose Strict Structural Durability Standards on Brake and Chassis Components",
       "url": "https://www.autocar.co.uk/car-news/technology/new-emissions-rules-month-target-brake-dust-and-tyre-wear",
-      "summary": "The upcoming Euro 7 mandates introduce stringent limits on non-exhaust emissions, forcing automotive structural and materials engineers to redesign braking systems and wheel assemblies. Manufacturers must innovate with novel friction materials and optimized thermal dissipation designs to comply with these environmental standards.",
+      "summary": "The implementation of Euro 7 emissions standards introduces mandatory limitations on non-exhaust particulate emissions from brake pads and discs. Automotive materials engineers must redesign friction interfaces and thermal management shielding to comply with lower wear rates.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/zfa_img_pc_exhibit_prod_img_gpid-0082_asi-02603_002197_dtec_euro7_rgb_202610.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Jaguar Land Rover Restores Physical Controls Following Ergonomic Review",
-      "url": "https://www.carsuk.net/jaguar-land-rover-sees-sense-and-brings-back-some-physical-controls-for-the-range-rover/",
-      "summary": "JLR is updating its interior cockpit architecture by reintegrating tactile physical switches into the center console of the Range Rover. This ergonomic pivot addresses human-machine interface feedback limitations associated with fully digitized dashboard assemblies.",
-      "image_url": "tata-sierra-ev.jpg",
+      "title": "Polestar Formula 2030 Concept Showcases Lightweight Composite Monocoque Technologies",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/polestar%E2%80%99s-future-radical-coup%C3%A9-shows-sporting-ambitions",
+      "summary": "Polestar's Formula 2030 concept introduces a radical racing-inspired framework that previews upcoming production monocoque architectures. The design focuses on extreme weight reduction and high-stiffness structural topologies for high-performance electric powertrains.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/polestar-formula-2030-exterior_24.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Rolls-Royce Spectre Aluminum Spaceframe and Battery Integration Analysis",
+      "url": "https://www.autocar.co.uk/car-review/rolls-royce/spectre",
+      "summary": "The Rolls-Royce Spectre utilizes an extruded aluminum spaceframe architecture designed specifically for battery-electric propulsion. Integrating the structural battery pack into the floorpan increases torsional rigidity significantly compared to legacy internal combustion platforms.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/rolls-royce-spectre-series-ii-review-2026-018.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "BMW i3 Eighth-Generation Cluster Architecture and Chassis Hardpoint Optimization",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-bmw-i3-rated-ev-goes-straight-top-class",
+      "summary": "The new electric BMW 3 Series leverages a highly flexible multi-energy cluster architecture with reinforced subframes and localized hot-formed steel reinforcements. These body-in-white enhancements manage harsh impact loads while optimizing the primary suspension kinematics.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_i3_lead.jpg",
       "category": "Structural Engineering"
     }
   ]
