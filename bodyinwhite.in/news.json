@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "India-Made Renault Kiger Achieves 4-Star Global NCAP Crashworthiness Rating",
-      "url": "https://www.rushlane.com/india-made-renault-kiger-improves-safety-rating-4-star-gncap-12560883.html",
-      "summary": "The Renault Kiger has significantly improved its structural safety performance, upgrading from a 2-star to a 4-star Global NCAP rating. This enhancement reflects vital improvements in occupant protection and body shell integrity during frontal and side impact crash deformations.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-renault-kiger-facelift-global-ncap-crash-test-5.jpg",
+      "title": "Scout Commences Validation Prototype Assembly for Terra and Traveler at South Carolina Plant",
+      "url": "https://www.motor1.com/news/815073/scout-builds-terra-traveler-prototypes-factory/",
+      "summary": "Scout Motors has officially initiated validation builds for its new Terra pickup and Traveler SUV platforms at its advanced Blythewood facility. This critical phase tests the structural integrity, body architecture, and production readiness of the vehicle skeletons before high-volume commercial output begins.",
+      "image_url": "https://cdn.motor1.com/images/mgl/ZnlLL3/s3/scout-motors-first-validation-prototypes.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "KTM X-Bow Arrow Lightweight Tubular Chassis and Audi Powertrain Integration",
-      "url": "https://www.caranddriver.com/news/a74403060/ktm-x-bow-arrow-sxs-audi-engine-revealed/",
-      "summary": "Austrian lightweight specialist KTM has revealed its new side-by-side platform, combining an ultra-light tubular spaceframe chassis with a rigid suspension setup. The vehicle's architecture is engineered to handle high torsional loads while accommodating a robust Audi-sourced turbo four powertrain.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/c922c9ed-4ab7-47a9-939c-f7d28a22fc4d.png",
+      "title": "Tesla Extends Stainless Steel Exoskeleton Production for Cybertruck Until Late 2027",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/lifeline-cybertruck-tesla-extends-production-fulfil-orders",
+      "summary": "Tesla has prolonged the manufacturing lifecycle of the Cybertruck to satisfy existing order backlogs. The vehicle's unconventional cold-rolled stainless steel outer skin and structural load-bearing exoskeleton continue to provide unique manufacturing and body assembly insights for automotive engineers.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/aw606551.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mercedes-AMG GT 63 SUV Platform Architecture and Mass Management",
-      "url": "https://www.autocar.co.uk/car-news/features/amg-hyper-SUV-driven-1153bhp-cayenne-chaser-breaks-rules-physics",
-      "summary": "The independently developed Mercedes-AMG GT 63 SUV utilizes a heavily reinforced multi-material chassis to manage its substantial 2.7-tonne mass and tri-motor electric layout. Structural engineers deployed advanced load paths and stiffened subframes to maintain dynamic rigidity under extreme torque loads.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/mercedes_media_ceo_event_immendingen_2026_driving_landscape_175_1.jpg",
+      "title": "Ergonomic Body Engineering Evaluation: The Structural Debate Over Motorized Doors",
+      "url": "https://www.autocar.co.uk/opinion/technology/when-luxury-goes-too-far-do-cars-really-need-motorised-doors",
+      "summary": "An analysis of luxury vehicle body hardware highlights the engineering trade-offs of integrating heavy automated actuators into door structures. Designers must weigh occupant convenience against added parasitic mass and complex wiring harnesses within the side-impact intrusion beams.",
+      "image_url": "Lightweight-Materials.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Genesis GV90 Monocoque Platform Patented for Upcoming EV Architecture",
-      "url": "https://www.rushlane.com/hyundai-genesis-gv90-luxury-suv-patented-in-india-launch-in-2027-12560915.html",
-      "summary": "Hyundai has officially patented the flagship Genesis GV90 luxury electric SUV structure in international markets, highlighting its skateboard EV platform. The architecture integrates heavy battery structural enclosures to enhance torsional rigidity and cabin crash deformation resistance.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/hyundai-genesis-gv90-patented-in-india-1.jpg",
+      "title": "JLR and BYD Legal Dispute Highlights Sensitive Body-in-White Intellectual Property",
+      "url": "https://www.rushlane.com/court-orders-jaguar-land-rover-to-destroy-seized-byd-files-12561001.html",
+      "summary": "The Hague court has addressed intellectual property matters involving Jaguar Land Rover and BYD regarding exterior styling and structural proportions. Such legal battles underscore the high stakes involved in protecting proprietary stamping profiles and body surfacing geometry in modern SUVs.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/byd-jlr-defender-court-case-ti7-2.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hero Vida NEX 3 Micro-EV Spaceframe Architecture and Gullwing Door Integration",
-      "url": "https://www.rushlane.com/hero-vida-nex-3-electric-car-patented-with-gullwing-door-12560840.html",
-      "summary": "Hero MotoCorp has patented the Vida NEX 3 micro electric vehicle featuring a compact spaceframe configuration adapted for gullwing doors. Designing access apertures with unconventional swing mechanisms requires specialized pillar reinforcements and roof rail load-bearing nodes to preserve structural stiffness.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/hero-vida-nex-3-patented-in-india-cover.jpg",
+      "title": "Kia Announces USD 2 Billion Investment for New Manufacturing Plant Infrastructure in Anantapur",
+      "url": "https://www.rushlane.com/kia-india-announces-second-plant-in-anantapur-usd-2-billion-12560976.html",
+      "summary": "Kia India is expanding its manufacturing footprint by establishing a second production facility featuring advanced press shops and automated body-in-white welding lines. The massive capital injection will integrate cutting-edge robotics to support higher structural precision and increased annual vehicle output.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2024/06/kia-india-plant-production-exports-1.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Rolls-Royce Spectre Aluminum Spaceframe Architecture and Battery Integration",
-      "url": "https://www.autocar.co.uk/car-review/rolls-royce/spectre",
-      "summary": "The Rolls-Royce Spectre relies on an advanced all-aluminum spaceframe architecture that integrates the heavy high-voltage battery pack as a core structural element. This bonded and riveted multi-material chassis achieves exceptional torsional rigidity while effectively managing the vehicle's immense gross mass.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/rolls-royce-spectre-series-ii-review-2026-080_1.jpg",
+      "title": "Scout Motors Advances Body-in-White Validation for New Platform Architectures",
+      "url": "https://www.caranddriver.com/news/a74414897/scout-motors-starts-building-real-vehicles/",
+      "summary": "The Volkswagen-backed brand is moving rapidly toward series production by evaluating initial structural prototypes at its South Carolina facility. Early body builds are crucial for validating torsional rigidity, crash energy management paths, and chassis mounting points.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/scout-terra-and-traveler-concepts-1-671a962195ac2.jpg",
       "category": "Structural Engineering"
     }
   ]
