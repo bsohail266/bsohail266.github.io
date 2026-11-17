@@ -1,45 +1,44 @@
 {
   "biw_news": [
     {
-      "title": "Carbon Fiber Monocoque and Advanced Aerodynamics in the Audi Nuvolari",
-      "url": "https://www.motor1.com/news/815292/audi-nuvolari-lamborghini-temerario-price-difference/",
-      "summary": "The Audi Nuvolari features an advanced carbon fiber body architecture paired with F1-inspired aerodynamics. This lightweight material strategy significantly enhances structural rigidity while optimizing the vehicle's overall power-to-weight ratio.",
-      "image_url": "https://cdn.motor1.com/images/mgl/E6NRgR/s3/audi-nuvolari-first-drive-review.jpg",
+      "title": "Aston Martin Valhalla Spider: Monocoque Structural Torsional Rigidity and Open-Top Packaging",
+      "url": "https://www.carsuk.net/aston-martin-valhalla-spider-astons-hypercar-loses-its-roof-video/",
+      "summary": "Adapting the mid-engine hybrid hypercar to an open-cockpit architecture requires targeted structural reinforcements to the carbon-fiber monocoque tub. Engineers preserved torsional stiffness and passive crash safety without adding substantial curb weight, counterbalancing the absence of a fixed roof structure. The revised upper body panels and aero packaging further accommodate modified rollover protection structures and airflow management.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Aston-Martin-Valhalla-Spider-Front-W-590x342.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Sanrivatti One Lightweight V-10 Hypercar Architecture and Structural Layout",
-      "url": "https://www.caranddriver.com/news/a74426482/sanrivatii-one-motorcycle-hypercar-revealed/",
-      "summary": "The Sanrivatti One utilizes a dedicated lightweight chassis design, achieving a dry weight of 2425 pounds through advanced composite materials. Its central cockpit layout is engineered to maximize structural torsional rigidity and crash occupant kinematics.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/7fdc52ba-2703-4c2c-a627-acfa148b4c57.jpg",
+      "title": "Novitec Ferrari 12Cilindri: Lightweight Carbon-Fiber Composite Aerodynamic Body Components",
+      "url": "https://www.motor1.com/news/815651/novitec-ferrari-12cilindri-body-kit/",
+      "summary": "Novitec has introduced autoclave-cured carbon-fiber composite body components designed for the Ferrari 12Cilindri's aluminum spaceframe structure. The widening fenders and aerodynamic add-ons reduce lift without compromising vehicle balance or panel fitment tolerances. The integration demonstrates precision joining and surface finish requirements for high-performance composite exterior skinning.",
+      "image_url": "https://cdn.motor1.com/images/mgl/1ZPj8L/s3/novitec-ferrari-12cilindri.jpg"
+    },
+    {
+      "title": "Next-Gen EV Battery Architecture: Structural Enclosures and Sustainable Cell Integration",
+      "url": "https://www.autocar.co.uk/car-news/electric-cars/sustainability-key-next-wave-electric-car-battery-innovation",
+      "summary": "Automakers are advancing battery design toward cell-to-pack and sustainable cell integration while optimizing structural crashworthiness. Battery enclosures increasingly double as lower floor structural shear panels, requiring advanced aluminum extrusions, sealants, and fire barriers. These innovations ensure high volumetric efficiency and severe side-pole impact mitigation alongside recyclability initiatives.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_gen6_battery.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Hot Wheels Legends Winner Combines Corvette Chassis and Custom Widebody",
-      "url": "https://www.caranddriver.com/news/a74427363/1979-ss-monte-mino-2026-hot-wheels-legends-tour-winner/",
-      "summary": "This custom build integrates a high-performance Corvette chassis with a modified El Camino body shell and custom widebody architecture. The engineering approach highlights complex structural fabrication, chassis donor integration, and custom frame reinforcement.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2479e4b5-6032-4676-8198-fbe71e7e1871.jpeg",
+      "title": "BMW Neue Klasse Architecture: Quad-Motor High-Stiffness Chassis and Powertrain Integration",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-m3-ev-prototype-driven-its-worlds-best-drivers-ev",
+      "summary": "BMW's prototype electric M3 highlights the structural capabilities of its dedicated Neue Klasse EV platform, engineered to support extreme torsional loads from quad-motor torque vectoring. Reinforced subframe mounting points and an integrated structural battery enclosure provide high body rigidity essential for track dynamics. The architecture balances crash structure energy dissipation in frontal zones with low-slung, stiffened battery pack containment.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-review-2026-040.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "JLR Confirms Electric Defender Sport Production Architecture for 2027",
-      "url": "https://www.autocar.co.uk/car-news/electric-cars/official-jlr-confirms-electric-defender-sport-launch-2027",
-      "summary": "JLR has confirmed that the upcoming electric Defender Sport will enter production on Merseyside by late 2027. The vehicle will utilize a dedicated EV platform architecture optimized for battery pack structural integration and off-road chassis durability.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/land-rover-defender-sport-render-2026.jpg",
+      "title": "REO T4X Utility Platform: Cost-Optimized Modular Body-on-Frame Architecture",
+      "url": "https://www.caranddriver.com/news/a74435376/reo-trucks-runabout-t4x-t4c-s4c-revealed/",
+      "summary": "The newly revealed REO T4X showcases a simplified body-on-frame modular truck architecture engineered to minimize tooling overhead and assembly complexity. The steel ladder frame platform accommodates multiple cab geometries, including single-cab, dual-cab, and SUV body variants, sharing common structural crossmembers and floor pans. This modular stamped-steel construction delivers high payload capability while significantly lowering BIW capital expenditure.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/089818af-d30e-48d8-a1e7-bf8e94cdb440.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volvo XC90 T8 Long Range PHEV Platform and Structural Enclosure Updates",
-      "url": "https://www.carsuk.net/new-volvo-xc90-t8-long-range-phev-has-a-massive-100-mile-ev-range-costs-from-75765/",
-      "summary": "The updated Volvo XC90 PHEV integrates a substantially enlarged energy storage system, requiring modifications to the underfloor structural tray and crash protection margins. These chassis enhancements maintain occupant safety standards while accommodating increased battery mass.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Polestar Formula 2030 Concept Previews Next-Generation EV Spaceframe",
-      "url": "https://www.carsuk.net/polestar-formula-2030-concept-previews-polestars-future-and-the-front-of-the-next-polestar-2/",
-      "summary": "The Polestar Formula 2030 Concept showcases advanced design language and structural styling cues for upcoming vehicle architectures. The study previews the structural nose profile and aerodynamic integration planned for the next-generation Polestar 2 platform.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Polestar-Formula-2030-Concept-Front-W-590x324.webp",
+      "title": "Alpine A290 AWD Upgrade: AmpR Small Platform Rear Subframe and Multi-Link Packaging",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/2027-alpine-a290-line-range-boost-and-296bhp-awd-variant",
+      "summary": "Alpine is re-engineering the AmpR Small platform to accommodate a high-output dual-motor all-wheel-drive powertrain, necessitating revisions to the rear floorpan and subframe geometry. The integration requires precise structural packaging to house the rear electric drive unit without compromising boot capacity or suspension hardpoints. Structural reinforcements around the rear axle ensure optimal load transfer and dynamic stability under 296 bhp torque demands.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/alpine_a290_gt-x_4wd_render_2026_2.jpg",
       "category": "Structural Engineering"
     }
   ]
