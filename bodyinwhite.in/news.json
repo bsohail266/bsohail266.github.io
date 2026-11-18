@@ -1,44 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Aston Martin Valhalla Spider: Monocoque Structural Torsional Rigidity and Open-Top Packaging",
-      "url": "https://www.carsuk.net/aston-martin-valhalla-spider-astons-hypercar-loses-its-roof-video/",
-      "summary": "Adapting the mid-engine hybrid hypercar to an open-cockpit architecture requires targeted structural reinforcements to the carbon-fiber monocoque tub. Engineers preserved torsional stiffness and passive crash safety without adding substantial curb weight, counterbalancing the absence of a fixed roof structure. The revised upper body panels and aero packaging further accommodate modified rollover protection structures and airflow management.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/10/Aston-Martin-Valhalla-Spider-Front-W-590x342.webp",
+      "title": "Nissan Innovates Natural Fiber-Reinforced Composite Body Panels Using Pineapple Leaves",
+      "url": "https://www.motor1.com/news/815733/nissan-pineapple-leaf-composite-panel/",
+      "summary": "Nissan has successfully converted discarded pineapple-leaf fibers into woven fabric and flat yarn to produce advanced natural fiber-reinforced composite exterior body panels. This material innovation reduces component weight while maintaining structural rigidity for automotive exterior applications.",
+      "image_url": "https://cdn.motor1.com/images/mgl/rK6kO1/s3/nissan-natural-fiber-reinforced-plastic-exterior-body-panels.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Novitec Ferrari 12Cilindri: Lightweight Carbon-Fiber Composite Aerodynamic Body Components",
-      "url": "https://www.motor1.com/news/815651/novitec-ferrari-12cilindri-body-kit/",
-      "summary": "Novitec has introduced autoclave-cured carbon-fiber composite body components designed for the Ferrari 12Cilindri's aluminum spaceframe structure. The widening fenders and aerodynamic add-ons reduce lift without compromising vehicle balance or panel fitment tolerances. The integration demonstrates precision joining and surface finish requirements for high-performance composite exterior skinning.",
-      "image_url": "https://cdn.motor1.com/images/mgl/1ZPj8L/s3/novitec-ferrari-12cilindri.jpg"
+      "title": "Mahindra XEV 9S Achieves Five-Star Bharat NCAP Safety Rating with Landmark Structural Performance",
+      "url": "https://www.rushlane.com/mahindra-xev-9s-gets-5-star-bharat-ncap-safety-rating-highest-scoring-7-seater-12561353.html",
+      "summary": "The Mahindra XEV 9S has secured a five-star Bharat NCAP rating, emerging as the highest-scoring seven-seater vehicle evaluated to date. This milestone underscores advanced crashworthiness, optimized load paths, and robust occupant protection across its body-in-white architecture.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/mahindra-xev-9s-5-star-bharat-ncap-safety-rating-6.png.jpg",
+      "category": "Structural Engineering"
     },
     {
-      "title": "Next-Gen EV Battery Architecture: Structural Enclosures and Sustainable Cell Integration",
+      "title": "Advanced Battery Cathode Recycling Milestone Reached in Sustainable EV Manufacturing",
       "url": "https://www.autocar.co.uk/car-news/electric-cars/sustainability-key-next-wave-electric-car-battery-innovation",
-      "summary": "Automakers are advancing battery design toward cell-to-pack and sustainable cell integration while optimizing structural crashworthiness. Battery enclosures increasingly double as lower floor structural shear panels, requiring advanced aluminum extrusions, sealants, and fire barriers. These innovations ensure high volumetric efficiency and severe side-pole impact mitigation alongside recyclability initiatives.",
+      "summary": "Automotive manufacturers are advancing closed-loop circularity by successfully synthesizing active cathode materials from recycled battery cells. This process maintains structural and electrochemical integrity while significantly lowering the carbon footprint of future vehicle architectures.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_gen6_battery.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Neue Klasse Architecture: Quad-Motor High-Stiffness Chassis and Powertrain Integration",
+      "title": "BMW M3 EV Prototype Quad-Motor Integration and Skateboard Chassis Evaluation",
       "url": "https://www.autocar.co.uk/car-news/new-cars/bmw-m3-ev-prototype-driven-its-worlds-best-drivers-ev",
-      "summary": "BMW's prototype electric M3 highlights the structural capabilities of its dedicated Neue Klasse EV platform, engineered to support extreme torsional loads from quad-motor torque vectoring. Reinforced subframe mounting points and an integrated structural battery enclosure provide high body rigidity essential for track dynamics. The architecture balances crash structure energy dissipation in frontal zones with low-slung, stiffened battery pack containment.",
+      "summary": "Testing of the new quad-motor BMW M3 EV prototype at Miramas demonstrates how distributed electric propulsion interacts with specialized suspension hardpoints and structural subframes. The layout showcases advanced torque vectoring capabilities tailored for high-performance skateboard architectures.",
       "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw-m3-review-2026-040.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "REO T4X Utility Platform: Cost-Optimized Modular Body-on-Frame Architecture",
-      "url": "https://www.caranddriver.com/news/a74435376/reo-trucks-runabout-t4x-t4c-s4c-revealed/",
-      "summary": "The newly revealed REO T4X showcases a simplified body-on-frame modular truck architecture engineered to minimize tooling overhead and assembly complexity. The steel ladder frame platform accommodates multiple cab geometries, including single-cab, dual-cab, and SUV body variants, sharing common structural crossmembers and floor pans. This modular stamped-steel construction delivers high payload capability while significantly lowering BIW capital expenditure.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/089818af-d30e-48d8-a1e7-bf8e94cdb440.jpg",
+      "title": "Jeep Recon Electric Architecture and Off-Road Structural Battery Enclosure Design",
+      "url": "https://www.caranddriver.com/features/a74282517/born-for-the-dirt-how-the-all-new-jeep-recon-takes-trail-rated-capability-electric/",
+      "summary": "The all-electric Jeep Recon features a heavily reinforced structural battery enclosure designed to withstand severe torsional loads and rock impacts during extreme off-road articulation. Its heavy-duty skid plates and frame-integrated shielding highlight robust chassis protection strategies.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/9de17494-a582-4da0-9d78-5efa38559ac8.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Alpine A290 AWD Upgrade: AmpR Small Platform Rear Subframe and Multi-Link Packaging",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/2027-alpine-a290-line-range-boost-and-296bhp-awd-variant",
-      "summary": "Alpine is re-engineering the AmpR Small platform to accommodate a high-output dual-motor all-wheel-drive powertrain, necessitating revisions to the rear floorpan and subframe geometry. The integration requires precise structural packaging to house the rear electric drive unit without compromising boot capacity or suspension hardpoints. Structural reinforcements around the rear axle ensure optimal load transfer and dynamic stability under 296 bhp torque demands.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/alpine_a290_gt-x_4wd_render_2026_2.jpg",
+      "title": "BMW Issues Major Recall Over Water Pump Electrical Connector Short Circuit Risks",
+      "url": "https://www.caranddriver.com/news/a74453916/bmw-park-outside-water-pump-fire-risk-recall/",
+      "summary": "BMW has issued a critical safety recall affecting over 720,000 vehicles due to potential thermal events caused by electrical connector short circuits in the auxiliary water pump. The structural and thermal containment measures are being evaluated to prevent localized fire hazards.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/2018-bmw-x5-111-1528395665.jpg",
       "category": "Structural Engineering"
     }
   ]
