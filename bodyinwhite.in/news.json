@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Extreme VW Polo ID GTI Track Variant Features Lightweight Stiffened Body Architecture",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/clubsport-goes-electric-extreme-vw-polo-id-gti-packs-362bhp",
-      "summary": "Volkswagen has developed a track-focused electric hot hatch utilizing a significantly lightened and structurally stiffened two-seat chassis. The modified body-in-white layout optimizes torsional rigidity to handle 362bhp while maintaining high structural crash performance.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/db2026au01246.jpg",
+      "title": "Ferrari 296 Challenge Stradale Achieves Massive Weight Reduction via Race-Derived Chassis Architecture",
+      "url": "https://www.motor1.com/news/816314/ferrari-296-challenge-stradale-first-look-debut/",
+      "summary": "Ferrari's latest track-focused variant strips out the hybrid system and heavily optimizes its composite and aluminum structural framework to achieve exceptional power-to-weight ratios. The chassis engineering incorporates race-bred reinforcement strategies to handle immense downforce loads without structural compromise.",
+      "image_url": "https://cdn.motor1.com/images/mgl/g42rPw/s3/ferrari-296-challenge-stradale.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Genesis X Skorpio Desert Runner Integrates High-Strength Tubular Spaceframe Chassis",
+      "title": "VW ID.Polo GTI Clubsport Concept Implements Integrated Roll-Cage and Stiffened Track-Ready Monocoque",
+      "url": "https://www.caranddriver.com/news/a74494145/volkswagen-id-polo-gti-clubsport-concept-revealed/",
+      "summary": "Volkswagen Motorsport transforms the standard EV platform into a rigid track weapon by welding an integrated roll cage directly into the structural safety cell. The architecture features extensive chassis bracing and lightweight composite bulkheads to maximize torsional rigidity under extreme cornering loads.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/d522bbaa-82f3-4879-a74e-30c94078236f.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Genesis X Skorpio Desert Runner Engineered with Heavy-Duty Off-Road Tubular Spaceframe Chassis",
       "url": "https://www.caranddriver.com/news/a74493811/genesis-x-skorpio-production-plans/",
-      "summary": "The 1100-horsepower Genesis trophy truck relies on a heavily reinforced tubular spaceframe structure designed to absorb extreme off-road impact loads. Its chassis architecture balances high-tensile steel framing with advanced energy-dissipating crash paths for severe terrain.",
+      "summary": "This high-performance trophy truck concept utilizes a bespoke tubular spaceframe chassis designed to endure high-amplitude impact loads and severe off-road torsion. The structural layout integrates specialized long-travel suspension hardpoints and reinforced subframe junctions to manage extreme dynamic forces.",
       "image_url": "https://hips.hearstapps.com/hmg-prod/images/04-x-skorpio-concept-exterior-69787258e58a7.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Polestar Formula 2030 Concept Previews Next-Gen Composite Monocoque Layouts",
+      "title": "New Ferrari 296 CS Focuses on Lightweight Construction and Pure ICE Structural Packaging",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-ferrari-296-cs-%C2%A3260k-lightweight-661bhp-and-no-hybrid",
+      "summary": "By omitting the heavy hybrid battery array and electric drive units, engineers reconfigured the center tunnel and rear bulkhead packaging to optimize weight distribution. The resulting monocoque configuration benefits from enhanced structural efficiency and localized composite reinforcements.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari_20261121_pic_16_9_009_1024x768.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Polestar Formula 2030 Concept Previews Next-Generation EV Skateboard Platform Architecture",
       "url": "https://www.carsuk.net/polestar-formula-2030-concept-previews-polestars-future-and-the-front-of-the-next-polestar-2/",
-      "summary": "Polestar's latest design study highlights future aerodynamic and lightweight structural methodologies for upcoming vehicle architectures. The concept leverages advanced composite skin integration to reduce structural mass while maximizing structural safety margins.",
+      "summary": "Polestar's latest concept showcases advanced cell-to-body structural integration methodologies designed to increase torsional stiffness while reducing overall vehicle mass. The platform architecture highlights futuristic front-end crumple zones and optimized extrusion layouts for future EV models.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Polestar-Formula-2030-Concept-Front-W-590x324.webp",
       "category": "Structural Engineering"
     },
     {
-      "title": "Honda Avancier SUV Unveils Modular Platform with Optimized Hybrid Battery Enclosure Integration",
-      "url": "https://www.rushlane.com/new-honda-avancier-suv-debuts-next-gen-hybrid-electric-awd-7-seater-12561650.html",
-      "summary": "Honda's newly developed modular platform integrates a rigid structural battery tray to enhance floorpan torsional stiffness in its three-row hybrid SUV layout. This skateboard-derived integration strategy improves overall monocoque crash energy management and side-impact resistance.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/New-Honda-Avancier-SUV-Debuts-2.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Japan Automakers Form Chassis and Platform Standardization Alliance to Offset Production Costs",
-      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-      "summary": "Toyota, Nissan, and Honda are pooling resources to standardize core structural components, subframes, and platform architectures. This strategic manufacturing partnership targets streamlined press stamping lines and shared modular hardpoints to reduce body-in-white tooling expenses.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "BYD Fang Cheng Bao Ti 9 Flagship SUV Features Advanced Skateboard Chassis and Rigid Battery Tray",
-      "url": "https://www.rushlane.com/byd-ti-9-suv-launched-with-folding-steering-wheel-12561661.html",
-      "summary": "The new Fang Cheng Bao flagship utilizes a high-rigidity cell-to-body chassis structure built to handle heavy plug-in hybrid loads and extended range demands. The platform relies on robust subframe assemblies and hot-formed steel reinforcements to guarantee top-tier structural crashworthiness.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/byd-suv-foldable-steering-launch-price.jpg",
+      "title": "Volvo XC90 T8 Long Range PHEV Integrates Heavy-Duty Battery Enclosure into Platform Structure",
+      "url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
+      "summary": "The updated platform accommodates a massive high-capacity battery pack through structural floor pan modifications that preserve side-impact crash safety margins. The high-strength steel protective tray acts as a structural shear member, enhancing the overall torsional rigidity of the passenger safety cell.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
       "category": "Structural Engineering"
     }
   ]
