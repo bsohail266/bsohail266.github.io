@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Ferrari 296 Challenge Stradale Chassis Architecture and Lightweight Aerodynamics",
-      "url": "https://www.motor1.com/news/816314/ferrari-296-challenge-stradale-first-look-debut/",
-      "summary": "The lightweight structural architecture incorporates extensive composite and race-derived chassis elements to shed mass while generating 1,360 pounds of downforce. This dedicated performance focus emphasizes high-torsional rigidity and optimized load paths for extreme track applications.",
-      "image_url": "https://cdn.motor1.com/images/mgl/g42rPw/s3/ferrari-296-challenge-stradale.jpg",
+      "title": "McLaren W1 Hypercar Structural Carbon Monocoque and MSO Customization",
+      "url": "https://www.motor1.com/news/816423/mclaren-w1-customer-delivery-japan/",
+      "summary": "The McLaren W1 highlights cutting-edge composite engineering, utilizing an advanced carbon fiber monocoque structure paired with extensive MSO personalization. The vehicle demonstrates state-of-the-art lightweight material application for extreme structural rigidity and crash safety.",
+      "image_url": "https://cdn.motor1.com/images/mgl/W8bWjL/s3/mclaren-w1-first-customer-delivery-in-mantis-green.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volkswagen ID.Polo GTI Clubsport Structural Safety and Integrated Roll-Cage Design",
-      "url": "https://www.caranddriver.com/news/a74494145/volkswagen-id-polo-gti-clubsport-concept-revealed/",
-      "summary": "The track-focused EV concept features a heavily reinforced body shell outfitted with an integrated structural roll bar and multi-point harness mounts. These modifications significantly enhance body-in-white torsional stiffness and occupant crash safety under high-g cornering loads.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/d522bbaa-82f3-4879-a74e-30c94078236f.jpg",
+      "title": "BMW Advances Hydrogen-Combustion Heavy-Duty Commercial Vehicle Chassis Integration",
+      "url": "https://www.autocar.co.uk/opinion/technology/bmw-steps-h2-plans-hydrogen-combustion-lorries",
+      "summary": "BMW is evaluating hydrogen-combustion powertrains within heavy-duty logistics truck chassis, posing unique structural challenges for fuel storage integration. The project requires specialized subframe and packaging modifications to safely house cryogenic or high-pressure H2 tanks within the commercial vehicle architecture.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/h2truck.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ferrari 296 CS Stripped-Out Lightweight Body-In-White and Pure-ICE Integration",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-ferrari-296-cs-%C2%A3260k-lightweight-661bhp-and-no-hybrid",
-      "summary": "By eliminating the heavier plug-in hybrid powertrain, the engineering team optimized weight distribution and reduced overall mass within the central monocoque. The resulting lightweight body construction preserves structural integrity while maximizing dynamic performance.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/ferrari_20261121_pic_16_9_009_1024x768.jpg",
+      "title": "Audi A6 Allroad Steel-Aluminum Hybrid Body Construction and Chassis Rigidity",
+      "url": "https://www.autocar.co.uk/car-review/audi/a6-allroad",
+      "summary": "The Audi A6 Allroad utilizes an optimized multi-material spaceframe combining high-strength hot-formed steels and aluminum structural castings. This careful material mix ensures exceptional torsional rigidity and impact energy absorption while maintaining dynamic off-road performance.",
+      "image_url": "Lightweight-Materials.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Ferrari 296 Challenge Stradale Track-Focused Aerodynamic and Monocoque Rigidity",
-      "url": "https://www.caranddriver.com/news/a74498034/ferrari-296-challenge-stradale-revealed/",
-      "summary": "The removal of the heavy hybrid system required a recalibration of the rear chassis mounting points and subframe geometry. The revised aerodynamic package works in tandem with the carbon-intensive structure to manage high aerodynamic loads effectively.",
-      "image_url": "https://hips.hearstapps.com/hips.hearstapps.com/hmg-prod/images/c1589f2a-4bf4-4398-a24e-18a3c5595df3.jpg",
+      "title": "All-Electric Jeep Recon Structural Battery Pack and Trail-Rated Chassis Protection",
+      "url": "https://www.caranddriver.com/features/a74282517/born-for-the-dirt-how-the-all-new-jeep-recon-takes-trail-rated-capability-electric/",
+      "summary": "The all-electric Jeep Recon incorporates a heavily reinforced structural battery enclosure designed to protect high-voltage cells during extreme off-road articulation. Its skateboard chassis architecture features heavy-duty underbody shielding and integrated subframe reinforcements for maximum structural integrity.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/9de17494-a582-4da0-9d78-5efa38559ac8.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Classic Unveils Rigid E38-Era 1997 M7 Prototype Architecture",
-      "url": "https://www.caranddriver.com/news/a74494451/1997-bmw-m7-prototype-revealed/",
-      "summary": "This rare factory prototype highlights late-90s executive saloon chassis engineering, housing a large-displacement V8 and manual transmission tunnel modifications. The structural layout demonstrates the challenges of reinforcing a luxury steel monocoque for high-output powertrain integration.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/c0a1686f-0c49-4a7d-9ba7-4b093132af4c.png",
+      "title": "Mercedes-Benz GLA EV Skateboard Platform and Crash Load Path Architecture",
+      "url": "https://www.caranddriver.com/reviews/a74423230/2028-mercedes-benz-gla-ev-drive/",
+      "summary": "Sharing its platform lineage with the CLA EV, the new Mercedes-Benz GLA EV utilizes a dedicated electric vehicle skateboard architecture. The body structure is engineered with tailored load paths and advanced crash-management zones to dissipate frontal and lateral impact forces around the battery tray.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/65665e4a-e3c3-4d5f-99e6-6a062f781516.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Polestar Formula 2030 Concept Previews Advanced EV Platform Structural Language",
-      "url": "https://www.carsuk.net/polestar-formula-2030-concept-previews-polestars-future-and-the-next-polestar-2/",
-      "summary": "The futuristic concept showcases advanced skateboard chassis styling cues and aerodynamic front-end integration tailored for next-generation electric architectures. Structural surfacing and thermal management pathways are embedded directly into the forward volume layout.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Polestar-Formula-2030-Concept-Front-W-590x324.webp",
+      "title": "Porsche 718 EV Lightweight Mid-Engine Inspired Battery Packaging and Chassis Dynamics",
+      "url": "https://www.caranddriver.com/porsche/718-ev",
+      "summary": "The upcoming Porsche 718 EV features an innovative 'e-core' battery layout designed to mimic the polar moment of inertia of a traditional mid-engine sports car. Structural engineers have optimized the chassis hardpoints and extrusion layouts to maximize torsional stiffness while keeping overall vehicle mass minimized.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/porsche-e-cayman-6410b6b983924.jpg",
       "category": "Structural Engineering"
     }
   ]
