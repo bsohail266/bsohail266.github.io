@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "McLaren W1 Hypercar Structural Carbon Monocoque and MSO Customization",
-      "url": "https://www.motor1.com/news/816423/mclaren-w1-customer-delivery-japan/",
-      "summary": "The McLaren W1 highlights cutting-edge composite engineering, utilizing an advanced carbon fiber monocoque structure paired with extensive MSO personalization. The vehicle demonstrates state-of-the-art lightweight material application for extreme structural rigidity and crash safety.",
-      "image_url": "https://cdn.motor1.com/images/mgl/W8bWjL/s3/mclaren-w1-first-customer-delivery-in-mantis-green.jpg",
+      "title": "Aerodynamic Optimization of Porsche Active Rear and Trunk Lid Fins for Enhanced High-Speed Cornering Downforce",
+      "url": "https://www.motor1.com/news/816588/porsche-rudder-patent-cornering/",
+      "summary": "Porsche has patented movable aerodynamic fins integrated into the front trunk lid and rear glass. These surfaces actively generate lateral force during track driving to optimize vehicle dynamics and cornering limits.",
+      "image_url": "https://cdn.motor1.com/images/mgl/kolgqN/s3/porsche-911-gt3-rs-manthey.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "BMW Advances Hydrogen-Combustion Heavy-Duty Commercial Vehicle Chassis Integration",
-      "url": "https://www.autocar.co.uk/opinion/technology/bmw-steps-h2-plans-hydrogen-combustion-lorries",
-      "summary": "BMW is evaluating hydrogen-combustion powertrains within heavy-duty logistics truck chassis, posing unique structural challenges for fuel storage integration. The project requires specialized subframe and packaging modifications to safely house cryogenic or high-pressure H2 tanks within the commercial vehicle architecture.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/h2truck.jpg",
+      "title": "Structural Architecture and Rear-Biased Weight Distribution of the 2028 Porsche 718 Boxster EV Prototype",
+      "url": "https://www.caranddriver.com/reviews/a74493752/2028-porsche-718-boxster-ev-prototype-drive/",
+      "summary": "Engineering evaluations of the upcoming 718 Boxster EV reveal a unique battery placement and chassis layout. This architecture mimics mid-engine weight distribution to achieve exceptional dynamic handling characteristics.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0fb0e3ef-0d1c-4a35-bc9c-b9bc958668ae.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Audi A6 Allroad Steel-Aluminum Hybrid Body Construction and Chassis Rigidity",
-      "url": "https://www.autocar.co.uk/car-review/audi/a6-allroad",
-      "summary": "The Audi A6 Allroad utilizes an optimized multi-material spaceframe combining high-strength hot-formed steels and aluminum structural castings. This careful material mix ensures exceptional torsional rigidity and impact energy absorption while maintaining dynamic off-road performance.",
-      "image_url": "Lightweight-Materials.jpg",
+      "title": "Chassis Dynamics and Powertrain Layout of the Electric Porsche 718 Boxster Prototype",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/electric-porsche-718-boxster-driven-forget-flat-six-it-could-be-best-yet",
+      "summary": "Early track tests of the electric 718 Boxster prototype highlight rigorous chassis tuning. The rigid skateboard architecture successfully compensates for battery mass, maintaining true sports car agility.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-boxster-ev-prototype-review-064.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "All-Electric Jeep Recon Structural Battery Pack and Trail-Rated Chassis Protection",
-      "url": "https://www.caranddriver.com/features/a74282517/born-for-the-dirt-how-the-all-new-jeep-recon-takes-trail-rated-capability-electric/",
-      "summary": "The all-electric Jeep Recon incorporates a heavily reinforced structural battery enclosure designed to protect high-voltage cells during extreme off-road articulation. Its skateboard chassis architecture features heavy-duty underbody shielding and integrated subframe reinforcements for maximum structural integrity.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/9de17494-a582-4da0-9d78-5efa38559ac8.jpg",
+      "title": "JSW Motors Establishes Technical Collaboration with ARAI for Combat SUV Structural Certification",
+      "url": "https://www.rushlane.com/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut-12561887.html",
+      "summary": "JSW Motors has partnered with ARAI to cover comprehensive vehicle engineering, battery pack structural integration, and crash safety certification. This MoU sets the stage for the rigorous structural validation of their upcoming SUV.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Mercedes-Benz GLA EV Skateboard Platform and Crash Load Path Architecture",
-      "url": "https://www.caranddriver.com/reviews/a74423230/2028-mercedes-benz-gla-ev-drive/",
-      "summary": "Sharing its platform lineage with the CLA EV, the new Mercedes-Benz GLA EV utilizes a dedicated electric vehicle skateboard architecture. The body structure is engineered with tailored load paths and advanced crash-management zones to dissipate frontal and lateral impact forces around the battery tray.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/65665e4a-e3c3-4d5f-99e6-6a062f781516.jpg",
+      "title": "Platform Strategy and Luxury Positioning of the Second-Generation 2027 BMW X7",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-bmw-x7-rival-range-rover-i6-v8-and-ev-power",
+      "summary": "BMW is preparing an all-new second-generation X7 platform to accommodate flexible ICE and BEV powertrains. The architecture aims to deliver enhanced torsional rigidity and refined NVH performance to challenge top-tier luxury competitors.",
+      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_x7_render_2026-web_1.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Porsche 718 EV Lightweight Mid-Engine Inspired Battery Packaging and Chassis Dynamics",
-      "url": "https://www.caranddriver.com/porsche/718-ev",
-      "summary": "The upcoming Porsche 718 EV features an innovative 'e-core' battery layout designed to mimic the polar moment of inertia of a traditional mid-engine sports car. Structural engineers have optimized the chassis hardpoints and extrusion layouts to maximize torsional stiffness while keeping overall vehicle mass minimized.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/porsche-e-cayman-6410b6b983924.jpg",
+      "title": "Chassis Integration and Long-Range PHEV Powertrain Packaging in the New Volvo XC90 T8",
+      "url": "https://www.carsuk.net/new-volvo-xc90-t8-long-range-phev-has-a-massive-100-mile-ev-range-costs-from-75765/",
+      "summary": "Volvo has updated its flagship SUV platform to accommodate a high-capacity traction battery pack yielding a 100-mile electric range. The structural floorpan modifications maintain cabin integrity while packaging expanded energy storage.",
+      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
       "category": "Structural Engineering"
     }
   ]
