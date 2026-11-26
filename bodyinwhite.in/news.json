@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Aerodynamic Optimization of Porsche Active Rear and Trunk Lid Fins for Enhanced High-Speed Cornering Downforce",
-      "url": "https://www.motor1.com/news/816588/porsche-rudder-patent-cornering/",
-      "summary": "Porsche has patented movable aerodynamic fins integrated into the front trunk lid and rear glass. These surfaces actively generate lateral force during track driving to optimize vehicle dynamics and cornering limits.",
-      "image_url": "https://cdn.motor1.com/images/mgl/kolgqN/s3/porsche-911-gt3-rs-manthey.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Structural Architecture and Rear-Biased Weight Distribution of the 2028 Porsche 718 Boxster EV Prototype",
-      "url": "https://www.caranddriver.com/reviews/a74493752/2028-porsche-718-boxster-ev-prototype-drive/",
-      "summary": "Engineering evaluations of the upcoming 718 Boxster EV reveal a unique battery placement and chassis layout. This architecture mimics mid-engine weight distribution to achieve exceptional dynamic handling characteristics.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/0fb0e3ef-0d1c-4a35-bc9c-b9bc958668ae.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Chassis Dynamics and Powertrain Layout of the Electric Porsche 718 Boxster Prototype",
+      "title": "Lightweight Multi-Material Architecture of the Electric Porsche 718 Boxster",
       "url": "https://www.autocar.co.uk/car-news/new-cars/electric-porsche-718-boxster-driven-forget-flat-six-it-could-be-best-yet",
-      "summary": "Early track tests of the electric 718 Boxster prototype highlight rigorous chassis tuning. The rigid skateboard architecture successfully compensates for battery mass, maintaining true sports car agility.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-boxster-ev-prototype-review-064.jpg",
+      "summary": "Porsche's dedicated electric sports car platform features an advanced lightweight aluminum-intensive body structure designed to offset battery mass. The chassis geometry and structural packaging optimize torsional rigidity and low center of gravity dynamics for high crash safety performance.",
+      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-boxster-ev-prototype-review-064.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "JSW Motors Establishes Technical Collaboration with ARAI for Combat SUV Structural Certification",
-      "url": "https://www.rushlane.com/jsw-motors-signs-mou-with-arai-ahead-of-combat-suv-debut-12561887.html",
-      "summary": "JSW Motors has partnered with ARAI to cover comprehensive vehicle engineering, battery pack structural integration, and crash safety certification. This MoU sets the stage for the rigorous structural validation of their upcoming SUV.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/jsw-motors-arai-partner-combat-suv-specs-india.jpg",
+      "title": "High-Strength Steel and Advanced Stamping in the New Toyota Innova Hycross E85 Platform",
+      "url": "https://www.rushlane.com/toyota-innova-hycross-facelift-e85-flex-fuel-hybrid-launch-price-rs-19.99-L-12561987.html",
+      "summary": "The updated multi-powertrain platform integrates high-tensile hot-stamped steel reinforcements across critical crash-load paths. The structural layout accommodates heavy hybrid battery pack assemblies while maintaining crash energy management standards.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-E85-Flex-Fuel-Hybrid-Launch-Price-Rs-19.99-L-1.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Platform Strategy and Luxury Positioning of the Second-Generation 2027 BMW X7",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-bmw-x7-rival-range-rover-i6-v8-and-ev-power",
-      "summary": "BMW is preparing an all-new second-generation X7 platform to accommodate flexible ICE and BEV powertrains. The architecture aims to deliver enhanced torsional rigidity and refined NVH performance to challenge top-tier luxury competitors.",
-      "image_url": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_x7_render_2026-web_1.jpg",
+      "title": "Skateboard Chassis and Battery Enclosure Design in the Suzuki Ignis EV Monocoque",
+      "url": "https://www.rushlane.com/suzuki-ignis-returns-as-small-electric-car-12561967.html",
+      "summary": "The compact EV employs a dedicated skateboard platform utilizing a structural LFP battery pack enclosure as a primary load-bearing shear member. Laser-welded joints and high-strength cold-rolled steel enhance overall body stiffness within a minimal footprint.",
+      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-suzuki-ignis-electric-ev-debuts-2.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Integration and Long-Range PHEV Powertrain Packaging in the New Volvo XC90 T8",
+      "title": "Volvo XC90 Long Range PHEV Battery Integration and Body Structure Reinforcements",
       "url": "https://www.carsuk.net/new-volvo-xc90-t8-long-range-phev-has-a-massive-100-mile-ev-range-costs-from-75765/",
-      "summary": "Volvo has updated its flagship SUV platform to accommodate a high-capacity traction battery pack yielding a 100-mile electric range. The structural floorpan modifications maintain cabin integrity while packaging expanded energy storage.",
+      "summary": "To house the massive extended-range plug-in hybrid battery pack, Volvo engineers reinforced the central tunnel and underbody crossmembers using boron steel. This modification ensures exceptional occupant protection and preserves torsional rigidity under high side-impact loads.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Structural Rigidity and Off-Road Subframe Engineering in the Bentley Bentayga Variant",
+      "url": "https://www.caranddriver.com/news/a74523301/bentley-confirms-bentayga-off-roader/",
+      "summary": "The upcoming rugged Bentayga variant utilizes heavily reinforced suspension attachment points and specialized subframe mountings to withstand severe cyclic articulation forces. Advanced structural adhesives and hydroformed steel members absorb high-amplitude off-road impact energy.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/bentayga-x-concept-6-697d233e1d3d7.jpeg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "BMW X7 Second-Generation Multi-Material Platform and Spaceframe Development",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-bmw-x7-rival-range-rover-i6-v8-and-ev-power",
+      "summary": "BMW's flagship SUV architecture combines aluminum castings with ultra-high-strength steel (UHSS) pillars to manage heavy multi-powertrain weight distributions. The body-in-white employs advanced joining techniques, including self-piercing riveting and structural bonding, to optimize crash deformation zones.",
+      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_x7_render_2026-web_1.jpg",
       "category": "Structural Engineering"
     }
   ]
