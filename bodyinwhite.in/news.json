@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Lightweight Multi-Material Architecture of the Electric Porsche 718 Boxster",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/electric-porsche-718-boxster-driven-forget-flat-six-it-could-be-best-yet",
-      "summary": "Porsche's dedicated electric sports car platform features an advanced lightweight aluminum-intensive body structure designed to offset battery mass. The chassis geometry and structural packaging optimize torsional rigidity and low center of gravity dynamics for high crash safety performance.",
-      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/porsche-boxster-ev-prototype-review-064.jpg",
+      "title": "Advanced Composite Aerodynamics and Structural Layout in the Toyota Hyper Z Prototype",
+      "url": "https://www.caranddriver.com/news/a74535578/toyota-hyper-z-prototype-specs-details/",
+      "summary": "This one-off prototype highlights extreme structural customization, utilizing specialized aerodynamic wings integrated directly into the rear load-bed architecture. The engineering approach emphasizes lightweight material optimization and high-downforce body profiling for extreme performance applications.",
+      "image_url": "Revolution-Body-Battery-Engineering.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "High-Strength Steel and Advanced Stamping in the New Toyota Innova Hycross E85 Platform",
-      "url": "https://www.rushlane.com/toyota-innova-hycross-facelift-e85-flex-fuel-hybrid-launch-price-rs-19.99-L-12561987.html",
-      "summary": "The updated multi-powertrain platform integrates high-tensile hot-stamped steel reinforcements across critical crash-load paths. The structural layout accommodates heavy hybrid battery pack assemblies while maintaining crash energy management standards.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/Toyota-Innova-Hycross-Facelift-E85-Flex-Fuel-Hybrid-Launch-Price-Rs-19.99-L-1.jpg",
+      "title": "Chassis Rigidity and Multi-Material Spaceframe Dynamics in the Ford GT41 Le Mans Hypercar",
+      "url": "https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/",
+      "summary": "The Ford GT41 utilizes an ultra-rigid motorsport spaceframe architecture designed to withstand extreme torsional loads during endurance racing. Its structural layout integrates advanced lightweight composites and high-strength metal alloys to maximize crashworthiness and platform stiffness.",
+      "image_url": "https://cdn.motor1.com/images/mgl/1ZPOjq/s3/ford-gt41-hypercar.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Skateboard Chassis and Battery Enclosure Design in the Suzuki Ignis EV Monocoque",
-      "url": "https://www.rushlane.com/suzuki-ignis-returns-as-small-electric-car-12561967.html",
-      "summary": "The compact EV employs a dedicated skateboard platform utilizing a structural LFP battery pack enclosure as a primary load-bearing shear member. Laser-welded joints and high-strength cold-rolled steel enhance overall body stiffness within a minimal footprint.",
-      "image_url": "https://www.rushlane.com/wp-content/uploads/2026/11/new-suzuki-ignis-electric-ev-debuts-2.jpg",
+      "title": "Sonderwunsch Lightweight Monocoque and Track-Focused Aero Integration on the Porsche 911 GT3 Tribute",
+      "url": "https://www.motor1.com/news/816889/porsche-911-gt3-tribute-gt1/",
+      "summary": "Porsche's Sonderwunsch division showcases advanced body panel modifications and aerodynamic enhancements on a high-strength steel-aluminum hybrid monocoque. The build reflects rigorous attention to weight reduction and structural balance inspired by legendary GT racing regulations.",
+      "image_url": "https://cdn.motor1.com/images/mgl/qk8PER/s3/porsche-911-gt3-tribute-to-911-gt1.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Volvo XC90 Long Range PHEV Battery Integration and Body Structure Reinforcements",
+      "title": "Structural Re-Engineering of the TVR Griffith at the Hethet Production Facility",
+      "url": "https://www.autocar.co.uk/car-news/new-cars/exclusive-tvr-rebirth-back-new-owner-prepares-build-griffith-lotus-factory",
+      "summary": "The revived TVR Griffith production program relies on bonded composite chassis technology and tubular steel framework. Manufacturing at the Lotus facility leverages advanced structural bonding and lightweight panel assembly techniques to ensure optimal power-to-weight ratios.",
+      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/tvr_hethel_nov_27th.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Skateboard Platform Integration and Battery Enclosure Rigidity in the Mazda CX-6e EV",
+      "url": "https://www.autocar.co.uk/car-review/mazda/cx-6e",
+      "summary": "Mazda's mid-sized electric SUV platform incorporates a dedicated battery pack structural enclosure that acts as a primary load-bearing shear member. This cell-to-chassis integration approach enhances overall torsional rigidity while optimizing crash energy management pathways.",
+      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/dls07256.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Platform Architecture and High-Voltage Battery Tray Integration in the Volvo XC90 T8 Long Range PHEV",
       "url": "https://www.carsuk.net/new-volvo-xc90-t8-long-range-phev-has-a-massive-100-mile-ev-range-costs-from-75765/",
-      "summary": "To house the massive extended-range plug-in hybrid battery pack, Volvo engineers reinforced the central tunnel and underbody crossmembers using boron steel. This modification ensures exceptional occupant protection and preserves torsional rigidity under high side-impact loads.",
+      "summary": "Volvo\u2019s updated long-range PHEV platform accommodates an expanded high-voltage battery architecture within a reinforced subframe housing. The chassis design preserves occupant safety cell integrity while supporting increased localized mass and thermal management zones.",
       "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Structural Rigidity and Off-Road Subframe Engineering in the Bentley Bentayga Variant",
-      "url": "https://www.caranddriver.com/news/a74523301/bentley-confirms-bentayga-off-roader/",
-      "summary": "The upcoming rugged Bentayga variant utilizes heavily reinforced suspension attachment points and specialized subframe mountings to withstand severe cyclic articulation forces. Advanced structural adhesives and hydroformed steel members absorb high-amplitude off-road impact energy.",
-      "image_url": "https://hips.hearstapps.com/hmg-prod/images/bentayga-x-concept-6-697d233e1d3d7.jpeg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "BMW X7 Second-Generation Multi-Material Platform and Spaceframe Development",
-      "url": "https://www.autocar.co.uk/car-news/new-cars/new-2027-bmw-x7-rival-range-rover-i6-v8-and-ev-power",
-      "summary": "BMW's flagship SUV architecture combines aluminum castings with ultra-high-strength steel (UHSS) pillars to manage heavy multi-powertrain weight distributions. The body-in-white employs advanced joining techniques, including self-piercing riveting and structural bonding, to optimize crash deformation zones.",
-      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/bmw_x7_render_2026-web_1.jpg",
       "category": "Structural Engineering"
     }
   ]
