@@ -1,45 +1,45 @@
 {
   "biw_news": [
     {
-      "title": "Advanced Composite Aerodynamics and Structural Layout in the Toyota Hyper Z Prototype",
-      "url": "https://www.caranddriver.com/news/a74535578/toyota-hyper-z-prototype-specs-details/",
-      "summary": "This one-off prototype highlights extreme structural customization, utilizing specialized aerodynamic wings integrated directly into the rear load-bed architecture. The engineering approach emphasizes lightweight material optimization and high-downforce body profiling for extreme performance applications.",
-      "image_url": "Revolution-Body-Battery-Engineering.jpg",
+      "title": "Gordon Murray Automotive Teases Structural Platform and Lightweight Architecture for New Supercar",
+      "url": "https://www.motor1.com/news/816978/gordon-murray-next-gma-car/",
+      "summary": "Gordon Murray confirms the development of an entirely fresh GMA vehicle platform focusing on advanced lightweight structural design. The new architecture prioritizes mechanical efficiency and dynamic chassis behavior over headline power outputs.",
+      "image_url": "https://cdn.motor1.com/images/mgl/0egeNV/s3/gordon-murray-automotive-t.50s-niki-lauda-final-testing.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Chassis Rigidity and Multi-Material Spaceframe Dynamics in the Ford GT41 Le Mans Hypercar",
-      "url": "https://www.motor1.com/news/816800/ford-gt41-le-mans-hypercar-debut-bts/",
-      "summary": "The Ford GT41 utilizes an ultra-rigid motorsport spaceframe architecture designed to withstand extreme torsional loads during endurance racing. Its structural layout integrates advanced lightweight composites and high-strength metal alloys to maximize crashworthiness and platform stiffness.",
-      "image_url": "https://cdn.motor1.com/images/mgl/1ZPOjq/s3/ford-gt41-hypercar.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Sonderwunsch Lightweight Monocoque and Track-Focused Aero Integration on the Porsche 911 GT3 Tribute",
-      "url": "https://www.motor1.com/news/816889/porsche-911-gt3-tribute-gt1/",
-      "summary": "Porsche's Sonderwunsch division showcases advanced body panel modifications and aerodynamic enhancements on a high-strength steel-aluminum hybrid monocoque. The build reflects rigorous attention to weight reduction and structural balance inspired by legendary GT racing regulations.",
-      "image_url": "https://cdn.motor1.com/images/mgl/qk8PER/s3/porsche-911-gt3-tribute-to-911-gt1.jpg",
-      "category": "Structural Engineering"
-    },
-    {
-      "title": "Structural Re-Engineering of the TVR Griffith at the Hethet Production Facility",
+      "title": "TVR Partners with Lotus Engineering for Tubular Steel and Composite Chassis Production",
       "url": "https://www.autocar.co.uk/car-news/new-cars/exclusive-tvr-rebirth-back-new-owner-prepares-build-griffith-lotus-factory",
-      "summary": "The revived TVR Griffith production program relies on bonded composite chassis technology and tubular steel framework. Manufacturing at the Lotus facility leverages advanced structural bonding and lightweight panel assembly techniques to ensure optimal power-to-weight ratios.",
+      "summary": "The revived TVR Griffith sports car is set to enter production at the Lotus facility utilizing specialized lightweight manufacturing techniques. The manufacturing partnership leverages advanced bonding and composite body-in-white assembly methods.",
       "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/images/car-reviews/first-drives/legacy/tvr_hethel_nov_27th.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Skateboard Platform Integration and Battery Enclosure Rigidity in the Mazda CX-6e EV",
-      "url": "https://www.autocar.co.uk/car-review/mazda/cx-6e",
-      "summary": "Mazda's mid-sized electric SUV platform incorporates a dedicated battery pack structural enclosure that acts as a primary load-bearing shear member. This cell-to-chassis integration approach enhances overall torsional rigidity while optimizing crash energy management pathways.",
-      "image_url": "https://www.autocar.co.uk/sites/autocar.co.uk/files/styles/car_review_image_190/public/dls07256.jpg",
+      "title": "Ford Performance Unveils GT41 Le Mans Hypercar High-Downforce Carbon Composite Aerostructure",
+      "url": "https://www.caranddriver.com/news/a74523024/ford-gt41-le-mans-hypercar-revealed/",
+      "summary": "Ford's new GT41 racing prototype features an extensive carbon-fiber monocoque designed to withstand extreme aerodynamic loads and torsional stress. The competition chassis incorporates advanced crash-management structures optimized for endurance racing safety.",
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/fc8eb32d-a1a4-48e1-b7a7-cbcfff3f585a.jpg",
       "category": "Structural Engineering"
     },
     {
-      "title": "Platform Architecture and High-Voltage Battery Tray Integration in the Volvo XC90 T8 Long Range PHEV",
-      "url": "https://www.carsuk.net/new-volvo-xc90-t8-long-range-phev-has-a-massive-100-mile-ev-range-costs-from-75765/",
-      "summary": "Volvo\u2019s updated long-range PHEV platform accommodates an expanded high-voltage battery architecture within a reinforced subframe housing. The chassis design preserves occupant safety cell integrity while supporting increased localized mass and thermal management zones.",
-      "image_url": "https://www.carsuk.net/www.carsuk.net/wp-content/uploads/2026/11/Vovlo-XC90-T8-Long-Range-PHEV-W-590x321.webp",
+      "title": "Volvo Integrates Advanced Body Shop Automation and Robotic Fixture Placement in Ghent",
+      "url": "https://www.motor1.com/news/816994/volvo-humanoid-robots-ghent-factory/",
+      "summary": "Volvo is deploying Hexagon AEON humanoid robots into its Ghent plant body shop to optimize structural component handling and fixture verification. This advanced manufacturing automation initiative aims to improve dimensional accuracy in BIW assembly lines.",
+      "image_url": "https://cdn.motor1.com/images/mgl/2N91gp/s3/hexagon-robotics-aeon-robot-in-training-at-volvo-cars-ghent.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Porsche Patents Adaptive Shapeshifting Steering Wheel Assembly with Dynamic Structural Grips",
+      "url": "https://www.motor1.com/news/817004/porsche-shapeshifting-sport-steering-wheel/",
+      "summary": "Porsche has patented an innovative steering wheel architecture utilizing hydraulic actuation to alter cross-sectional grip profiles dynamically. The design maintains driver ergonomics and structural rigidity under high lateral acceleration loads.",
+      "image_url": "https://cdn.motor1.com/images/mgl/7Z1Aqo/s3/porsche-taycan-gts-e-shift-paddles-and-e-shift-mode-switch-2026.jpg",
+      "category": "Structural Engineering"
+    },
+    {
+      "title": "Thermal Management Architecture Redesign for 800V Silicon Carbide EV Platforms",
+      "url": "https://www.automotive-iq.com/thermal-management/articles/800v-sic-thermal-management-explained-why-the-whole-cooling-system-has-to-change?utm_medium=RSS",
+      "summary": "The shift to 800V silicon carbide inverter systems necessitates a comprehensive redesign of electric vehicle battery enclosure cooling architectures. Engineers must adapt structural coolant loops and thermal barriers integrated directly into the chassis floorpan.",
+      "image_url": "tata-sierra-ev.jpg",
       "category": "Structural Engineering"
     }
   ]
